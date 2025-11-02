@@ -1,4 +1,4 @@
-[
+
   {
     "id": 1,
     "type": "noun",
@@ -7,7 +7,26 @@
     "english": "Mother",
     "arabic": "أم",
     "german": "Mutter",
-    "spanish": "Madre"
+    "spanish": "Madre",
+    "russian": "Мать",
+    "japanese": "母",
+    "french": "Mère",
+    "italian": "Madre",
+    "portuguese": "Mãe",
+    "chinese": "母亲",
+    "korean": "어머니",
+    "turkish": "Anne",
+    "dutch": "Moeder",
+    "hindi": "माँ",
+    "indonesian": "Ibu",
+    "swedish": "Mor",
+    "thai": "แม่",
+    "vietnamese": "Mẹ",
+    "polish": "Matka",
+    "ukrainian": "Мати",
+    "farsi": "مادر",
+    "dari": "مادر",
+    "romanian": "Mamă"
   },
   {
     "id": 2,
@@ -17,6 +36,24 @@
     "english": "Father",
     "arabic": "أب",
     "german": "Vater",
-    "spanish": "Padre"
+    "spanish": "Padre",
+    "russian": "Отец",
+    "japanese": "父",
+    "french": "Père",
+    "italian": "Padre",
+    "portuguese": "Pai",
+    "chinese": "父亲",
+    "korean": "아버지",
+    "turkish": "Baba",
+    "dutch": "Vader",
+    "hindi": "पिता",
+    "indonesian": "Ayah",
+    "swedish": "Far",
+    "thai": "พ่อ",
+    "vietnamese": "Cha",
+    "polish": "Ojciec",
+    "ukrainian": "Батько",
+    "farsi": "پدر",
+    "dari": "پدر",
+    "romanian": "Tată"
   }
-]
