@@ -2,7 +2,7 @@
 {
   "id": 476,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Doctor",
   "arabic": "طبيب",
@@ -31,7 +31,7 @@
 {
   "id": 477,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Nurse",
   "arabic": "ممرض/ة",
@@ -60,7 +60,7 @@
 {
   "id": 478,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Hospital",
   "arabic": "مستشفى",
@@ -89,7 +89,7 @@
 {
   "id": 479,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Pharmacy",
   "arabic": "صيدلية",
@@ -118,7 +118,7 @@
 {
   "id": 480,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Medicine",
   "arabic": "دواء",
@@ -147,7 +147,7 @@
 {
   "id": 481,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Headache",
   "arabic": "صداع",
@@ -176,7 +176,7 @@
 {
   "id": 482,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Cough",
   "arabic": "سعال",
@@ -205,7 +205,7 @@
 {
   "id": 483,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Fever",
   "arabic": "حمى",
@@ -234,7 +234,7 @@
 {
   "id": 484,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Cold (illness)",
   "arabic": "نزلة برد",
@@ -263,7 +263,7 @@
 {
   "id": 485,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Sore throat",
   "arabic": "التهاب الحلق",
@@ -292,7 +292,7 @@
 {
   "id": 486,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Injury",
   "arabic": "إصابة",
@@ -321,7 +321,7 @@
 {
   "id": 487,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Pain",
   "arabic": "ألم",
@@ -350,7 +350,7 @@
 {
   "id": 488,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Allergy",
   "arabic": "حساسية",
@@ -379,7 +379,7 @@
 {
   "id": 489,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Blood pressure",
   "arabic": "ضغط الدم",
@@ -408,7 +408,7 @@
 {
   "id": 490,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Heart",
   "arabic": "قلب",
@@ -437,7 +437,7 @@
 {
   "id": 491,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Stomach",
   "arabic": "معدة",
@@ -466,7 +466,7 @@
 {
   "id": 492,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Head",
   "arabic": "رأس",
@@ -495,7 +495,7 @@
 {
   "id": 493,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Eye",
   "arabic": "عين",
@@ -524,7 +524,7 @@
 {
   "id": 494,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Ear",
   "arabic": "أذن",
@@ -553,7 +553,7 @@
 {
   "id": 495,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Mouth",
   "arabic": "فم",
@@ -582,7 +582,7 @@
 {
   "id": 496,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Tooth",
   "arabic": "سن",
@@ -611,7 +611,7 @@
 {
   "id": 497,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Leg",
   "arabic": "ساق",
@@ -640,7 +640,7 @@
 {
   "id": 498,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Arm",
   "arabic": "ذراع",
@@ -669,7 +669,7 @@
 {
   "id": 499,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Hand",
   "arabic": "يد",
@@ -698,7 +698,7 @@
 {
   "id": 500,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Foot",
   "arabic": "قدم",
@@ -727,7 +727,7 @@
 {
   "id": 501,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Back",
   "arabic": "ظهر",
@@ -756,7 +756,7 @@
 {
   "id": 502,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Chest",
   "arabic": "صدر",
@@ -785,7 +785,7 @@
 {
   "id": 503,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Neck",
   "arabic": "رقبة",
@@ -814,7 +814,7 @@
 {
   "id": 504,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Heart",
   "arabic": "قلب",
@@ -843,7 +843,7 @@
 {
   "id": 505,
   "type": "noun",
-  "level": "A2",
+  "level": "A2.1",
   "topic": "Health",
   "english": "Lungs",
   "arabic": "رئتان",
@@ -872,7 +872,7 @@
 {
     "id": 506,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Student",
     "arabic": "طالب",
@@ -901,7 +901,7 @@
   {
     "id": 507,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Teacher",
     "arabic": "معلم",
@@ -930,7 +930,7 @@
   {
     "id": 508,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Classroom",
     "arabic": "فصل",
@@ -959,7 +959,7 @@
   {
     "id": 509,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Book",
     "arabic": "كتاب",
@@ -988,7 +988,7 @@
   {
     "id": 510,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Homework",
     "arabic": "واجب منزلي",
@@ -1017,7 +1017,7 @@
   {
     "id": 511,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Exam",
     "arabic": "امتحان",
@@ -1046,7 +1046,7 @@
   {
     "id": 512,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Pen",
     "arabic": "قلم",
@@ -1075,7 +1075,7 @@
   {
     "id": 513,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Pencil",
     "arabic": "قلم رصاص",
@@ -1104,7 +1104,7 @@
   {
     "id": 514,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Desk",
     "arabic": "مكتب",
@@ -1133,7 +1133,7 @@
   {
     "id": 515,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Lesson",
     "arabic": "درس",
@@ -1162,7 +1162,7 @@
 {
     "id": 516,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "School",
     "arabic": "مدرسة",
@@ -1191,7 +1191,7 @@
   {
     "id": 517,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Principal",
     "arabic": "مدير",
@@ -1220,7 +1220,7 @@
   {
     "id": 518,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Library",
     "arabic": "مكتبة",
@@ -1249,7 +1249,7 @@
   {
     "id": 519,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Cafeteria",
     "arabic": "مقصف",
@@ -1278,7 +1278,7 @@
   {
     "id": 520,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Playground",
     "arabic": "ملعب",
@@ -1307,7 +1307,7 @@
   {
     "id": 521,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Mathematics",
     "arabic": "رياضيات",
@@ -1336,7 +1336,7 @@
   {
     "id": 522,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Science",
     "arabic": "علوم",
@@ -1365,7 +1365,7 @@
   {
     "id": 523,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "History",
     "arabic": "تاريخ",
@@ -1394,7 +1394,7 @@
   {
     "id": 524,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "English",
     "arabic": "لغة إنجليزية",
@@ -1423,7 +1423,7 @@
   {
     "id": 525,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "School",
     "english": "Test",
     "arabic": "اختبار",
@@ -1452,7 +1452,7 @@
 {
     "id": 526,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Computer",
     "arabic": "حاسوب",
@@ -1481,7 +1481,7 @@
   {
     "id": 527,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Phone",
     "arabic": "هاتف",
@@ -1510,7 +1510,7 @@
   {
     "id": 528,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Internet",
     "arabic": "إنترنت",
@@ -1539,7 +1539,7 @@
   {
     "id": 529,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Website",
     "arabic": "موقع إلكتروني",
@@ -1568,7 +1568,7 @@
   {
     "id": 530,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Email",
     "arabic": "بريد إلكتروني",
@@ -1597,7 +1597,7 @@
   {
     "id": 531,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Password",
     "arabic": "كلمة مرور",
@@ -1626,7 +1626,7 @@
   {
     "id": 532,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Screen",
     "arabic": "شاشة",
@@ -1655,7 +1655,7 @@
   {
     "id": 533,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Keyboard",
     "arabic": "لوحة المفاتيح",
@@ -1684,7 +1684,7 @@
   {
     "id": 534,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Mouse",
     "arabic": "فأرة",
@@ -1713,7 +1713,7 @@
   {
     "id": 535,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Camera",
     "arabic": "كاميرا",
@@ -1742,7 +1742,7 @@
 {
     "id": 536,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Headphones",
     "arabic": "سماعات رأس",
@@ -1771,7 +1771,7 @@
   {
     "id": 537,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Monitor",
     "arabic": "شاشة عرض",
@@ -1800,7 +1800,7 @@
   {
     "id": 538,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Printer",
     "arabic": "طابعة",
@@ -1829,7 +1829,7 @@
   {
     "id": 539,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Tablet",
     "arabic": "جهاز لوحي",
@@ -1858,7 +1858,7 @@
   {
     "id": 540,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "USB drive",
     "arabic": "محرك أقراص USB",
@@ -1887,7 +1887,7 @@
 {
     "id": 541,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Router",
     "arabic": "جهاز التوجيه",
@@ -1916,7 +1916,7 @@
   {
     "id": 542,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Charger",
     "arabic": "شاحن",
@@ -1945,7 +1945,7 @@
   {
     "id": 543,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Cable",
     "arabic": "كابل",
@@ -1974,7 +1974,7 @@
   {
     "id": 544,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "App",
     "arabic": "تطبيق",
@@ -2003,7 +2003,7 @@
   {
     "id": 545,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Software",
     "arabic": "برنامج",
@@ -2032,7 +2032,7 @@
 {
     "id": 546,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "File",
     "arabic": "ملف",
@@ -2061,7 +2061,7 @@
   {
     "id": 547,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Folder",
     "arabic": "مجلد",
@@ -2090,7 +2090,7 @@
   {
     "id": 548,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Laptop",
     "arabic": "حاسوب محمول",
@@ -2119,7 +2119,7 @@
   {
     "id": 549,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Smartwatch",
     "arabic": "ساعة ذكية",
@@ -2148,7 +2148,7 @@
   {
     "id": 550,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Cloud",
     "arabic": "سحابة",
@@ -2177,7 +2177,7 @@
 {
     "id": 551,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Download",
     "arabic": "تنزيل",
@@ -2206,7 +2206,7 @@
   {
     "id": 552,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Upload",
     "arabic": "تحميل",
@@ -2235,7 +2235,7 @@
   {
     "id": 553,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Link",
     "arabic": "رابط",
@@ -2264,7 +2264,7 @@
   {
     "id": 554,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Wi-Fi",
     "arabic": "واي فاي",
@@ -2293,7 +2293,7 @@
   {
     "id": 555,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Screenshot",
     "arabic": "لقطة شاشة",
@@ -2322,7 +2322,7 @@
 {
     "id": 556,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "App",
     "arabic": "تطبيق",
@@ -2351,7 +2351,7 @@
   {
     "id": 557,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Software",
     "arabic": "برنامج",
@@ -2380,7 +2380,7 @@
   {
     "id": 558,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Hardware",
     "arabic": "معدات الحاسوب",
@@ -2409,7 +2409,7 @@
   {
     "id": 559,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Network",
     "arabic": "شبكة",
@@ -2438,7 +2438,7 @@
   {
     "id": 560,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Battery",
     "arabic": "بطارية",
@@ -2467,7 +2467,7 @@
 {
     "id": 561,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Charger",
     "arabic": "شاحن",
@@ -2496,7 +2496,7 @@
   {
     "id": 562,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Tablet",
     "arabic": "جهاز لوحي",
@@ -2525,7 +2525,7 @@
   {
     "id": 563,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Printer",
     "arabic": "طابعة",
@@ -2554,7 +2554,7 @@
   {
     "id": 564,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Router",
     "arabic": "موجّه",
@@ -2583,7 +2583,7 @@
   {
     "id": 565,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Cable",
     "arabic": "كابل",
@@ -2612,7 +2612,7 @@
 {
     "id": 566,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "System",
     "arabic": "نظام",
@@ -2641,7 +2641,7 @@
   {
     "id": 567,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Update",
     "arabic": "تحديث",
@@ -2670,7 +2670,7 @@
   {
     "id": 568,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Browser",
     "arabic": "متصفح",
@@ -2699,7 +2699,7 @@
   {
     "id": 569,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Server",
     "arabic": "خادم",
@@ -2728,7 +2728,7 @@
   {
     "id": 570,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "File transfer",
     "arabic": "نقل الملفات",
@@ -2757,7 +2757,7 @@
 {
     "id": 571,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Clipboard",
     "arabic": "الحافظة",
@@ -2786,7 +2786,7 @@
   {
     "id": 572,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Shortcut",
     "arabic": "اختصار",
@@ -2815,7 +2815,7 @@
   {
     "id": 573,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Notification",
     "arabic": "إشعار",
@@ -2844,7 +2844,7 @@
   {
     "id": 574,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Login",
     "arabic": "تسجيل الدخول",
@@ -2873,7 +2873,7 @@
   {
     "id": 575,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Technology",
     "english": "Logout",
     "arabic": "تسجيل الخروج",
@@ -2902,7 +2902,7 @@
   {
     "id": 576,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Car",
     "arabic": "سيارة",
@@ -2931,7 +2931,7 @@
   {
     "id": 577,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Bus",
     "arabic": "حافلة",
@@ -2960,7 +2960,7 @@
   {
     "id": 578,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Train",
     "arabic": "قطار",
@@ -2989,7 +2989,7 @@
   {
     "id": 579,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Airplane",
     "arabic": "طائرة",
@@ -3018,7 +3018,7 @@
   {
     "id": 580,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Bicycle",
     "arabic": "دراجة",
@@ -3047,7 +3047,7 @@
   {
     "id": 581,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Motorbike",
     "arabic": "دراجة نارية",
@@ -3076,7 +3076,7 @@
   {
     "id": 582,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Taxi",
     "arabic": "تاكسي",
@@ -3105,7 +3105,7 @@
   {
     "id": 583,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Ship",
     "arabic": "سفينة",
@@ -3134,7 +3134,7 @@
   {
     "id": 584,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Subway",
     "arabic": "مترو",
@@ -3163,7 +3163,7 @@
   {
     "id": 585,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Helicopter",
     "arabic": "مروحية",
@@ -3192,7 +3192,7 @@
 {
     "id": 586,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Ticket",
     "arabic": "تذكرة",
@@ -3221,7 +3221,7 @@
   {
     "id": 587,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Airport",
     "arabic": "مطار",
@@ -3250,7 +3250,7 @@
   {
     "id": 588,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Station",
     "arabic": "محطة",
@@ -3279,7 +3279,7 @@
   {
     "id": 589,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Journey",
     "arabic": "رحلة",
@@ -3308,7 +3308,7 @@
   {
     "id": 590,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Route",
     "arabic": "مسار",
@@ -3337,7 +3337,7 @@
 {
     "id": 591,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Passenger",
     "arabic": "راكب",
@@ -3366,7 +3366,7 @@
   {
     "id": 592,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Luggage",
     "arabic": "أمتعة",
@@ -3395,7 +3395,7 @@
   {
     "id": 593,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Map",
     "arabic": "خريطة",
@@ -3424,7 +3424,7 @@
   {
     "id": 594,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Guide",
     "arabic": "دليل",
@@ -3453,7 +3453,7 @@
   {
     "id": 595,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Ticket counter",
     "arabic": "كشك التذاكر",
@@ -3482,7 +3482,7 @@
 {
     "id": 596,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Flight",
     "arabic": "رحلة طيران",
@@ -3511,7 +3511,7 @@
   {
     "id": 597,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Departure",
     "arabic": "مغادرة",
@@ -3540,7 +3540,7 @@
   {
     "id": 598,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Arrival",
     "arabic": "وصول",
@@ -3569,7 +3569,7 @@
   {
     "id": 599,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Customs",
     "arabic": "الجمارك",
@@ -3598,7 +3598,7 @@
   {
     "id": 600,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Delay",
     "arabic": "تأخير",
@@ -3627,7 +3627,7 @@
 {
     "id": 601,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Boarding",
     "arabic": "صعود الطائرة",
@@ -3656,7 +3656,7 @@
   {
     "id": 602,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Terminal",
     "arabic": "محطة/ترمينال",
@@ -3685,7 +3685,7 @@
   {
     "id": 603,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Seat",
     "arabic": "مقعد",
@@ -3714,7 +3714,7 @@
   {
     "id": 604,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Ticket machine",
     "arabic": "آلة بيع التذاكر",
@@ -3743,7 +3743,7 @@
   {
     "id": 605,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Travel agency",
     "arabic": "وكالة سفر",
@@ -3772,7 +3772,7 @@
 {
     "id": 606,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Boarding pass",
     "arabic": "بطاقة صعود الطائرة",
@@ -3801,7 +3801,7 @@
   {
     "id": 607,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Baggage claim",
     "arabic": "استلام الأمتعة",
@@ -3830,7 +3830,7 @@
   {
     "id": 608,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Customs officer",
     "arabic": "موظف الجمارك",
@@ -3859,7 +3859,7 @@
   {
     "id": 609,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Check-in desk",
     "arabic": "مكتب التسجيل",
@@ -3888,7 +3888,7 @@
   {
     "id": 610,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Passport",
     "arabic": "جواز السفر",
@@ -3917,7 +3917,7 @@
 {
     "id": 611,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Visa",
     "arabic": "تأشيرة",
@@ -3946,7 +3946,7 @@
   {
     "id": 612,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Travel insurance",
     "arabic": "تأمين السفر",
@@ -3975,7 +3975,7 @@
   {
     "id": 613,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Tourist",
     "arabic": "سائح",
@@ -4004,7 +4004,7 @@
   {
     "id": 614,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Backpack",
     "arabic": "حقيبة ظهر",
@@ -4033,7 +4033,7 @@
   {
     "id": 615,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Suitcase",
     "arabic": "حقيبة سفر",
@@ -4062,7 +4062,7 @@
 {
     "id": 616,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Taxi",
     "arabic": "سيارة أجرة",
@@ -4091,7 +4091,7 @@
   {
     "id": 617,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Bus stop",
     "arabic": "موقف الحافلة",
@@ -4120,7 +4120,7 @@
   {
     "id": 618,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Train station",
     "arabic": "محطة القطار",
@@ -4149,7 +4149,7 @@
   {
     "id": 619,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Airport",
     "arabic": "مطار",
@@ -4178,7 +4178,7 @@
   {
     "id": 620,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Ferry",
     "arabic": "عبارة بحرية",
@@ -4207,7 +4207,7 @@
 {
     "id": 621,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Bus",
     "arabic": "حافلة",
@@ -4236,7 +4236,7 @@
   {
     "id": 622,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Train",
     "arabic": "قطار",
@@ -4265,7 +4265,7 @@
   {
     "id": 623,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Subway / Metro",
     "arabic": "مترو",
@@ -4294,7 +4294,7 @@
   {
     "id": 624,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Tram",
     "arabic": "ترام",
@@ -4323,7 +4323,7 @@
   {
     "id": 625,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Transportation / Travel",
     "english": "Car rental",
     "arabic": "تأجير سيارات",
@@ -4353,7 +4353,7 @@
   {
     "id": 626,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Apple",
     "arabic": "تفاح",
@@ -4382,7 +4382,7 @@
   {
     "id": 627,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Banana",
     "arabic": "موز",
@@ -4411,7 +4411,7 @@
   {
     "id": 628,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Bread",
     "arabic": "خبز",
@@ -4440,7 +4440,7 @@
   {
     "id": 629,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Butter",
     "arabic": "زبدة",
@@ -4469,7 +4469,7 @@
   {
     "id": 630,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Cheese",
     "arabic": "جبن",
@@ -4498,7 +4498,7 @@
   {
     "id": 631,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Egg",
     "arabic": "بيضة",
@@ -4527,7 +4527,7 @@
   {
     "id": 632,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Milk",
     "arabic": "حليب",
@@ -4556,7 +4556,7 @@
   {
     "id": 633,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Rice",
     "arabic": "أرز",
@@ -4585,7 +4585,7 @@
   {
     "id": 634,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Chicken",
     "arabic": "دجاج",
@@ -4614,7 +4614,7 @@
   {
     "id": 635,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Beef",
     "arabic": "لحم بقري",
@@ -4643,7 +4643,7 @@
 {
     "id": 636,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Pork",
     "arabic": "لحم خنزير",
@@ -4672,7 +4672,7 @@
   {
     "id": 637,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Fish",
     "arabic": "سمك",
@@ -4701,7 +4701,7 @@
   {
     "id": 638,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Salt",
     "arabic": "ملح",
@@ -4730,7 +4730,7 @@
   {
     "id": 639,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Pepper",
     "arabic": "فلفل",
@@ -4759,7 +4759,7 @@
   {
     "id": 640,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Oil",
     "arabic": "زيت",
@@ -4788,7 +4788,7 @@
   {
     "id": 641,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Sugar",
     "arabic": "سكر",
@@ -4817,7 +4817,7 @@
   {
     "id": 642,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Flour",
     "arabic": "دقيق",
@@ -4846,7 +4846,7 @@
   {
     "id": 643,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Tomato",
     "arabic": "طماطم",
@@ -4875,7 +4875,7 @@
   {
     "id": 644,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Potato",
     "arabic": "بطاطا",
@@ -4904,7 +4904,7 @@
   {
     "id": 645,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Onion",
     "arabic": "بصل",
@@ -4933,7 +4933,7 @@
 {
     "id": 646,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Garlic",
     "arabic": "ثوم",
@@ -4962,7 +4962,7 @@
   {
     "id": 647,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Carrot",
     "arabic": "جزر",
@@ -4991,7 +4991,7 @@
   {
     "id": 648,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Cucumber",
     "arabic": "خيار",
@@ -5020,7 +5020,7 @@
   {
     "id": 649,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Lettuce",
     "arabic": "خس",
@@ -5049,7 +5049,7 @@
   {
     "id": 650,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Lemon",
     "arabic": "ليمون",
@@ -5078,7 +5078,7 @@
   {
     "id": 651,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Orange",
     "arabic": "برتقال",
@@ -5107,7 +5107,7 @@
   {
     "id": 652,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Strawberry",
     "arabic": "فراولة",
@@ -5136,7 +5136,7 @@
   {
     "id": 653,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Watermelon",
     "arabic": "بطيخ",
@@ -5165,7 +5165,7 @@
   {
     "id": 654,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Grapes",
     "arabic": "عنب",
@@ -5194,7 +5194,7 @@
   {
     "id": 655,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Cherry",
     "arabic": "كرز",
@@ -5223,7 +5223,7 @@
 {
     "id": 656,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Apple",
     "arabic": "تفاح",
@@ -5252,7 +5252,7 @@
   {
     "id": 657,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Banana",
     "arabic": "موز",
@@ -5281,7 +5281,7 @@
   {
     "id": 658,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Pear",
     "arabic": "كمثرى",
@@ -5310,7 +5310,7 @@
   {
     "id": 659,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Peach",
     "arabic": "خوخ",
@@ -5339,7 +5339,7 @@
   {
     "id": 660,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Mango",
     "arabic": "مانجو",
@@ -5368,7 +5368,7 @@
   {
     "id": 661,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Pineapple",
     "arabic": "أناناس",
@@ -5397,7 +5397,7 @@
   {
     "id": 662,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Rice",
     "arabic": "أرز",
@@ -5426,7 +5426,7 @@
   {
     "id": 663,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Bread",
     "arabic": "خبز",
@@ -5455,7 +5455,7 @@
   {
     "id": 664,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Cheese",
     "arabic": "جبن",
@@ -5484,7 +5484,7 @@
   {
     "id": 665,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Milk",
     "arabic": "حليب",
@@ -5513,7 +5513,7 @@
 {
     "id": 666,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Butter",
     "arabic": "زبدة",
@@ -5542,7 +5542,7 @@
   {
     "id": 667,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Egg",
     "arabic": "بيض",
@@ -5571,7 +5571,7 @@
   {
     "id": 668,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Chicken",
     "arabic": "دجاج",
@@ -5600,7 +5600,7 @@
   {
     "id": 669,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Beef",
     "arabic": "لحم بقر",
@@ -5629,7 +5629,7 @@
   {
     "id": 670,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Fish",
     "arabic": "سمك",
@@ -5658,7 +5658,7 @@
   {
     "id": 671,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Salt",
     "arabic": "ملح",
@@ -5687,7 +5687,7 @@
   {
     "id": 672,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Pepper",
     "arabic": "فلفل",
@@ -5716,7 +5716,7 @@
   {
     "id": 673,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Sugar",
     "arabic": "سكر",
@@ -5745,7 +5745,7 @@
   {
     "id": 674,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Oil",
     "arabic": "زيت",
@@ -5774,7 +5774,7 @@
   {
     "id": 675,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Food & Cooking",
     "english": "Tomato",
     "arabic": "طماطم",
@@ -5804,7 +5804,7 @@
   {
     "id": 676,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bank",
     "arabic": "بنك",
@@ -5833,7 +5833,7 @@
   {
     "id": 677,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Post office",
     "arabic": "مكتب البريد",
@@ -5862,7 +5862,7 @@
   {
     "id": 678,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Supermarket",
     "arabic": "سوبرماركت",
@@ -5891,7 +5891,7 @@
   {
     "id": 679,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Restaurant",
     "arabic": "مطعم",
@@ -5920,7 +5920,7 @@
   {
     "id": 680,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Hospital",
     "arabic": "مستشفى",
@@ -5949,7 +5949,7 @@
   {
     "id": 681,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "School",
     "arabic": "مدرسة",
@@ -5978,7 +5978,7 @@
   {
     "id": 682,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Library",
     "arabic": "مكتبة",
@@ -6007,7 +6007,7 @@
 {
     "id": 683,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Police station",
     "arabic": "مركز الشرطة",
@@ -6036,7 +6036,7 @@
   {
     "id": 684,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Fire station",
     "arabic": "محطة الإطفاء",
@@ -6065,7 +6065,7 @@
   {
     "id": 685,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Hotel",
     "arabic": "فندق",
@@ -6094,7 +6094,7 @@
   {
     "id": 686,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Cafe",
     "arabic": "مقهى",
@@ -6123,7 +6123,7 @@
   {
     "id": 687,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bakery",
     "arabic": "مخبز",
@@ -6152,7 +6152,7 @@
   {
     "id": 688,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Market",
     "arabic": "سوق",
@@ -6181,7 +6181,7 @@
   {
     "id": 689,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Cinema",
     "arabic": "سينما",
@@ -6210,7 +6210,7 @@
   {
     "id": 690,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Park",
     "arabic": "حديقة",
@@ -6239,7 +6239,7 @@
   {
     "id": 691,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Museum",
     "arabic": "متحف",
@@ -6268,7 +6268,7 @@
   {
     "id": 692,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bus station",
     "arabic": "محطة الحافلات",
@@ -6297,7 +6297,7 @@
 {
     "id": 693,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Train station",
     "arabic": "محطة القطار",
@@ -6326,7 +6326,7 @@
   {
     "id": 694,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Airport",
     "arabic": "مطار",
@@ -6355,7 +6355,7 @@
   {
     "id": 695,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Church",
     "arabic": "كنيسة",
@@ -6384,7 +6384,7 @@
   {
     "id": 696,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Mosque",
     "arabic": "مسجد",
@@ -6413,7 +6413,7 @@
   {
     "id": 697,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Temple",
     "arabic": "معبد",
@@ -6442,7 +6442,7 @@
   {
     "id": 698,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Shopping mall",
     "arabic": "مركز التسوق",
@@ -6471,7 +6471,7 @@
 {
     "id": 699,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Pharmacy",
     "arabic": "صيدلية",
@@ -6500,7 +6500,7 @@
   {
     "id": 700,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Hotel",
     "arabic": "فندق",
@@ -6529,7 +6529,7 @@
   {
     "id": 701,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Parking lot",
     "arabic": "موقف سيارات",
@@ -6558,7 +6558,7 @@
   {
     "id": 702,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Playground",
     "arabic": "ملعب للأطفال",
@@ -6587,7 +6587,7 @@
   {
     "id": 703,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Stadium",
     "arabic": "ملعب",
@@ -6616,7 +6616,7 @@
   {
     "id": 704,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Zoo",
     "arabic": "حديقة الحيوان",
@@ -6645,7 +6645,7 @@
   {
     "id": 705,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Theater",
     "arabic": "مسرح",
@@ -6674,7 +6674,7 @@
   {
     "id": 706,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Gym",
     "arabic": "صالة رياضية",
@@ -6703,7 +6703,7 @@
 {
     "id": 707,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Library",
     "arabic": "مكتبة",
@@ -6732,7 +6732,7 @@
   {
     "id": 708,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Post office",
     "arabic": "مكتب بريد",
@@ -6761,7 +6761,7 @@
   {
     "id": 709,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Police station",
     "arabic": "مركز شرطة",
@@ -6790,7 +6790,7 @@
   {
     "id": 710,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Fire station",
     "arabic": "مركز الإطفاء",
@@ -6819,7 +6819,7 @@
   {
     "id": 711,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bank",
     "arabic": "بنك",
@@ -6848,7 +6848,7 @@
   {
     "id": 712,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Supermarket",
     "arabic": "سوبر ماركت",
@@ -6877,7 +6877,7 @@
   {
     "id": 713,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bakery",
     "arabic": "مخبز",
@@ -6906,7 +6906,7 @@
   {
     "id": 714,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Restaurant",
     "arabic": "مطعم",
@@ -6935,7 +6935,7 @@
   {
     "id": 715,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Cafe",
     "arabic": "مقهى",
@@ -6964,7 +6964,7 @@
   {
     "id": 716,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bar",
     "arabic": "حانة",
@@ -6993,7 +6993,7 @@
   {
     "id": 717,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Cinema",
     "arabic": "سينما",
@@ -7022,7 +7022,7 @@
   {
     "id": 718,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Park",
     "arabic": "منتزه",
@@ -7051,7 +7051,7 @@
   {
     "id": 719,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Hospital",
     "arabic": "مستشفى",
@@ -7080,7 +7080,7 @@
   {
     "id": 720,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Clinic",
     "arabic": "عيادة",
@@ -7109,7 +7109,7 @@
   {
     "id": 721,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bakery",
     "arabic": "مخبز",
@@ -7138,7 +7138,7 @@
   {
     "id": 722,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Butcher",
     "arabic": "ملحمة",
@@ -7167,7 +7167,7 @@
   {
     "id": 723,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Flower shop",
     "arabic": "محل بيع الزهور",
@@ -7196,7 +7196,7 @@
   {
     "id": 724,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Bookstore",
     "arabic": "مكتبة",
@@ -7225,7 +7225,7 @@
   {
     "id": 725,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Places in Town",
     "english": "Mall",
     "arabic": "مركز تجاري",
@@ -7255,7 +7255,7 @@
   {
     "id": 726,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Television",
     "arabic": "تلفاز",
@@ -7284,7 +7284,7 @@
   {
     "id": 727,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Radio",
     "arabic": "راديو",
@@ -7313,7 +7313,7 @@
   {
     "id": 728,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Newspaper",
     "arabic": "جريدة",
@@ -7342,7 +7342,7 @@
   {
     "id": 729,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Magazine",
     "arabic": "مجلة",
@@ -7371,7 +7371,7 @@
   {
     "id": 730,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Book",
     "arabic": "كتاب",
@@ -7400,7 +7400,7 @@
   {
     "id": 731,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Movie",
     "arabic": "فيلم",
@@ -7429,7 +7429,7 @@
   {
     "id": 732,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Music",
     "arabic": "موسيقى",
@@ -7458,7 +7458,7 @@
 {
     "id": 733,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Concert",
     "arabic": "حفلة موسيقية",
@@ -7487,7 +7487,7 @@
   {
     "id": 734,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Theater",
     "arabic": "مسرح",
@@ -7516,7 +7516,7 @@
   {
     "id": 735,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Cinema",
     "arabic": "سينما",
@@ -7545,7 +7545,7 @@
   {
     "id": 736,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Actor",
     "arabic": "ممثل",
@@ -7574,7 +7574,7 @@
   {
     "id": 737,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Actress",
     "arabic": "ممثلة",
@@ -7603,7 +7603,7 @@
 {
     "id": 738,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Singer",
     "arabic": "مغني",
@@ -7632,7 +7632,7 @@
   {
     "id": 739,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "TV show",
     "arabic": "برنامج تلفزيوني",
@@ -7661,7 +7661,7 @@
   {
     "id": 740,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Movie theater",
     "arabic": "سينما",
@@ -7690,7 +7690,7 @@
   {
     "id": 741,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Video game",
     "arabic": "لعبة فيديو",
@@ -7719,7 +7719,7 @@
 {
     "id": 742,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Magazine article",
     "arabic": "مقالة مجلة",
@@ -7748,7 +7748,7 @@
   {
     "id": 743,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Comic book",
     "arabic": "كتاب هزلي",
@@ -7777,7 +7777,7 @@
   {
     "id": 744,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Podcast",
     "arabic": "بودكاست",
@@ -7806,7 +7806,7 @@
   {
     "id": 745,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Newspaper article",
     "arabic": "مقالة صحفية",
@@ -7835,7 +7835,7 @@
   {
     "id": 746,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Streaming service",
     "arabic": "خدمة البث",
@@ -7864,7 +7864,7 @@
 {
     "id": 747,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Documentary",
     "arabic": "وثائقي",
@@ -7893,7 +7893,7 @@
   {
     "id": 748,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "News",
     "arabic": "أخبار",
@@ -7922,7 +7922,7 @@
   {
     "id": 749,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Cartoon",
     "arabic": "رسوم متحركة",
@@ -7951,7 +7951,7 @@
   {
     "id": 750,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Advertisement",
     "arabic": "إعلان",
@@ -7980,7 +7980,7 @@
 {
     "id": 751,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Radio",
     "arabic": "راديو",
@@ -8009,7 +8009,7 @@
   {
     "id": 752,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Music album",
     "arabic": "ألبوم موسيقي",
@@ -8038,7 +8038,7 @@
   {
     "id": 753,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Playlist",
     "arabic": "قائمة تشغيل",
@@ -8067,7 +8067,7 @@
   {
     "id": 754,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "TV channel",
     "arabic": "قناة تلفزيونية",
@@ -8096,7 +8096,7 @@
   {
     "id": 755,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Movie",
     "arabic": "فيلم",
@@ -8125,7 +8125,7 @@
   {
     "id": 756,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Music festival",
     "arabic": "مهرجان موسيقي",
@@ -8154,7 +8154,7 @@
   {
     "id": 757,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Magazine",
     "arabic": "مجلة",
@@ -8183,7 +8183,7 @@
 {
     "id": 758,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Actor",
     "arabic": "ممثل",
@@ -8212,7 +8212,7 @@
   {
     "id": 759,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Actress",
     "arabic": "ممثلة",
@@ -8241,7 +8241,7 @@
   {
     "id": 760,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Director",
     "arabic": "مخرج",
@@ -8270,7 +8270,7 @@
   {
     "id": 761,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Singer",
     "arabic": "مغني",
@@ -8299,7 +8299,7 @@
   {
     "id": 762,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Band",
     "arabic": "فرقة موسيقية",
@@ -8328,7 +8328,7 @@
   {
     "id": 763,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Concert",
     "arabic": "حفلة موسيقية",
@@ -8357,7 +8357,7 @@
   {
     "id": 764,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Show",
     "arabic": "عرض",
@@ -8386,7 +8386,7 @@
   {
     "id": 765,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Theater",
     "arabic": "مسرح",
@@ -8415,7 +8415,7 @@
   {
     "id": 766,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Festival",
     "arabic": "مهرجان",
@@ -8444,7 +8444,7 @@
   {
     "id": 767,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Performance",
     "arabic": "أداء",
@@ -8473,7 +8473,7 @@
   {
     "id": 768,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Ticket",
     "arabic": "تذكرة",
@@ -8502,7 +8502,7 @@
   {
     "id": 769,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Streaming service",
     "arabic": "خدمة البث",
@@ -8531,7 +8531,7 @@
   {
     "id": 770,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Podcast",
     "arabic": "بودكاست",
@@ -8560,7 +8560,7 @@
   {
     "id": 771,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Cinema",
     "arabic": "سينما",
@@ -8589,7 +8589,7 @@
   {
     "id": 772,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Streaming platform",
     "arabic": "منصة بث",
@@ -8618,7 +8618,7 @@
   {
     "id": 773,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Video game",
     "arabic": "لعبة فيديو",
@@ -8647,7 +8647,7 @@
   {
     "id": 774,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Streaming video",
     "arabic": "فيديو مباشر",
@@ -8676,7 +8676,7 @@
   {
     "id": 775,
     "type": "noun",
-    "level": "A2",
+    "level": "A2.1",
     "topic": "Entertainment / Media",
     "english": "Live show",
     "arabic": "عرض مباشر",
