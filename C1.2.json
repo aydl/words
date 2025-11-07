@@ -2,7 +2,7 @@
   {
     "id": 2081,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Hypothesis",
     "arabic": "فرضية",
@@ -31,7 +31,7 @@
   {
     "id": 2082,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Experiment",
     "arabic": "تجربة",
@@ -60,7 +60,7 @@
   {
     "id": 2083,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Observation",
     "arabic": "ملاحظة",
@@ -89,7 +89,7 @@
   {
     "id": 2084,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Theory",
     "arabic": "نظرية",
@@ -118,7 +118,7 @@
   {
     "id": 2085,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Laboratory",
     "arabic": "مختبر",
@@ -147,7 +147,7 @@
 {
     "id": 2086,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Researcher",
     "arabic": "باحث",
@@ -176,7 +176,7 @@
   {
     "id": 2087,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Innovation",
     "arabic": "ابتكار",
@@ -205,7 +205,7 @@
   {
     "id": 2088,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Data analysis",
     "arabic": "تحليل البيانات",
@@ -234,7 +234,7 @@
   {
     "id": 2089,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Peer review",
     "arabic": "مراجعة الأقران",
@@ -263,7 +263,7 @@
   {
     "id": 2090,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Field study",
     "arabic": "دراسة ميدانية",
@@ -292,7 +292,7 @@
 {
     "id": 2091,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Laboratory equipment",
     "arabic": "معدات المختبر",
@@ -321,7 +321,7 @@
   {
     "id": 2092,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Scientific journal",
     "arabic": "مجلة علمية",
@@ -350,7 +350,7 @@
   {
     "id": 2093,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Breakthrough",
     "arabic": "اختراق",
@@ -379,7 +379,7 @@
   {
     "id": 2094,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Clinical trial",
     "arabic": "تجربة سريرية",
@@ -408,7 +408,7 @@
   {
     "id": 2095,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Grant",
     "arabic": "منحة",
@@ -437,7 +437,7 @@
 {
     "id": 2111,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Methodology",
     "arabic": "منهجية",
@@ -466,7 +466,7 @@
   {
     "id": 2112,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Citation",
     "arabic": "استشهاد",
@@ -495,7 +495,7 @@
   {
     "id": 2113,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Publication",
     "arabic": "نشر",
@@ -524,7 +524,7 @@
   {
     "id": 2114,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Ethics",
     "arabic": "أخلاقيات",
@@ -553,7 +553,7 @@
   {
     "id": 2115,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Replication",
     "arabic": "تكرار",
@@ -582,7 +582,7 @@
 {
     "id": 2116,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Sample",
     "arabic": "عينة",
@@ -611,7 +611,7 @@
   {
     "id": 2117,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Variables",
     "arabic": "المتغيرات",
@@ -640,7 +640,7 @@
   {
     "id": 2118,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Control group",
     "arabic": "مجموعة التحكم",
@@ -669,7 +669,7 @@
   {
     "id": 2119,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Conclusion",
     "arabic": "استنتاج",
@@ -698,7 +698,7 @@
   {
     "id": 2120,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Scientific method",
     "arabic": "الطريقة العلمية",
@@ -727,7 +727,7 @@
   {
     "id": 2121,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Observation record",
     "arabic": "سجل الملاحظات",
@@ -756,7 +756,7 @@
   {
     "id": 2122,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Fieldwork",
     "arabic": "العمل الميداني",
@@ -785,7 +785,7 @@
   {
     "id": 2123,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Laboratory assistant",
     "arabic": "مساعد مختبر",
@@ -814,7 +814,7 @@
   {
     "id": 2124,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Hypothesis testing",
     "arabic": "اختبار الفرضية",
@@ -843,7 +843,7 @@
   {
     "id": 2125,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Survey",
     "arabic": "استطلاع / مسح",
@@ -872,7 +872,7 @@
   {
     "id": 2126,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Statistical model",
     "arabic": "النموذج الإحصائي",
@@ -901,7 +901,7 @@
   {
     "id": 2127,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Laboratory procedure",
     "arabic": "إجراء المختبر",
@@ -930,7 +930,7 @@
   {
     "id": 2128,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Experimental design",
     "arabic": "تصميم تجريبي",
@@ -959,7 +959,7 @@
   {
     "id": 2129,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Peer-reviewed article",
     "arabic": "مقالة محكمة",
@@ -988,7 +988,7 @@
   {
     "id": 2130,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Science & Research",
     "english": "Research funding",
     "arabic": "تمويل البحث",
@@ -1018,7 +1018,7 @@
   {
     "id": 2131,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Curriculum",
     "arabic": "المنهج الدراسي",
@@ -1047,7 +1047,7 @@
   {
     "id": 2132,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Pedagogy",
     "arabic": "طرائق التدريس",
@@ -1076,7 +1076,7 @@
   {
     "id": 2133,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Scholarship",
     "arabic": "منحة دراسية",
@@ -1105,7 +1105,7 @@
   {
     "id": 2134,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Thesis",
     "arabic": "أطروحة",
@@ -1134,7 +1134,7 @@
   {
     "id": 2135,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Dissertation",
     "arabic": "رسالة دكتوراه",
@@ -1163,7 +1163,7 @@
 {
     "id": 2136,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Faculty",
     "arabic": "كلية",
@@ -1192,7 +1192,7 @@
   {
     "id": 2137,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Lecture",
     "arabic": "محاضرة",
@@ -1221,7 +1221,7 @@
   {
     "id": 2138,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Seminar",
     "arabic": "ندوة",
@@ -1250,7 +1250,7 @@
   {
     "id": 2139,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Academic journal",
     "arabic": "مجلة أكاديمية",
@@ -1279,7 +1279,7 @@
   {
     "id": 2140,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Accreditation",
     "arabic": "اعتماد أكاديمي",
@@ -1308,7 +1308,7 @@
 {
     "id": 2141,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Alumni",
     "arabic": "الخريجون",
@@ -1337,7 +1337,7 @@
   {
     "id": 2142,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Mentorship",
     "arabic": "الإرشاد الأكاديمي",
@@ -1366,7 +1366,7 @@
   {
     "id": 2143,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Pedagogical approach",
     "arabic": "النهج التربوي",
@@ -1395,7 +1395,7 @@
   {
     "id": 2144,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Accredited program",
     "arabic": "برنامج معتمد",
@@ -1424,7 +1424,7 @@
   {
     "id": 2145,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Academic integrity",
     "arabic": "النزاهة الأكاديمية",
@@ -1453,7 +1453,7 @@
 {
     "id": 2146,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Learning outcomes",
     "arabic": "نتائج التعلم",
@@ -1482,7 +1482,7 @@
   {
     "id": 2147,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Distance learning",
     "arabic": "التعلم عن بعد",
@@ -1511,7 +1511,7 @@
   {
     "id": 2148,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Curriculum development",
     "arabic": "تطوير المناهج الدراسية",
@@ -1540,7 +1540,7 @@
   {
     "id": 2149,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Assessment methods",
     "arabic": "طرق التقييم",
@@ -1569,7 +1569,7 @@
   {
     "id": 2150,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Interactive learning",
     "arabic": "التعلم التفاعلي",
@@ -1598,7 +1598,7 @@
   {
     "id": 2151,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Peer review",
     "arabic": "مراجعة الأقران",
@@ -1627,7 +1627,7 @@
 {
     "id": 2152,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Accreditation body",
     "arabic": "هيئة الاعتماد",
@@ -1656,7 +1656,7 @@
   {
     "id": 2153,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Teaching assistant",
     "arabic": "مساعد تدريس",
@@ -1685,7 +1685,7 @@
   {
     "id": 2154,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Syllabus",
     "arabic": "المنهج الدراسي",
@@ -1714,7 +1714,7 @@
   {
     "id": 2155,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Academic policy",
     "arabic": "السياسة الأكاديمية",
@@ -1743,7 +1743,7 @@
   {
     "id": 2156,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Educational framework",
     "arabic": "الإطار التعليمي",
@@ -1772,7 +1772,7 @@
   {
     "id": 2157,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Professional development",
     "arabic": "التطوير المهني",
@@ -1801,7 +1801,7 @@
   {
     "id": 2158,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Learning management system",
     "arabic": "نظام إدارة التعلم",
@@ -1830,7 +1830,7 @@
   {
     "id": 2159,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Course evaluation",
     "arabic": "تقييم المقرر",
@@ -1859,7 +1859,7 @@
   {
     "id": 2160,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Curricular innovation",
     "arabic": "الابتكار في المناهج",
@@ -1888,7 +1888,7 @@
 {
     "id": 2161,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Student engagement",
     "arabic": "مشاركة الطلاب",
@@ -1917,7 +1917,7 @@
   {
     "id": 2162,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Research methodology",
     "arabic": "منهجية البحث",
@@ -1946,7 +1946,7 @@
   {
     "id": 2163,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Continuing education",
     "arabic": "التعليم المستمر",
@@ -1975,7 +1975,7 @@
   {
     "id": 2164,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Faculty development",
     "arabic": "تطوير أعضاء هيئة التدريس",
@@ -2004,7 +2004,7 @@
   {
     "id": 2165,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Blended learning",
     "arabic": "التعلم المدمج",
@@ -2033,7 +2033,7 @@
   {
     "id": 2166,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Academic journal",
     "arabic": "مجلة أكاديمية",
@@ -2062,7 +2062,7 @@
   {
     "id": 2167,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Scholarly article",
     "arabic": "مقالة علمية",
@@ -2091,7 +2091,7 @@
   {
     "id": 2168,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Educational equity",
     "arabic": "الإنصاف التعليمي",
@@ -2120,7 +2120,7 @@
   {
     "id": 2169,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Accreditation standards",
     "arabic": "معايير الاعتماد",
@@ -2149,7 +2149,7 @@
   {
     "id": 2170,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Curricular alignment",
     "arabic": "مواءمة المناهج",
@@ -2178,7 +2178,7 @@
   {
     "id": 2171,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Learning outcomes assessment",
     "arabic": "تقييم نتائج التعلم",
@@ -2207,7 +2207,7 @@
 {
     "id": 2172,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Pedagogical strategy",
     "arabic": "استراتيجية تعليمية",
@@ -2236,7 +2236,7 @@
   {
     "id": 2173,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Academic integrity",
     "arabic": "النزاهة الأكاديمية",
@@ -2265,7 +2265,7 @@
   {
     "id": 2174,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Curriculum design",
     "arabic": "تصميم المناهج",
@@ -2294,7 +2294,7 @@
   {
     "id": 2175,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Educational assessment",
     "arabic": "التقييم التعليمي",
@@ -2323,7 +2323,7 @@
   {
     "id": 2176,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Instructional design",
     "arabic": "تصميم التعليم",
@@ -2352,7 +2352,7 @@
   {
     "id": 2177,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Learning analytics",
     "arabic": "تحليلات التعلم",
@@ -2381,7 +2381,7 @@
   {
     "id": 2178,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Academic mentorship",
     "arabic": "التوجيه الأكاديمي",
@@ -2410,7 +2410,7 @@
   {
     "id": 2179,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Distance learning",
     "arabic": "التعلم عن بعد",
@@ -2439,7 +2439,7 @@
   {
     "id": 2180,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Education & Academia",
     "english": "Peer review",
     "arabic": "مراجعة الأقران",
@@ -2469,7 +2469,7 @@
   {
     "id": 2181,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Contemporary literature",
     "arabic": "الأدب المعاصر",
@@ -2498,7 +2498,7 @@
   {
     "id": 2182,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Classical music",
     "arabic": "الموسيقى الكلاسيكية",
@@ -2527,7 +2527,7 @@
   {
     "id": 2183,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Visual arts",
     "arabic": "الفنون البصرية",
@@ -2556,7 +2556,7 @@
   {
     "id": 2184,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Sculpture",
     "arabic": "النحت",
@@ -2585,7 +2585,7 @@
   {
     "id": 2185,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Poetic expression",
     "arabic": "التعبير الشعري",
@@ -2614,7 +2614,7 @@
 {
     "id": 2186,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Art criticism",
     "arabic": "نقد فني",
@@ -2643,7 +2643,7 @@
   {
     "id": 2187,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Art installation",
     "arabic": "تركيب فني",
@@ -2672,7 +2672,7 @@
   {
     "id": 2188,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Art curation",
     "arabic": "تنسيق فني",
@@ -2701,7 +2701,7 @@
   {
     "id": 2189,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Art exhibition",
     "arabic": "معرض فني",
@@ -2730,7 +2730,7 @@
 {
     "id": 2190,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Performance art",
     "arabic": "فن الأداء",
@@ -2759,7 +2759,7 @@
   {
     "id": 2191,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Literary criticism",
     "arabic": "النقد الأدبي",
@@ -2788,7 +2788,7 @@
   {
     "id": 2192,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Modern art",
     "arabic": "الفن الحديث",
@@ -2817,7 +2817,7 @@
   {
     "id": 2193,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Cultural heritage",
     "arabic": "التراث الثقافي",
@@ -2846,7 +2846,7 @@
   {
     "id": 2194,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Artistic expression",
     "arabic": "التعبير الفني",
@@ -2875,7 +2875,7 @@
 {
     "id": 2195,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Literary movement",
     "arabic": "حركة أدبية",
@@ -2904,7 +2904,7 @@
   {
     "id": 2196,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Artistic innovation",
     "arabic": "الابتكار الفني",
@@ -2933,7 +2933,7 @@
   {
     "id": 2197,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Art gallery",
     "arabic": "معرض فني",
@@ -2962,7 +2962,7 @@
   {
     "id": 2198,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Artistic movement",
     "arabic": "حركة فنية",
@@ -2991,7 +2991,7 @@
   {
     "id": 2199,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Art patronage",
     "arabic": "رعاية فنية",
@@ -3020,7 +3020,7 @@
   {
     "id": 2200,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Literature & Arts",
     "english": "Cultural theory",
     "arabic": "نظرية ثقافية",
@@ -3050,7 +3050,7 @@
   {
     "id": 2201,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Mass media",
     "arabic": "وسائل الإعلام الجماهيري",
@@ -3079,7 +3079,7 @@
   {
     "id": 2202,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Journalism",
     "arabic": "الصحافة",
@@ -3108,7 +3108,7 @@
   {
     "id": 2203,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Broadcasting",
     "arabic": "البث الإذاعي والتلفزيوني",
@@ -3137,7 +3137,7 @@
   {
     "id": 2204,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media ethics",
     "arabic": "أخلاقيات الإعلام",
@@ -3166,7 +3166,7 @@
 {
     "id": 2205,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Digital media",
     "arabic": "الإعلام الرقمي",
@@ -3195,7 +3195,7 @@
   {
     "id": 2206,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Social media",
     "arabic": "وسائل التواصل الاجتماعي",
@@ -3224,7 +3224,7 @@
   {
     "id": 2207,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Public relations",
     "arabic": "العلاقات العامة",
@@ -3253,7 +3253,7 @@
   {
     "id": 2208,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media coverage",
     "arabic": "تغطية إعلامية",
@@ -3282,7 +3282,7 @@
 {
     "id": 2209,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media bias",
     "arabic": "تحيز الإعلام",
@@ -3311,7 +3311,7 @@
   {
     "id": 2210,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media literacy",
     "arabic": "معرفة وسائل الإعلام",
@@ -3340,7 +3340,7 @@
   {
     "id": 2211,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Information society",
     "arabic": "مجتمع المعلومات",
@@ -3369,7 +3369,7 @@
   {
     "id": 2212,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media platform",
     "arabic": "منصة الإعلام",
@@ -3398,7 +3398,7 @@
 {
     "id": 2213,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Editorial policy",
     "arabic": "سياسة التحرير",
@@ -3427,7 +3427,7 @@
   {
     "id": 2214,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "News outlet",
     "arabic": "وسيلة إعلامية",
@@ -3456,7 +3456,7 @@
   {
     "id": 2215,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media convergence",
     "arabic": "تقارب الإعلام",
@@ -3485,7 +3485,7 @@
   {
     "id": 2216,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media monitoring",
     "arabic": "مراقبة وسائل الإعلام",
@@ -3514,7 +3514,7 @@
   {
     "id": 2217,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media campaign",
     "arabic": "حملة إعلامية",
@@ -3543,7 +3543,7 @@
 {
     "id": 2218,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Press release",
     "arabic": "بيان صحفي",
@@ -3572,7 +3572,7 @@
   {
     "id": 2219,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Opinion piece",
     "arabic": "مقال رأي",
@@ -3601,7 +3601,7 @@
   {
     "id": 2220,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Investigative journalism",
     "arabic": "الصحافة الاستقصائية",
@@ -3630,7 +3630,7 @@
   {
     "id": 2221,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "News agency",
     "arabic": "وكالة أنباء",
@@ -3659,7 +3659,7 @@
   {
     "id": 2222,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Press conference",
     "arabic": "مؤتمر صحفي",
@@ -3688,7 +3688,7 @@
   {
     "id": 2223,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media influence",
     "arabic": "تأثير الإعلام",
@@ -3717,7 +3717,7 @@
   {
     "id": 2224,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Fact-checking",
     "arabic": "التحقق من الحقائق",
@@ -3746,7 +3746,7 @@
   {
     "id": 2225,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Freedom of the press",
     "arabic": "حرية الصحافة",
@@ -3775,7 +3775,7 @@
 {
     "id": 2226,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Broadcasting rights",
     "arabic": "حقوق البث",
@@ -3804,7 +3804,7 @@
   {
     "id": 2227,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Censorship",
     "arabic": "الرقابة",
@@ -3833,7 +3833,7 @@
   {
     "id": 2228,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Journalistic ethics",
     "arabic": "أخلاقيات الصحافة",
@@ -3862,7 +3862,7 @@
   {
     "id": 2229,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Mass communication",
     "arabic": "الاتصال الجماهيري",
@@ -3891,7 +3891,7 @@
   {
     "id": 2230,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Communications & Media",
     "english": "Media ethics",
     "arabic": "أخلاقيات الإعلام",
@@ -3921,7 +3921,7 @@
   {
     "id": 2231,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Moral dilemma",
     "arabic": "مأزق أخلاقي",
@@ -3950,7 +3950,7 @@
   {
     "id": 2232,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Ethical principle",
     "arabic": "مبدأ أخلاقي",
@@ -3979,7 +3979,7 @@
   {
     "id": 2233,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Virtue",
     "arabic": "فضيلة",
@@ -4008,7 +4008,7 @@
   {
     "id": 2234,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Integrity",
     "arabic": "نزاهة",
@@ -4037,7 +4037,7 @@
   {
     "id": 2235,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Accountability",
     "arabic": "المساءلة",
@@ -4066,7 +4066,7 @@
 {
     "id": 2236,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Moral responsibility",
     "arabic": "المسؤولية الأخلاقية",
@@ -4095,7 +4095,7 @@
   {
     "id": 2237,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Principled behavior",
     "arabic": "سلوك مبدئي",
@@ -4124,7 +4124,7 @@
   {
     "id": 2238,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Ethical dilemma",
     "arabic": "معضلة أخلاقية",
@@ -4153,7 +4153,7 @@
   {
     "id": 2239,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Social responsibility",
     "arabic": "المسؤولية الاجتماعية",
@@ -4182,7 +4182,7 @@
   {
     "id": 2240,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Honesty",
     "arabic": "أمانة / صدق",
@@ -4211,7 +4211,7 @@
 {
     "id": 2241,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Fairness",
     "arabic": "عدالة",
@@ -4240,7 +4240,7 @@
   {
     "id": 2242,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Trustworthiness",
     "arabic": "جدارة بالثقة",
@@ -4269,7 +4269,7 @@
   {
     "id": 2243,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Altruism",
     "arabic": "إيثار",
@@ -4298,7 +4298,7 @@
   {
     "id": 2244,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Ethical code",
     "arabic": "مدونة أخلاقية",
@@ -4327,7 +4327,7 @@
   {
     "id": 2245,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Humanitarianism",
     "arabic": "الإنسانية / العمل الإنساني",
@@ -4356,7 +4356,7 @@
 {
     "id": 2246,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Equity",
     "arabic": "إنصاف",
@@ -4385,7 +4385,7 @@
   {
     "id": 2247,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Compassion",
     "arabic": "شفقة",
@@ -4414,7 +4414,7 @@
   {
     "id": 2248,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Responsibility",
     "arabic": "مسؤولية",
@@ -4443,7 +4443,7 @@
   {
     "id": 2249,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Honour",
     "arabic": "شرف",
@@ -4472,7 +4472,7 @@
   {
     "id": 2250,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Justice",
     "arabic": "عدالة",
@@ -4501,7 +4501,7 @@
   {
     "id": 2251,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Ethical conduct",
     "arabic": "سلوك أخلاقي",
@@ -4530,7 +4530,7 @@
   {
     "id": 2252,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Moral compass",
     "arabic": "بوصلة أخلاقية",
@@ -4559,7 +4559,7 @@
   {
     "id": 2253,
     "type": "noun",
-    "level": "C1",
+    "level": "C1.2",
     "topic": "Ethics & Morality",
     "english": "Beneficence",
     "arabic": "إحسان / نفع للآخرين",
