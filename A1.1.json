@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Mother",
     "arabic": "أم",
@@ -30,7 +30,7 @@
   {
     "id": 2,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Father",
     "arabic": "أب",
@@ -59,7 +59,7 @@
   {
     "id": 3,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Brother",
     "arabic": "أخ",
@@ -88,7 +88,7 @@
   {
     "id": 4,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Sister",
     "arabic": "أخت",
@@ -117,7 +117,7 @@
   {
     "id": 5,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Son",
     "arabic": "ابن",
@@ -146,7 +146,7 @@
   {
     "id": 6,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Daughter",
     "arabic": "ابنة",
@@ -175,7 +175,7 @@
   {
     "id": 7,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Grandmother",
     "arabic": "جدة",
@@ -204,7 +204,7 @@
   {
     "id": 8,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Grandfather",
     "arabic": "جد",
@@ -233,7 +233,7 @@
   {
     "id": 9,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Aunt",
     "arabic": "عمة/خالة",
@@ -262,7 +262,7 @@
   {
     "id": 10,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Uncle",
     "arabic": "عم/خال",
@@ -291,7 +291,7 @@
   {
     "id": 11,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Cousin",
     "arabic": "ابن/ابنة العم/الخال",
@@ -320,7 +320,7 @@
   {
     "id": 12,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Family",
     "arabic": "عائلة",
@@ -349,7 +349,7 @@
   {
     "id": 13,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Parent",
     "arabic": "والد/والدة",
@@ -378,7 +378,7 @@
   {
     "id": 14,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Child",
     "arabic": "طفل",
@@ -407,7 +407,7 @@
   {
     "id": 15,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Baby",
     "arabic": "رضيع",
@@ -436,7 +436,7 @@
   {
     "id": 16,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Friend",
     "arabic": "صديق",
@@ -465,7 +465,7 @@
   {
     "id": 17,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Best friend",
     "arabic": "أفضل صديق",
@@ -494,7 +494,7 @@
   {
     "id": 18,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Neighbor",
     "arabic": "جار",
@@ -523,7 +523,7 @@
   {
     "id": 19,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Classmate",
     "arabic": "زميل صف",
@@ -552,7 +552,7 @@
   {
     "id": 20,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Colleague",
     "arabic": "زميل عمل",
@@ -581,7 +581,7 @@
 {
     "id": 21,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Partner",
     "arabic": "شريك",
@@ -610,7 +610,7 @@
   {
     "id": 22,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Husband",
     "arabic": "زوج",
@@ -639,7 +639,7 @@
   {
     "id": 23,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Wife",
     "arabic": "زوجة",
@@ -668,7 +668,7 @@
   {
     "id": 24,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Fiancé",
     "arabic": "خطيب",
@@ -697,7 +697,7 @@
   {
     "id": 25,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Fiancée",
     "arabic": "خطيبة",
@@ -726,7 +726,7 @@
   {
     "id": 26,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Godfather",
     "arabic": "عراب",
@@ -755,7 +755,7 @@
   {
     "id": 27,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Godmother",
     "arabic": "عمة الروح",
@@ -784,7 +784,7 @@
   {
     "id": 28,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Twin",
     "arabic": "توأم",
@@ -813,7 +813,7 @@
   {
     "id": 29,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Pet",
     "arabic": "حيوان أليف",
@@ -842,7 +842,7 @@
   {
     "id": 30,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Neighbor’s child",
     "arabic": "طفل الجار",
@@ -871,7 +871,7 @@
 {
     "id": 31,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Cousin (male)",
     "arabic": "ابن العم",
@@ -900,7 +900,7 @@
   {
     "id": 32,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Cousin (female)",
     "arabic": "ابنة العم",
@@ -929,7 +929,7 @@
   {
     "id": 33,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Grandfather",
     "arabic": "جد",
@@ -958,7 +958,7 @@
   {
     "id": 34,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Grandmother",
     "arabic": "جدة",
@@ -987,7 +987,7 @@
   {
     "id": 35,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Uncle",
     "arabic": "عم/خال",
@@ -1016,7 +1016,7 @@
   {
     "id": 36,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Aunt",
     "arabic": "عمة/خالة",
@@ -1045,7 +1045,7 @@
   {
     "id": 37,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Nephew",
     "arabic": "ابن الأخ/الأخت",
@@ -1074,7 +1074,7 @@
   {
     "id": 38,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Niece",
     "arabic": "ابنة الأخ/الأخت",
@@ -1103,7 +1103,7 @@
   {
     "id": 39,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Stepfather",
     "arabic": "زوج الأم/الأب الثاني",
@@ -1132,7 +1132,7 @@
   {
     "id": 40,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Stepmother",
     "arabic": "زوجة الأب/الأم الثانية",
@@ -1161,7 +1161,7 @@
   {
     "id": 41,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Stepbrother",
     "arabic": "أخو الزوج/الأخت الثاني",
@@ -1190,7 +1190,7 @@
   {
     "id": 42,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Stepsister",
     "arabic": "أخت الزوج/الأم الثانية",
@@ -1219,7 +1219,7 @@
   {
     "id": 43,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Friend (male)",
     "arabic": "صديق",
@@ -1248,7 +1248,7 @@
   {
     "id": 44,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Friend (female)",
     "arabic": "صديقة",
@@ -1277,7 +1277,7 @@
   {
     "id": 45,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Best friend",
     "arabic": "أفضل صديق",
@@ -1306,7 +1306,7 @@
   {
     "id": 46,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Boyfriend",
     "arabic": "صديق حميم",
@@ -1335,7 +1335,7 @@
   {
     "id": 47,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Girlfriend",
     "arabic": "صديقة حميم",
@@ -1364,7 +1364,7 @@
   {
     "id": 48,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Roommate",
     "arabic": "زميل السكن",
@@ -1393,7 +1393,7 @@
   {
     "id": 49,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Classmate",
     "arabic": "زميل الصف",
@@ -1422,7 +1422,7 @@
   {
     "id": 50,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Teammate",
     "arabic": "زميل الفريق",
@@ -1451,7 +1451,7 @@
   {
     "id": 51,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Partner (life)",
     "arabic": "شريك الحياة",
@@ -1480,7 +1480,7 @@
   {
     "id": 52,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Pet",
     "arabic": "حيوان أليف",
@@ -1509,7 +1509,7 @@
 {
     "id": 53,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Doctor",
     "arabic": "طبيب",
@@ -1538,7 +1538,7 @@
   {
     "id": 54,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Nurse",
     "arabic": "ممرض/ممرضة",
@@ -1567,7 +1567,7 @@
   {
     "id": 55,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Teacher",
     "arabic": "معلم/معلمة",
@@ -1596,7 +1596,7 @@
   {
     "id": 56,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Engineer",
     "arabic": "مهندس",
@@ -1625,7 +1625,7 @@
   {
     "id": 57,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Chef",
     "arabic": "طباخ",
@@ -1654,7 +1654,7 @@
 {
     "id": 58,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Police Officer",
     "arabic": "شرطي",
@@ -1683,7 +1683,7 @@
   {
     "id": 59,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Firefighter",
     "arabic": "رجل إطفاء",
@@ -1712,7 +1712,7 @@
   {
     "id": 60,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Driver",
     "arabic": "سائق",
@@ -1741,7 +1741,7 @@
   {
     "id": 61,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Waiter",
     "arabic": "نادل",
@@ -1770,7 +1770,7 @@
   {
     "id": 62,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Cashier",
     "arabic": "صراف",
@@ -1799,7 +1799,7 @@
   {
     "id": 63,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Secretary",
     "arabic": "سكرتير/سكرتيرة",
@@ -1828,7 +1828,7 @@
   {
     "id": 64,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Manager",
     "arabic": "مدير",
@@ -1857,7 +1857,7 @@
   {
     "id": 65,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Receptionist",
     "arabic": "موظف استقبال",
@@ -1886,7 +1886,7 @@
 {
     "id": 66,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Lawyer",
     "arabic": "محامي",
@@ -1915,7 +1915,7 @@
   {
     "id": 67,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Accountant",
     "arabic": "محاسب",
@@ -1944,7 +1944,7 @@
   {
     "id": 68,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Construction Worker",
     "arabic": "عامل بناء",
@@ -1973,7 +1973,7 @@
   {
     "id": 69,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Farmer",
     "arabic": "مزارع",
@@ -2002,7 +2002,7 @@
   {
     "id": 70,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Pilot",
     "arabic": "طيار",
@@ -2031,7 +2031,7 @@
   {
     "id": 71,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Mechanic",
     "arabic": "ميكانيكي",
@@ -2060,7 +2060,7 @@
   {
     "id": 72,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Photographer",
     "arabic": "مصوّر",
@@ -2089,7 +2089,7 @@
 {
     "id": 73,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Teacher",
     "arabic": "معلم",
@@ -2118,7 +2118,7 @@
   {
     "id": 74,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Nurse",
     "arabic": "ممرضة",
@@ -2147,7 +2147,7 @@
   {
     "id": 75,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Doctor",
     "arabic": "طبيب",
@@ -2176,7 +2176,7 @@
   {
     "id": 76,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Engineer",
     "arabic": "مهندس",
@@ -2205,7 +2205,7 @@
   {
     "id": 77,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Chef",
     "arabic": "طباخ",
@@ -2234,7 +2234,7 @@
   {
     "id": 78,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Journalist",
     "arabic": "صحفي",
@@ -2263,7 +2263,7 @@
   {
     "id": 79,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Artist",
     "arabic": "فنان",
@@ -2292,7 +2292,7 @@
   {
     "id": 80,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Musician",
     "arabic": "موسيقي",
@@ -2321,7 +2321,7 @@
   {
     "id": 81,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Actor",
     "arabic": "ممثل",
@@ -2350,7 +2350,7 @@
   {
     "id": 82,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Director",
     "arabic": "مخرج",
@@ -2379,7 +2379,7 @@
 {
     "id": 83,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Driver",
     "arabic": "سائق",
@@ -2408,7 +2408,7 @@
   {
     "id": 84,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Firefighter",
     "arabic": "رجل إطفاء",
@@ -2437,7 +2437,7 @@
   {
     "id": 85,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Police Officer",
     "arabic": "شرطي",
@@ -2466,7 +2466,7 @@
   {
     "id": 86,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Receptionist",
     "arabic": "موظف استقبال",
@@ -2495,7 +2495,7 @@
   {
     "id": 87,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Waiter",
     "arabic": "نادل",
@@ -2524,7 +2524,7 @@
   {
     "id": 88,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Waitress",
     "arabic": "نادلة",
@@ -2553,7 +2553,7 @@
   {
     "id": 89,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Cleaner",
     "arabic": "عامل نظافة",
@@ -2582,7 +2582,7 @@
   {
     "id": 90,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Receptionist",
     "arabic": "موظف استقبال",
@@ -2611,7 +2611,7 @@
 {
     "id": 91,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Secretary",
     "arabic": "سكرتير",
@@ -2640,7 +2640,7 @@
   {
     "id": 92,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Banker",
     "arabic": "مصرفي",
@@ -2669,7 +2669,7 @@
   {
     "id": 93,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Mechanic",
     "arabic": "ميكانيكي",
@@ -2698,7 +2698,7 @@
   {
     "id": 94,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Pilot",
     "arabic": "طيار",
@@ -2727,7 +2727,7 @@
   {
     "id": 95,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Driver",
     "arabic": "سائق",
@@ -2756,7 +2756,7 @@
   {
     "id": 96,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Construction Worker",
     "arabic": "عامل بناء",
@@ -2785,7 +2785,7 @@
   {
     "id": 97,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Farmer",
     "arabic": "مزارع",
@@ -2814,7 +2814,7 @@
   {
     "id": 98,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Lawyer",
     "arabic": "محامي",
@@ -2843,7 +2843,7 @@
   {
     "id": 99,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Judge",
     "arabic": "قاضي",
@@ -2872,7 +2872,7 @@
   {
   "id": 100,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Scientist",
   "arabic": "عالم",
@@ -2901,7 +2901,7 @@
 {
     "id": 101,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Teacher",
     "arabic": "معلم",
@@ -2930,7 +2930,7 @@
   {
     "id": 102,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Doctor",
     "arabic": "طبيب",
@@ -2959,7 +2959,7 @@
   {
     "id": 103,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Nurse",
     "arabic": "ممرض/ممرضة",
@@ -2988,7 +2988,7 @@
   {
     "id": 104,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Engineer",
     "arabic": "مهندس",
@@ -3017,7 +3017,7 @@
   {
     "id": 105,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Chef",
     "arabic": "طاهي",
@@ -3046,7 +3046,7 @@
   {
     "id": 106,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Police Officer",
     "arabic": "ضابط شرطة",
@@ -3075,7 +3075,7 @@
   {
     "id": 107,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Firefighter",
     "arabic": "رجل إطفاء",
@@ -3104,7 +3104,7 @@
   {
     "id": 108,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Farmer",
     "arabic": "مزارع",
@@ -3133,7 +3133,7 @@
   {
     "id": 109,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Driver",
     "arabic": "سائق",
@@ -3162,7 +3162,7 @@
   {
     "id": 110,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Waiter",
     "arabic": "نادل",
@@ -3191,7 +3191,7 @@
   {
     "id": 111,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Shopkeeper",
     "arabic": "صاحب متجر",
@@ -3220,7 +3220,7 @@
   {
     "id": 112,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Construction Worker",
     "arabic": "عامل بناء",
@@ -3249,7 +3249,7 @@
   {
     "id": 113,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Mechanic",
     "arabic": "ميكانيكي",
@@ -3278,7 +3278,7 @@
   {
     "id": 114,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Work / Jobs",
     "english": "Secretary",
     "arabic": "سكرتير",
@@ -3307,7 +3307,7 @@
   {
   "id": 115,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Office Worker",
   "arabic": "موظف مكتب",
@@ -3336,7 +3336,7 @@
 {
     "id": 116,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Mother",
     "arabic": "أم",
@@ -3365,7 +3365,7 @@
   {
     "id": 117,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Father",
     "arabic": "أب",
@@ -3394,7 +3394,7 @@
   {
     "id": 118,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Brother",
     "arabic": "أخ",
@@ -3423,7 +3423,7 @@
   {
     "id": 119,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Sister",
     "arabic": "أخت",
@@ -3452,7 +3452,7 @@
   {
     "id": 120,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Friend",
     "arabic": "صديق",
@@ -3481,7 +3481,7 @@
 {
     "id": 121,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Grandmother",
     "arabic": "جدّة",
@@ -3510,7 +3510,7 @@
   {
     "id": 122,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Grandfather",
     "arabic": "جدّ",
@@ -3539,7 +3539,7 @@
   {
     "id": 123,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Uncle",
     "arabic": "عم / خال",
@@ -3568,7 +3568,7 @@
   {
     "id": 124,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Aunt",
     "arabic": "عمة / خالة",
@@ -3597,7 +3597,7 @@
   {
     "id": 125,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "Family & Friends",
     "english": "Cousin",
     "arabic": "ابن/بنت عم/خال",
@@ -3626,7 +3626,7 @@
 {
   "id": 126,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Tailor",
   "arabic": "خياط",
@@ -3655,7 +3655,7 @@
 {
   "id": 127,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Taxi Driver",
   "arabic": "سائق تاكسي",
@@ -3684,7 +3684,7 @@
 {
   "id": 128,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Pilot",
   "arabic": "طيار",
@@ -3713,7 +3713,7 @@
 {
   "id": 129,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Chef",
   "arabic": "طباخ",
@@ -3742,7 +3742,7 @@
 {
   "id": 130,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Mechanic",
   "arabic": "ميكانيكي",
@@ -3771,7 +3771,7 @@
 {
   "id": 131,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Electrician",
   "arabic": "كهربائي",
@@ -3800,7 +3800,7 @@
 {
   "id": 132,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Plumber",
   "arabic": "سباك",
@@ -3829,7 +3829,7 @@
 {
   "id": 133,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Engineer",
   "arabic": "مهندس",
@@ -3858,7 +3858,7 @@
 {
   "id": 134,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Teacher",
   "arabic": "معلم",
@@ -3887,7 +3887,7 @@
 {
   "id": 135,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Nurse",
   "arabic": "ممرضة",
@@ -3916,7 +3916,7 @@
 {
   "id": 136,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Doctor",
   "arabic": "طبيب",
@@ -3945,7 +3945,7 @@
 {
   "id": 137,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Farmer",
   "arabic": "فلاح",
@@ -3974,7 +3974,7 @@
 {
   "id": 138,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Firefighter",
   "arabic": "رجل إطفاء",
@@ -4003,7 +4003,7 @@
 {
   "id": 139,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Police Officer",
   "arabic": "شرطي",
@@ -4032,7 +4032,7 @@
 {
   "id": 140,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Waiter",
   "arabic": "نادل",
@@ -4061,7 +4061,7 @@
 {
   "id": 141,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Chef",
   "arabic": "طاهٍ",
@@ -4090,7 +4090,7 @@
 {
   "id": 142,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Taxi Driver",
   "arabic": "سائق تاكسي",
@@ -4119,7 +4119,7 @@
 {
   "id": 143,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Pilot",
   "arabic": "طيار",
@@ -4148,7 +4148,7 @@
 {
   "id": 144,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Flight Attendant",
   "arabic": "مضيف طيران",
@@ -4177,7 +4177,7 @@
 {
   "id": 145,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Artist",
   "arabic": "فنان",
@@ -4206,7 +4206,7 @@
 {
   "id": 146,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Photographer",
   "arabic": "مصور",
@@ -4235,7 +4235,7 @@
 {
   "id": 147,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Musician",
   "arabic": "موسيقي",
@@ -4264,7 +4264,7 @@
 {
   "id": 148,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Writer",
   "arabic": "كاتب",
@@ -4293,7 +4293,7 @@
 {
   "id": 149,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Actor",
   "arabic": "ممثل",
@@ -4322,7 +4322,7 @@
 {
   "id": 150,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Work / Jobs",
   "english": "Journalist",
   "arabic": "صحفي",
@@ -4351,7 +4351,7 @@
 {
   "id": 151,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Sister",
   "arabic": "أخت",
@@ -4380,7 +4380,7 @@
 {
   "id": 152,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Brother",
   "arabic": "أخ",
@@ -4409,7 +4409,7 @@
 {
   "id": 153,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Mother",
   "arabic": "أم",
@@ -4438,7 +4438,7 @@
 {
   "id": 154,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Father",
   "arabic": "أب",
@@ -4467,7 +4467,7 @@
 {
   "id": 155,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Grandmother",
   "arabic": "جدة",
@@ -4496,7 +4496,7 @@
 {
   "id": 156,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Grandfather",
   "arabic": "جد",
@@ -4525,7 +4525,7 @@
 {
   "id": 157,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Son",
   "arabic": "ابن",
@@ -4554,7 +4554,7 @@
 {
   "id": 158,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Daughter",
   "arabic": "ابنة",
@@ -4583,7 +4583,7 @@
 {
   "id": 159,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Aunt",
   "arabic": "عمة / خالة",
@@ -4612,7 +4612,7 @@
 {
   "id": 160,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Uncle",
   "arabic": "عم / خال",
@@ -4641,7 +4641,7 @@
 {
   "id": 161,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Cousin",
   "arabic": "ابن / ابنة العم أو الخال",
@@ -4670,7 +4670,7 @@
 {
   "id": 162,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Friend",
   "arabic": "صديق",
@@ -4699,7 +4699,7 @@
 {
   "id": 163,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Neighbor",
   "arabic": "جار",
@@ -4728,7 +4728,7 @@
 {
   "id": 164,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Baby",
   "arabic": "طفل رضيع",
@@ -4757,7 +4757,7 @@
 {
   "id": 165,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Husband",
   "arabic": "زوج",
@@ -4786,7 +4786,7 @@
 {
   "id": 166,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Wife",
   "arabic": "زوجة",
@@ -4815,7 +4815,7 @@
 {
   "id": 167,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Parents",
   "arabic": "الوالدان",
@@ -4844,7 +4844,7 @@
 {
   "id": 168,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Children",
   "arabic": "أطفال",
@@ -4873,7 +4873,7 @@
 {
   "id": 169,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Family",
   "arabic": "عائلة",
@@ -4902,7 +4902,7 @@
 {
   "id": 170,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Marriage",
   "arabic": "زواج",
@@ -4931,7 +4931,7 @@
 {
   "id": 171,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Love",
   "arabic": "حب",
@@ -4960,7 +4960,7 @@
 {
   "id": 172,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Friendship",
   "arabic": "صداقة",
@@ -4989,7 +4989,7 @@
 {
   "id": 173,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Meet",
   "arabic": "يقابل / يلتقي",
@@ -5018,7 +5018,7 @@
 {
   "id": 174,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Talk",
   "arabic": "يتحدث",
@@ -5047,7 +5047,7 @@
 {
   "id": 175,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Family & Friends",
   "english": "Help",
   "arabic": "يساعد",
@@ -5076,7 +5076,7 @@
 {
   "id": 176,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Eat breakfast",
   "arabic": "يتناول الفطور",
@@ -5105,7 +5105,7 @@
 {
   "id": 177,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go to school",
   "arabic": "يذهب إلى المدرسة",
@@ -5134,7 +5134,7 @@
 {
   "id": 178,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go to work",
   "arabic": "يذهب إلى العمل",
@@ -5163,7 +5163,7 @@
 {
   "id": 179,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Have lunch",
   "arabic": "يتناول الغداء",
@@ -5192,7 +5192,7 @@
 {
   "id": 180,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Have dinner",
   "arabic": "يتناول العشاء",
@@ -5221,7 +5221,7 @@
 {
   "id": 181,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Wash hands",
   "arabic": "يغسل يديه",
@@ -5250,7 +5250,7 @@
 {
   "id": 182,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go shopping",
   "arabic": "يذهب للتسوق",
@@ -5279,7 +5279,7 @@
 {
   "id": 183,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Read a book",
   "arabic": "يقرأ كتابا",
@@ -5308,7 +5308,7 @@
 {
   "id": 184,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Watch TV",
   "arabic": "يشاهد التلفاز",
@@ -5337,7 +5337,7 @@
 {
   "id": 185,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Listen to music",
   "arabic": "يستمع إلى الموسيقى",
@@ -5366,7 +5366,7 @@
 {
   "id": 186,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go for a walk",
   "arabic": "يذهب في نزهة",
@@ -5395,7 +5395,7 @@
 {
   "id": 187,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go to bed",
   "arabic": "يذهب إلى السرير",
@@ -5424,7 +5424,7 @@
 {
   "id": 188,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Call a friend",
   "arabic": "يتصل بصديق",
@@ -5453,7 +5453,7 @@
 {
   "id": 189,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Send a message",
   "arabic": "يرسل رسالة",
@@ -5482,7 +5482,7 @@
 {
   "id": 190,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go to the park",
   "arabic": "يذهب إلى الحديقة",
@@ -5511,7 +5511,7 @@
 {
   "id": 191,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Play with friends",
   "arabic": "يلعب مع الأصدقاء",
@@ -5540,7 +5540,7 @@
 {
   "id": 192,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go to the gym",
   "arabic": "يذهب إلى صالة الألعاب الرياضية",
@@ -5569,7 +5569,7 @@
 {
   "id": 193,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Ride a bike",
   "arabic": "يركب الدراجة",
@@ -5598,7 +5598,7 @@
 {
   "id": 194,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Do homework",
   "arabic": "يقوم بالواجب المنزلي",
@@ -5627,7 +5627,7 @@
 {
   "id": 195,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Check emails",
   "arabic": "يفحص البريد الإلكتروني",
@@ -5656,7 +5656,7 @@
 {
   "id": 196,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Clean the house",
   "arabic": "ينظف المنزل",
@@ -5685,7 +5685,7 @@
 {
   "id": 197,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Do laundry",
   "arabic": "يغسل الملابس",
@@ -5714,7 +5714,7 @@
 {
   "id": 198,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Cook dinner",
   "arabic": "يطبخ العشاء",
@@ -5743,7 +5743,7 @@
 {
   "id": 199,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Set the table",
   "arabic": "يجهز الطاولة",
@@ -5772,7 +5772,7 @@
 {
   "id": 200,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Wash dishes",
   "arabic": "يغسل الصحون",
@@ -5801,7 +5801,7 @@
 {
   "id": 201,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Watch TV",
   "arabic": "يشاهد التلفاز",
@@ -5830,7 +5830,7 @@
 {
   "id": 202,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Listen to music",
   "arabic": "يستمع إلى الموسيقى",
@@ -5859,7 +5859,7 @@
 {
   "id": 203,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Read a book",
   "arabic": "يقرأ كتابًا",
@@ -5888,7 +5888,7 @@
 {
   "id": 204,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go shopping",
   "arabic": "يذهب للتسوق",
@@ -5917,7 +5917,7 @@
 {
   "id": 205,
   "type": "verb",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "daily life",
   "english": "Go to school",
   "arabic": "يذهب إلى المدرسة",
@@ -5946,7 +5946,7 @@
 {
     "id": 206,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Apple",
     "arabic": "تفاحة",
@@ -5975,7 +5975,7 @@
   {
     "id": 207,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Banana",
     "arabic": "موزة",
@@ -6004,7 +6004,7 @@
   {
     "id": 208,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Bread",
     "arabic": "خبز",
@@ -6033,7 +6033,7 @@
   {
     "id": 209,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Water",
     "arabic": "ماء",
@@ -6062,7 +6062,7 @@
   {
     "id": 210,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Milk",
     "arabic": "حليب",
@@ -6091,7 +6091,7 @@
   {
     "id": 211,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Coffee",
     "arabic": "قهوة",
@@ -6120,7 +6120,7 @@
   {
     "id": 212,
     "type": "noun",
-    "level": "A1",
+    "level": "A1.1",
     "topic": "food & drinks",
     "english": "Tea",
     "arabic": "شاي",
@@ -6146,33 +6146,33 @@
     "dari": "چای",
     "romanian": "Ceai"
   },
-{ "id": 213, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Bread", "arabic": "خبز", "german": "Brot", "spanish": "Pan", "russian": "Хлеб", "japanese": "パン", "french": "Pain", "italian": "Pane", "portuguese": "Pão", "chinese": "面包", "korean": "빵", "turkish": "Ekmek", "dutch": "Brood", "hindi": "रोटी", "indonesian": "Roti", "swedish": "Bröd", "thai": "ขนมปัง", "vietnamese": "Bánh mì", "polish": "Chleb", "ukrainian": "Хліб", "farsi": "نان", "dari": "نان", "romanian": "Pâine" },
-  { "id": 214, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Butter", "arabic": "زبدة", "german": "Butter", "spanish": "Mantequilla", "russian": "Масло", "japanese": "バター", "french": "Beurre", "italian": "Burro", "portuguese": "Manteiga", "chinese": "黄油", "korean": "버터", "turkish": "Tereyağı", "dutch": "Boter", "hindi": "मक्खन", "indonesian": "Mentega", "swedish": "Smör", "thai": "เนย", "vietnamese": "Bơ", "polish": "Masło", "ukrainian": "Масло", "farsi": "کره", "dari": "کره", "romanian": "Unt" },
-  { "id": 215, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Cheese", "arabic": "جبن", "german": "Käse", "spanish": "Queso", "russian": "Сыр", "japanese": "チーズ", "french": "Fromage", "italian": "Formaggio", "portuguese": "Queijo", "chinese": "奶酪", "korean": "치즈", "turkish": "Peynir", "dutch": "Kaas", "hindi": "पनीर", "indonesian": "Keju", "swedish": "Ost", "thai": "ชีส", "vietnamese": "Phô mai", "polish": "Ser", "ukrainian": "Сир", "farsi": "پنیر", "dari": "پنیر", "romanian": "Brânză" },
-  { "id": 216, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Milk", "arabic": "حليب", "german": "Milch", "spanish": "Leche", "russian": "Молоко", "japanese": "牛乳", "french": "Lait", "italian": "Latte", "portuguese": "Leite", "chinese": "牛奶", "korean": "우유", "turkish": "Süt", "dutch": "Melk", "hindi": "दूध", "indonesian": "Susu", "swedish": "Mjölk", "thai": "นม", "vietnamese": "Sữa", "polish": "Mleko", "ukrainian": "Молоко", "farsi": "شیر", "dari": "شیر", "romanian": "Lapte" },
-  { "id": 217, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Egg", "arabic": "بيضة", "german": "Ei", "spanish": "Huevo", "russian": "Яйцо", "japanese": "卵", "french": "Œuf", "italian": "Uovo", "portuguese": "Ovo", "chinese": "鸡蛋", "korean": "달걀", "turkish": "Yumurta", "dutch": "Ei", "hindi": "अंडा", "indonesian": "Telur", "swedish": "Ägg", "thai": "ไข่", "vietnamese": "Trứng", "polish": "Jajko", "ukrainian": "Яйце", "farsi": "تخم‌مرغ", "dari": "تخم مرغ", "romanian": "Ou" },
-  { "id": 218, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Juice", "arabic": "عصير", "german": "Saft", "spanish": "Jugo", "russian": "Сок", "japanese": "ジュース", "french": "Jus", "italian": "Succo", "portuguese": "Suco", "chinese": "果汁", "korean": "주스", "turkish": "Meyve suyu", "dutch": "Sap", "hindi": "रस", "indonesian": "Jus", "swedish": "Juice", "thai": "น้ำผลไม้", "vietnamese": "Nước ép", "polish": "Sok", "ukrainian": "Сік", "farsi": "آبمیوه", "dari": "آبمیوه", "romanian": "Suc" },
-  { "id": 219, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Water", "arabic": "ماء", "german": "Wasser", "spanish": "Agua", "russian": "Вода", "japanese": "水", "french": "Eau", "italian": "Acqua", "portuguese": "Água", "chinese": "水", "korean": "물", "turkish": "Su", "dutch": "Water", "hindi": "पानी", "indonesian": "Air", "swedish": "Vatten", "thai": "น้ำ", "vietnamese": "Nước", "polish": "Woda", "ukrainian": "Вода", "farsi": "آب", "dari": "آب", "romanian": "Apă" },
-  { "id": 220, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Tea", "arabic": "شاي", "german": "Tee", "spanish": "Té", "russian": "Чай", "japanese": "お茶", "french": "Thé", "italian": "Tè", "portuguese": "Chá", "chinese": "茶", "korean": "차", "turkish": "Çay", "dutch": "Thee", "hindi": "चाय", "indonesian": "Teh", "swedish": "Te", "thai": "ชา", "vietnamese": "Trà", "polish": "Herbata", "ukrainian": "Чай", "farsi": "چای", "dari": "چای", "romanian": "Ceai" },
-  { "id": 221, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Coffee", "arabic": "قهوة", "german": "Kaffee", "spanish": "Café", "russian": "Кофе", "japanese": "コーヒー", "french": "Café", "italian": "Caffè", "portuguese": "Café", "chinese": "咖啡", "korean": "커피", "turkish": "Kahve", "dutch": "Koffie", "hindi": "कॉफ़ी", "indonesian": "Kopi", "swedish": "Kaffe", "thai": "กาแฟ", "vietnamese": "Cà phê", "polish": "Kawa", "ukrainian": "Кава", "farsi": "قهوه", "dari": "قهوه", "romanian": "Cafea" },
-  { "id": 222, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Rice", "arabic": "أرز", "german": "Reis", "spanish": "Arroz", "russian": "Рис", "japanese": "ご飯", "french": "Riz", "italian": "Riso", "portuguese": "Arroz", "chinese": "米饭", "korean": "밥", "turkish": "Pirinç", "dutch": "Rijst", "hindi": "चावल", "indonesian": "Nasi", "swedish": "Ris", "thai": "ข้าว", "vietnamese": "Cơm", "polish": "Ryż", "ukrainian": "Рис", "farsi": "برنج", "dari": "برنج", "romanian": "Orez" },
-  { "id": 223, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Soup", "arabic": "شوربة", "german": "Suppe", "spanish": "Sopa", "russian": "Суп", "japanese": "スープ", "french": "Soupe", "italian": "Zuppa", "portuguese": "Sopa", "chinese": "汤", "korean": "수프", "turkish": "Çorba", "dutch": "Soep", "hindi": "सूप", "indonesian": "Sup", "swedish": "Soppa", "thai": "ซุป", "vietnamese": "Súp", "polish": "Zupa", "ukrainian": "Суп", "farsi": "سوپ", "dari": "سوپ", "romanian": "Supă" },
-  { "id": 224, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Fish", "arabic": "سمك", "german": "Fisch", "spanish": "Pescado", "russian": "Рыба", "japanese": "魚", "french": "Poisson", "italian": "Pesce", "portuguese": "Peixe", "chinese": "鱼", "korean": "생선", "turkish": "Balık", "dutch": "Vis", "hindi": "मछली", "indonesian": "Ikan", "swedish": "Fisk", "thai": "ปลา", "vietnamese": "Cá", "polish": "Ryba", "ukrainian": "Риба", "farsi": "ماهی", "dari": "ماهی", "romanian": "Pește" },
-{ "id": 225, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Meat", "arabic": "لحم", "german": "Fleisch", "spanish": "Carne", "russian": "Мясо", "japanese": "肉", "french": "Viande", "italian": "Carne", "portuguese": "Carne", "chinese": "肉", "korean": "고기", "turkish": "Et", "dutch": "Vlees", "hindi": "मांस", "indonesian": "Daging", "swedish": "Kött", "thai": "เนื้อ", "vietnamese": "Thịt", "polish": "Mięso", "ukrainian": "М’ясо", "farsi": "گوشت", "dari": "گوشت", "romanian": "Carne" },
-  { "id": 226, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Chicken", "arabic": "دجاج", "german": "Huhn", "spanish": "Pollo", "russian": "Курица", "japanese": "鶏肉", "french": "Poulet", "italian": "Pollo", "portuguese": "Frango", "chinese": "鸡肉", "korean": "닭고기", "turkish": "Tavuk", "dutch": "Kip", "hindi": "मुर्गा", "indonesian": "Ayam", "swedish": "Kyckling", "thai": "ไก่", "vietnamese": "Gà", "polish": "Kurczak", "ukrainian": "Курка", "farsi": "مرغ", "dari": "مرغ", "romanian": "Pui" },
-  { "id": 227, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Beef", "arabic": "لحم بقر", "german": "Rindfleisch", "spanish": "Carne de res", "russian": "Говядина", "japanese": "牛肉", "french": "Bœuf", "italian": "Manzo", "portuguese": "Carne de vaca", "chinese": "牛肉", "korean": "소고기", "turkish": "Sığır eti", "dutch": "Rundvlees", "hindi": "गोमांस", "indonesian": "Daging sapi", "swedish": "Nötkött", "thai": "เนื้อวัว", "vietnamese": "Thịt bò", "polish": "Wołowina", "ukrainian": "Яловичина", "farsi": "گوشت گاو", "dari": "گوشت گاو", "romanian": "Vită" },
-  { "id": 228, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Pork", "arabic": "لحم خنزير", "german": "Schweinefleisch", "spanish": "Cerdo", "russian": "Свинина", "japanese": "豚肉", "french": "Porc", "italian": "Maiale", "portuguese": "Porco", "chinese": "猪肉", "korean": "돼지고기", "turkish": "Domuz eti", "dutch": "Varkensvlees", "hindi": "सुअर का मांस", "indonesian": "Daging babi", "swedish": "Fläskkött", "thai": "หมู", "vietnamese": "Thịt heo", "polish": "Wieprzowina", "ukrainian": "Свинина", "farsi": "گوشت خوک", "dari": "گوشت خوک", "romanian": "Porc" },
-  { "id": 229, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Fruit", "arabic": "فاكهة", "german": "Obst", "spanish": "Fruta", "russian": "Фрукты", "japanese": "果物", "french": "Fruit", "italian": "Frutta", "portuguese": "Fruta", "chinese": "水果", "korean": "과일", "turkish": "Meyve", "dutch": "Fruit", "hindi": "फल", "indonesian": "Buah", "swedish": "Frukt", "thai": "ผลไม้", "vietnamese": "Trái cây", "polish": "Owoce", "ukrainian": "Фрукти", "farsi": "میوه", "dari": "میوه", "romanian": "Fruct" },
-  { "id": 230, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Vegetable", "arabic": "خضار", "german": "Gemüse", "spanish": "Verdura", "russian": "Овощ", "japanese": "野菜", "french": "Légume", "italian": "Verdura", "portuguese": "Legume", "chinese": "蔬菜", "korean": "채소", "turkish": "Sebze", "dutch": "Groente", "hindi": "सब्ज़ी", "indonesian": "Sayur", "swedish": "Grönsak", "thai": "ผัก", "vietnamese": "Rau", "polish": "Warzywo", "ukrainian": "Овоч", "farsi": "سبزیجات", "dari": "سبزیجات", "romanian": "Legumă" },
-  { "id": 231, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Apple", "arabic": "تفاحة", "german": "Apfel", "spanish": "Manzana", "russian": "Яблоко", "japanese": "りんご", "french": "Pomme", "italian": "Mela", "portuguese": "Maçã", "chinese": "苹果", "korean": "사과", "turkish": "Elma", "dutch": "Appel", "hindi": "सेब", "indonesian": "Apel", "swedish": "Äpple", "thai": "แอปเปิล", "vietnamese": "Táo", "polish": "Jabłko", "ukrainian": "Яблуко", "farsi": "سیب", "dari": "سیب", "romanian": "Măr" },
-  { "id": 232, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Banana", "arabic": "موز", "german": "Banane", "spanish": "Plátano", "russian": "Банан", "japanese": "バナナ", "french": "Banane", "italian": "Banana", "portuguese": "Banana", "chinese": "香蕉", "korean": "바나나", "turkish": "Muz", "dutch": "Banaan", "hindi": "केला", "indonesian": "Pisang", "swedish": "Banan", "thai": "กล้วย", "vietnamese": "Chuối", "polish": "Banan", "ukrainian": "Банан", "farsi": "موز", "dari": "موز", "romanian": "Banană" },
-  { "id": 233, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Orange", "arabic": "برتقالة", "german": "Orange", "spanish": "Naranja", "russian": "Апельсин", "japanese": "オレンジ", "french": "Orange", "italian": "Arancia", "portuguese": "Laranja", "chinese": "橙子", "korean": "오렌지", "turkish": "Portakal", "dutch": "Sinaasappel", "hindi": "संतरा", "indonesian": "Jeruk", "swedish": "Apelsin", "thai": "ส้ม", "vietnamese": "Cam", "polish": "Pomarańcza", "ukrainian": "Апельсин", "farsi": "پرتقال", "dari": "پرتقال", "romanian": "Portocală" },
-  { "id": 234, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Grapes", "arabic": "عنب", "german": "Trauben", "spanish": "Uvas", "russian": "Виноград", "japanese": "ぶどう", "french": "Raisin", "italian": "Uva", "portuguese": "Uvas", "chinese": "葡萄", "korean": "포도", "turkish": "Üzüm", "dutch": "Druiven", "hindi": "अंगूर", "indonesian": "Anggur", "swedish": "Druvor", "thai": "องุ่น", "vietnamese": "Nho", "polish": "Winogrona", "ukrainian": "Виноград", "farsi": "انگور", "dari": "انگور", "romanian": "Struguri" },
-  { "id": 235, "type": "noun", "level": "A1", "topic": "food and drinks", "english": "Strawberry", "arabic": "فراولة", "german": "Erdbeere", "spanish": "Fresa", "russian": "Клубника", "japanese": "いちご", "french": "Fraise", "italian": "Fragola", "portuguese": "Morango", "chinese": "草莓", "korean": "딸기", "turkish": "Çilek", "dutch": "Aardbei", "hindi": "स्ट्रॉबेरी", "indonesian": "Stroberi", "swedish": "Jordgubbe", "thai": "สตรอเบอร์รี่", "vietnamese": "Dâu tây", "polish": "Truskawka", "ukrainian": "Полуниця", "farsi": "توت فرنگی", "dari": "توت فرنگی", "romanian": "Căpșună" },
+{ "id": 213, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Bread", "arabic": "خبز", "german": "Brot", "spanish": "Pan", "russian": "Хлеб", "japanese": "パン", "french": "Pain", "italian": "Pane", "portuguese": "Pão", "chinese": "面包", "korean": "빵", "turkish": "Ekmek", "dutch": "Brood", "hindi": "रोटी", "indonesian": "Roti", "swedish": "Bröd", "thai": "ขนมปัง", "vietnamese": "Bánh mì", "polish": "Chleb", "ukrainian": "Хліб", "farsi": "نان", "dari": "نان", "romanian": "Pâine" },
+  { "id": 214, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Butter", "arabic": "زبدة", "german": "Butter", "spanish": "Mantequilla", "russian": "Масло", "japanese": "バター", "french": "Beurre", "italian": "Burro", "portuguese": "Manteiga", "chinese": "黄油", "korean": "버터", "turkish": "Tereyağı", "dutch": "Boter", "hindi": "मक्खन", "indonesian": "Mentega", "swedish": "Smör", "thai": "เนย", "vietnamese": "Bơ", "polish": "Masło", "ukrainian": "Масло", "farsi": "کره", "dari": "کره", "romanian": "Unt" },
+  { "id": 215, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Cheese", "arabic": "جبن", "german": "Käse", "spanish": "Queso", "russian": "Сыр", "japanese": "チーズ", "french": "Fromage", "italian": "Formaggio", "portuguese": "Queijo", "chinese": "奶酪", "korean": "치즈", "turkish": "Peynir", "dutch": "Kaas", "hindi": "पनीर", "indonesian": "Keju", "swedish": "Ost", "thai": "ชีส", "vietnamese": "Phô mai", "polish": "Ser", "ukrainian": "Сир", "farsi": "پنیر", "dari": "پنیر", "romanian": "Brânză" },
+  { "id": 216, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Milk", "arabic": "حليب", "german": "Milch", "spanish": "Leche", "russian": "Молоко", "japanese": "牛乳", "french": "Lait", "italian": "Latte", "portuguese": "Leite", "chinese": "牛奶", "korean": "우유", "turkish": "Süt", "dutch": "Melk", "hindi": "दूध", "indonesian": "Susu", "swedish": "Mjölk", "thai": "นม", "vietnamese": "Sữa", "polish": "Mleko", "ukrainian": "Молоко", "farsi": "شیر", "dari": "شیر", "romanian": "Lapte" },
+  { "id": 217, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Egg", "arabic": "بيضة", "german": "Ei", "spanish": "Huevo", "russian": "Яйцо", "japanese": "卵", "french": "Œuf", "italian": "Uovo", "portuguese": "Ovo", "chinese": "鸡蛋", "korean": "달걀", "turkish": "Yumurta", "dutch": "Ei", "hindi": "अंडा", "indonesian": "Telur", "swedish": "Ägg", "thai": "ไข่", "vietnamese": "Trứng", "polish": "Jajko", "ukrainian": "Яйце", "farsi": "تخم‌مرغ", "dari": "تخم مرغ", "romanian": "Ou" },
+  { "id": 218, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Juice", "arabic": "عصير", "german": "Saft", "spanish": "Jugo", "russian": "Сок", "japanese": "ジュース", "french": "Jus", "italian": "Succo", "portuguese": "Suco", "chinese": "果汁", "korean": "주스", "turkish": "Meyve suyu", "dutch": "Sap", "hindi": "रस", "indonesian": "Jus", "swedish": "Juice", "thai": "น้ำผลไม้", "vietnamese": "Nước ép", "polish": "Sok", "ukrainian": "Сік", "farsi": "آبمیوه", "dari": "آبمیوه", "romanian": "Suc" },
+  { "id": 219, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Water", "arabic": "ماء", "german": "Wasser", "spanish": "Agua", "russian": "Вода", "japanese": "水", "french": "Eau", "italian": "Acqua", "portuguese": "Água", "chinese": "水", "korean": "물", "turkish": "Su", "dutch": "Water", "hindi": "पानी", "indonesian": "Air", "swedish": "Vatten", "thai": "น้ำ", "vietnamese": "Nước", "polish": "Woda", "ukrainian": "Вода", "farsi": "آب", "dari": "آب", "romanian": "Apă" },
+  { "id": 220, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Tea", "arabic": "شاي", "german": "Tee", "spanish": "Té", "russian": "Чай", "japanese": "お茶", "french": "Thé", "italian": "Tè", "portuguese": "Chá", "chinese": "茶", "korean": "차", "turkish": "Çay", "dutch": "Thee", "hindi": "चाय", "indonesian": "Teh", "swedish": "Te", "thai": "ชา", "vietnamese": "Trà", "polish": "Herbata", "ukrainian": "Чай", "farsi": "چای", "dari": "چای", "romanian": "Ceai" },
+  { "id": 221, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Coffee", "arabic": "قهوة", "german": "Kaffee", "spanish": "Café", "russian": "Кофе", "japanese": "コーヒー", "french": "Café", "italian": "Caffè", "portuguese": "Café", "chinese": "咖啡", "korean": "커피", "turkish": "Kahve", "dutch": "Koffie", "hindi": "कॉफ़ी", "indonesian": "Kopi", "swedish": "Kaffe", "thai": "กาแฟ", "vietnamese": "Cà phê", "polish": "Kawa", "ukrainian": "Кава", "farsi": "قهوه", "dari": "قهوه", "romanian": "Cafea" },
+  { "id": 222, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Rice", "arabic": "أرز", "german": "Reis", "spanish": "Arroz", "russian": "Рис", "japanese": "ご飯", "french": "Riz", "italian": "Riso", "portuguese": "Arroz", "chinese": "米饭", "korean": "밥", "turkish": "Pirinç", "dutch": "Rijst", "hindi": "चावल", "indonesian": "Nasi", "swedish": "Ris", "thai": "ข้าว", "vietnamese": "Cơm", "polish": "Ryż", "ukrainian": "Рис", "farsi": "برنج", "dari": "برنج", "romanian": "Orez" },
+  { "id": 223, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Soup", "arabic": "شوربة", "german": "Suppe", "spanish": "Sopa", "russian": "Суп", "japanese": "スープ", "french": "Soupe", "italian": "Zuppa", "portuguese": "Sopa", "chinese": "汤", "korean": "수프", "turkish": "Çorba", "dutch": "Soep", "hindi": "सूप", "indonesian": "Sup", "swedish": "Soppa", "thai": "ซุป", "vietnamese": "Súp", "polish": "Zupa", "ukrainian": "Суп", "farsi": "سوپ", "dari": "سوپ", "romanian": "Supă" },
+  { "id": 224, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Fish", "arabic": "سمك", "german": "Fisch", "spanish": "Pescado", "russian": "Рыба", "japanese": "魚", "french": "Poisson", "italian": "Pesce", "portuguese": "Peixe", "chinese": "鱼", "korean": "생선", "turkish": "Balık", "dutch": "Vis", "hindi": "मछली", "indonesian": "Ikan", "swedish": "Fisk", "thai": "ปลา", "vietnamese": "Cá", "polish": "Ryba", "ukrainian": "Риба", "farsi": "ماهی", "dari": "ماهی", "romanian": "Pește" },
+{ "id": 225, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Meat", "arabic": "لحم", "german": "Fleisch", "spanish": "Carne", "russian": "Мясо", "japanese": "肉", "french": "Viande", "italian": "Carne", "portuguese": "Carne", "chinese": "肉", "korean": "고기", "turkish": "Et", "dutch": "Vlees", "hindi": "मांस", "indonesian": "Daging", "swedish": "Kött", "thai": "เนื้อ", "vietnamese": "Thịt", "polish": "Mięso", "ukrainian": "М’ясо", "farsi": "گوشت", "dari": "گوشت", "romanian": "Carne" },
+  { "id": 226, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Chicken", "arabic": "دجاج", "german": "Huhn", "spanish": "Pollo", "russian": "Курица", "japanese": "鶏肉", "french": "Poulet", "italian": "Pollo", "portuguese": "Frango", "chinese": "鸡肉", "korean": "닭고기", "turkish": "Tavuk", "dutch": "Kip", "hindi": "मुर्गा", "indonesian": "Ayam", "swedish": "Kyckling", "thai": "ไก่", "vietnamese": "Gà", "polish": "Kurczak", "ukrainian": "Курка", "farsi": "مرغ", "dari": "مرغ", "romanian": "Pui" },
+  { "id": 227, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Beef", "arabic": "لحم بقر", "german": "Rindfleisch", "spanish": "Carne de res", "russian": "Говядина", "japanese": "牛肉", "french": "Bœuf", "italian": "Manzo", "portuguese": "Carne de vaca", "chinese": "牛肉", "korean": "소고기", "turkish": "Sığır eti", "dutch": "Rundvlees", "hindi": "गोमांस", "indonesian": "Daging sapi", "swedish": "Nötkött", "thai": "เนื้อวัว", "vietnamese": "Thịt bò", "polish": "Wołowina", "ukrainian": "Яловичина", "farsi": "گوشت گاو", "dari": "گوشت گاو", "romanian": "Vită" },
+  { "id": 228, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Pork", "arabic": "لحم خنزير", "german": "Schweinefleisch", "spanish": "Cerdo", "russian": "Свинина", "japanese": "豚肉", "french": "Porc", "italian": "Maiale", "portuguese": "Porco", "chinese": "猪肉", "korean": "돼지고기", "turkish": "Domuz eti", "dutch": "Varkensvlees", "hindi": "सुअर का मांस", "indonesian": "Daging babi", "swedish": "Fläskkött", "thai": "หมู", "vietnamese": "Thịt heo", "polish": "Wieprzowina", "ukrainian": "Свинина", "farsi": "گوشت خوک", "dari": "گوشت خوک", "romanian": "Porc" },
+  { "id": 229, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Fruit", "arabic": "فاكهة", "german": "Obst", "spanish": "Fruta", "russian": "Фрукты", "japanese": "果物", "french": "Fruit", "italian": "Frutta", "portuguese": "Fruta", "chinese": "水果", "korean": "과일", "turkish": "Meyve", "dutch": "Fruit", "hindi": "फल", "indonesian": "Buah", "swedish": "Frukt", "thai": "ผลไม้", "vietnamese": "Trái cây", "polish": "Owoce", "ukrainian": "Фрукти", "farsi": "میوه", "dari": "میوه", "romanian": "Fruct" },
+  { "id": 230, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Vegetable", "arabic": "خضار", "german": "Gemüse", "spanish": "Verdura", "russian": "Овощ", "japanese": "野菜", "french": "Légume", "italian": "Verdura", "portuguese": "Legume", "chinese": "蔬菜", "korean": "채소", "turkish": "Sebze", "dutch": "Groente", "hindi": "सब्ज़ी", "indonesian": "Sayur", "swedish": "Grönsak", "thai": "ผัก", "vietnamese": "Rau", "polish": "Warzywo", "ukrainian": "Овоч", "farsi": "سبزیجات", "dari": "سبزیجات", "romanian": "Legumă" },
+  { "id": 231, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Apple", "arabic": "تفاحة", "german": "Apfel", "spanish": "Manzana", "russian": "Яблоко", "japanese": "りんご", "french": "Pomme", "italian": "Mela", "portuguese": "Maçã", "chinese": "苹果", "korean": "사과", "turkish": "Elma", "dutch": "Appel", "hindi": "सेब", "indonesian": "Apel", "swedish": "Äpple", "thai": "แอปเปิล", "vietnamese": "Táo", "polish": "Jabłko", "ukrainian": "Яблуко", "farsi": "سیب", "dari": "سیب", "romanian": "Măr" },
+  { "id": 232, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Banana", "arabic": "موز", "german": "Banane", "spanish": "Plátano", "russian": "Банан", "japanese": "バナナ", "french": "Banane", "italian": "Banana", "portuguese": "Banana", "chinese": "香蕉", "korean": "바나나", "turkish": "Muz", "dutch": "Banaan", "hindi": "केला", "indonesian": "Pisang", "swedish": "Banan", "thai": "กล้วย", "vietnamese": "Chuối", "polish": "Banan", "ukrainian": "Банан", "farsi": "موز", "dari": "موز", "romanian": "Banană" },
+  { "id": 233, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Orange", "arabic": "برتقالة", "german": "Orange", "spanish": "Naranja", "russian": "Апельсин", "japanese": "オレンジ", "french": "Orange", "italian": "Arancia", "portuguese": "Laranja", "chinese": "橙子", "korean": "오렌지", "turkish": "Portakal", "dutch": "Sinaasappel", "hindi": "संतरा", "indonesian": "Jeruk", "swedish": "Apelsin", "thai": "ส้ม", "vietnamese": "Cam", "polish": "Pomarańcza", "ukrainian": "Апельсин", "farsi": "پرتقال", "dari": "پرتقال", "romanian": "Portocală" },
+  { "id": 234, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Grapes", "arabic": "عنب", "german": "Trauben", "spanish": "Uvas", "russian": "Виноград", "japanese": "ぶどう", "french": "Raisin", "italian": "Uva", "portuguese": "Uvas", "chinese": "葡萄", "korean": "포도", "turkish": "Üzüm", "dutch": "Druiven", "hindi": "अंगूर", "indonesian": "Anggur", "swedish": "Druvor", "thai": "องุ่น", "vietnamese": "Nho", "polish": "Winogrona", "ukrainian": "Виноград", "farsi": "انگور", "dari": "انگور", "romanian": "Struguri" },
+  { "id": 235, "type": "noun", "level": "A1.1", "topic": "food and drinks", "english": "Strawberry", "arabic": "فراولة", "german": "Erdbeere", "spanish": "Fresa", "russian": "Клубника", "japanese": "いちご", "french": "Fraise", "italian": "Fragola", "portuguese": "Morango", "chinese": "草莓", "korean": "딸기", "turkish": "Çilek", "dutch": "Aardbei", "hindi": "स्ट्रॉबेरी", "indonesian": "Stroberi", "swedish": "Jordgubbe", "thai": "สตรอเบอร์รี่", "vietnamese": "Dâu tây", "polish": "Truskawka", "ukrainian": "Полуниця", "farsi": "توت فرنگی", "dari": "توت فرنگی", "romanian": "Căpșună" },
 {
   "id": 236,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "House",
   "arabic": "منزل",
@@ -6201,7 +6201,7 @@
 {
   "id": 237,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Apartment",
   "arabic": "شقة",
@@ -6230,7 +6230,7 @@
 {
   "id": 238,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Room",
   "arabic": "غرفة",
@@ -6259,7 +6259,7 @@
 {
   "id": 239,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Living Room",
   "arabic": "غرفة المعيشة",
@@ -6288,7 +6288,7 @@
 {
   "id": 240,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Kitchen",
   "arabic": "مطبخ",
@@ -6317,7 +6317,7 @@
 {
   "id": 241,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Bedroom",
   "arabic": "غرفة النوم",
@@ -6346,7 +6346,7 @@
 {
   "id": 242,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Bathroom",
   "arabic": "حمام",
@@ -6375,7 +6375,7 @@
 {
   "id": 243,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Garden",
   "arabic": "حديقة",
@@ -6404,7 +6404,7 @@
 {
   "id": 244,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Door",
   "arabic": "باب",
@@ -6433,7 +6433,7 @@
 {
   "id": 245,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Window",
   "arabic": "نافذة",
@@ -6462,7 +6462,7 @@
 {
   "id": 246,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Bed",
   "arabic": "سرير",
@@ -6491,7 +6491,7 @@
 {
   "id": 247,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Chair",
   "arabic": "كرسي",
@@ -6520,7 +6520,7 @@
 {
   "id": 248,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Table",
   "arabic": "طاولة",
@@ -6549,7 +6549,7 @@
 {
   "id": 249,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Sofa",
   "arabic": "أريكة",
@@ -6578,7 +6578,7 @@
 {
   "id": 250,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Fridge",
   "arabic": "ثلاجة",
@@ -6607,7 +6607,7 @@
 {
   "id": 251,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Lamp",
   "arabic": "مصباح",
@@ -6636,7 +6636,7 @@
 {
   "id": 252,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Television",
   "arabic": "تلفاز",
@@ -6665,7 +6665,7 @@
 {
   "id": 253,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Carpet",
   "arabic": "سجادة",
@@ -6694,7 +6694,7 @@
 {
   "id": 254,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Mirror",
   "arabic": "مرآة",
@@ -6723,7 +6723,7 @@
 {
   "id": 255,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Stairs",
   "arabic": "سلالم",
@@ -6752,7 +6752,7 @@
 {
   "id": 256,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Wall",
   "arabic": "جدار",
@@ -6781,7 +6781,7 @@
 {
   "id": 257,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Roof",
   "arabic": "سقف",
@@ -6810,7 +6810,7 @@
 {
   "id": 266,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Cushion",
   "arabic": "وسادة",
@@ -6839,7 +6839,7 @@
 {
   "id": 267,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Lamp",
   "arabic": "مصباح",
@@ -6868,7 +6868,7 @@
 {
   "id": 268,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Mirror",
   "arabic": "مرآة",
@@ -6897,7 +6897,7 @@
 {
   "id": 269,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Carpet",
   "arabic": "سجادة",
@@ -6926,7 +6926,7 @@
 {
   "id": 270,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Curtain",
   "arabic": "ستارة",
@@ -6955,7 +6955,7 @@
 {
   "id": 271,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Table",
   "arabic": "طاولة",
@@ -6984,7 +6984,7 @@
 {
   "id": 272,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Chair",
   "arabic": "كرسي",
@@ -7013,7 +7013,7 @@
 {
   "id": 273,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Bed",
   "arabic": "سرير",
@@ -7042,7 +7042,7 @@
 {
   "id": 274,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Wardrobe",
   "arabic": "خزانة",
@@ -7071,7 +7071,7 @@
 {
   "id": 275,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.1",
   "topic": "Home / House",
   "english": "Oven",
   "arabic": "فرن",
