@@ -2,7 +2,7 @@
   {
     "id": 1851,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Existentialism",
     "arabic": "الوجودية",
@@ -31,7 +31,7 @@
   {
     "id": 1852,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Utilitarianism",
     "arabic": "النفعية",
@@ -60,7 +60,7 @@
   {
     "id": 1853,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Deontology",
     "arabic": "الواجبية",
@@ -89,7 +89,7 @@
   {
     "id": 1854,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Epistemology",
     "arabic": "نظرية المعرفة",
@@ -118,7 +118,7 @@
   {
     "id": 1855,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Metaphysics",
     "arabic": "الميتافيزيقا",
@@ -147,7 +147,7 @@
   {
     "id": 1856,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Moral relativism",
     "arabic": "النسبية الأخلاقية",
@@ -176,7 +176,7 @@
   {
     "id": 1857,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Nihilism",
     "arabic": "العدمية",
@@ -205,7 +205,7 @@
   {
     "id": 1858,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Phenomenology",
     "arabic": "علم الظواهر",
@@ -234,7 +234,7 @@
   {
     "id": 1859,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Rationalism",
     "arabic": "العقلانية",
@@ -263,7 +263,7 @@
   {
     "id": 1860,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Empiricism",
     "arabic": "التجريبية",
@@ -292,7 +292,7 @@
 {
     "id": 1861,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Dialectics",
     "arabic": "الجدلية",
@@ -321,7 +321,7 @@
   {
     "id": 1862,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Ontology",
     "arabic": "علم الوجود",
@@ -350,7 +350,7 @@
   {
     "id": 1863,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Pragmatism",
     "arabic": "البراغماتية",
@@ -379,7 +379,7 @@
   {
     "id": 1864,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Skepticism",
     "arabic": "الشك",
@@ -408,7 +408,7 @@
   {
     "id": 1865,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Absurdism",
     "arabic": "العبثية",
@@ -437,7 +437,7 @@
 {
     "id": 1866,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Stoicism",
     "arabic": "الرواقية",
@@ -466,7 +466,7 @@
   {
     "id": 1867,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Hedonism",
     "arabic": "اللذة",
@@ -495,7 +495,7 @@
   {
     "id": 1868,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Transcendentalism",
     "arabic": "المثالية الميتافيزيقية",
@@ -524,7 +524,7 @@
   {
     "id": 1869,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Idealism",
     "arabic": "المثالية",
@@ -553,7 +553,7 @@
   {
     "id": 1870,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Existential crisis",
     "arabic": "أزمة وجودية",
@@ -582,7 +582,7 @@
 {
     "id": 1871,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Moral philosophy",
     "arabic": "فلسفة الأخلاق",
@@ -611,7 +611,7 @@
   {
     "id": 1872,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Aesthetics",
     "arabic": "الجماليات",
@@ -640,7 +640,7 @@
   {
     "id": 1873,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Teleology",
     "arabic": "غائية",
@@ -669,7 +669,7 @@
   {
     "id": 1874,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Determinism",
     "arabic": "الحتمية",
@@ -698,7 +698,7 @@
   {
     "id": 1875,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Free will",
     "arabic": "الإرادة الحرة",
@@ -727,7 +727,7 @@
   {
     "id": 1876,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Consequentialism",
     "arabic": "النفعية",
@@ -756,7 +756,7 @@
   {
     "id": 1877,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Virtue ethics",
     "arabic": "أخلاق الفضيلة",
@@ -785,7 +785,7 @@
   {
     "id": 1878,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Ethical relativism",
     "arabic": "النسبية الأخلاقية",
@@ -814,7 +814,7 @@
   {
     "id": 1879,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Moral absolutism",
     "arabic": "المطلقية الأخلاقية",
@@ -843,7 +843,7 @@
   {
     "id": 1880,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Social contract",
     "arabic": "العقد الاجتماعي",
@@ -872,7 +872,7 @@
   {
     "id": 1881,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Political philosophy",
     "arabic": "الفلسفة السياسية",
@@ -901,7 +901,7 @@
   {
     "id": 1882,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Social ethics",
     "arabic": "الأخلاق الاجتماعية",
@@ -930,7 +930,7 @@
 {
     "id": 1883,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Existentialism",
     "arabic": "الوجودية",
@@ -959,7 +959,7 @@
   {
     "id": 1884,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Nihilism",
     "arabic": "العدمية",
@@ -988,7 +988,7 @@
   {
     "id": 1885,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Phenomenology",
     "arabic": "الظاهراتية",
@@ -1017,7 +1017,7 @@
   {
     "id": 1886,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Epistemology",
     "arabic": "نظرية المعرفة",
@@ -1046,7 +1046,7 @@
   {
     "id": 1887,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Metaphysics",
     "arabic": "الميتافيزيقا",
@@ -1075,7 +1075,7 @@
   {
     "id": 1888,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Logic",
     "arabic": "المنطق",
@@ -1104,7 +1104,7 @@
   {
     "id": 1889,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Deontology",
     "arabic": "الواجبية",
@@ -1133,7 +1133,7 @@
   {
     "id": 1890,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Ethical egoism",
     "arabic": "الأناوية الأخلاقية",
@@ -1162,7 +1162,7 @@
   {
     "id": 1891,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Utilitarianism",
     "arabic": "النفعية",
@@ -1191,7 +1191,7 @@
   {
     "id": 1892,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Moral dilemmas",
     "arabic": "المعضلات الأخلاقية",
@@ -1220,7 +1220,7 @@
   {
     "id": 1893,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Cognitive science",
     "arabic": "علم الإدراك",
@@ -1249,7 +1249,7 @@
   {
     "id": 1894,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Philosophical argument",
     "arabic": "الحجة الفلسفية",
@@ -1278,7 +1278,7 @@
   {
     "id": 1895,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Philosophical skepticism",
     "arabic": "التشكيك الفلسفي",
@@ -1307,7 +1307,7 @@
   {
     "id": 1896,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Philosophical method",
     "arabic": "الطريقة الفلسفية",
@@ -1336,7 +1336,7 @@
   {
     "id": 1897,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Philosophical theory",
     "arabic": "نظرية فلسفية",
@@ -1365,7 +1365,7 @@
   {
     "id": 1898,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Rationalism",
     "arabic": "العقلانية",
@@ -1394,7 +1394,7 @@
   {
     "id": 1899,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Empiricism",
     "arabic": "التجريبية",
@@ -1423,7 +1423,7 @@
   {
     "id": 1900,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Philosophy",
     "english": "Dialectics",
     "arabic": "الجدلية",
@@ -1453,7 +1453,7 @@
   {
     "id": 1901,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Entrepreneurship",
     "arabic": "ريادة الأعمال",
@@ -1482,7 +1482,7 @@
   {
     "id": 1902,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Merger",
     "arabic": "اندماج",
@@ -1511,7 +1511,7 @@
   {
     "id": 1903,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Acquisition",
     "arabic": "استحواذ",
@@ -1540,7 +1540,7 @@
   {
     "id": 1904,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Stakeholder",
     "arabic": "أصحاب المصلحة",
@@ -1569,7 +1569,7 @@
   {
     "id": 1905,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate governance",
     "arabic": "حوكمة الشركات",
@@ -1598,7 +1598,7 @@
 {
     "id": 1906,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Shareholder",
     "arabic": "المساهم",
@@ -1627,7 +1627,7 @@
   {
     "id": 1907,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Dividends",
     "arabic": "أرباح الأسهم",
@@ -1656,7 +1656,7 @@
   {
     "id": 1908,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Liquidity",
     "arabic": "السيولة",
@@ -1685,7 +1685,7 @@
   {
     "id": 1909,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Revenue",
     "arabic": "الإيرادات",
@@ -1714,7 +1714,7 @@
   {
     "id": 1910,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Profit margin",
     "arabic": "هامش الربح",
@@ -1743,7 +1743,7 @@
 {
     "id": 1911,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Market share",
     "arabic": "حصة السوق",
@@ -1772,7 +1772,7 @@
   {
     "id": 1912,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Business strategy",
     "arabic": "استراتيجية الأعمال",
@@ -1801,7 +1801,7 @@
   {
     "id": 1913,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Business model",
     "arabic": "نموذج العمل",
@@ -1830,7 +1830,7 @@
   {
     "id": 1914,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate culture",
     "arabic": "ثقافة الشركة",
@@ -1859,7 +1859,7 @@
   {
     "id": 1915,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Investment portfolio",
     "arabic": "محفظة الاستثمار",
@@ -1888,7 +1888,7 @@
 {
     "id": 1916,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Supply chain",
     "arabic": "سلسلة التوريد",
@@ -1917,7 +1917,7 @@
   {
     "id": 1917,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Outsourcing",
     "arabic": "الاستعانة بمصادر خارجية",
@@ -1946,7 +1946,7 @@
   {
     "id": 1918,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate social responsibility",
     "arabic": "المسؤولية الاجتماعية للشركات",
@@ -1975,7 +1975,7 @@
   {
     "id": 1919,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Innovation",
     "arabic": "الابتكار",
@@ -2004,7 +2004,7 @@
   {
     "id": 1920,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Risk management",
     "arabic": "إدارة المخاطر",
@@ -2033,7 +2033,7 @@
 {
     "id": 1921,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Benchmarking",
     "arabic": "المقارنة المرجعية",
@@ -2062,7 +2062,7 @@
   {
     "id": 1922,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Brand equity",
     "arabic": "قيمة العلامة التجارية",
@@ -2091,7 +2091,7 @@
   {
     "id": 1923,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Market segmentation",
     "arabic": "تقسيم السوق",
@@ -2120,7 +2120,7 @@
   {
     "id": 1924,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate restructuring",
     "arabic": "إعادة هيكلة الشركة",
@@ -2149,7 +2149,7 @@
   {
     "id": 1925,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Capital expenditure",
     "arabic": "النفقات الرأسمالية",
@@ -2178,7 +2178,7 @@
   {
     "id": 1926,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Return on investment",
     "arabic": "العائد على الاستثمار",
@@ -2207,7 +2207,7 @@
   {
     "id": 1927,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Joint venture",
     "arabic": "مشروع مشترك",
@@ -2236,7 +2236,7 @@
   {
     "id": 1928,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Debt financing",
     "arabic": "تمويل الديون",
@@ -2265,7 +2265,7 @@
   {
     "id": 1929,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Equity financing",
     "arabic": "تمويل الأسهم",
@@ -2294,7 +2294,7 @@
   {
     "id": 1930,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate bonds",
     "arabic": "السندات الشركات",
@@ -2323,7 +2323,7 @@
 {
     "id": 1931,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Mergers and acquisitions",
     "arabic": "الاندماج والاستحواذ",
@@ -2352,7 +2352,7 @@
   {
     "id": 1932,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Stakeholder",
     "arabic": "أصحاب المصلحة",
@@ -2381,7 +2381,7 @@
   {
     "id": 1933,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Entrepreneurship",
     "arabic": "ريادة الأعمال",
@@ -2410,7 +2410,7 @@
   {
     "id": 1934,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate governance",
     "arabic": "حوكمة الشركات",
@@ -2439,7 +2439,7 @@
   {
     "id": 1935,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate social responsibility",
     "arabic": "المسؤولية الاجتماعية للشركات",
@@ -2468,7 +2468,7 @@
   {
     "id": 1936,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Stakeholder engagement",
     "arabic": "مشاركة أصحاب المصلحة",
@@ -2497,7 +2497,7 @@
   {
     "id": 1937,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Lean management",
     "arabic": "الإدارة الرشيقة",
@@ -2526,7 +2526,7 @@
   {
     "id": 1938,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Business ethics",
     "arabic": "أخلاقيات العمل",
@@ -2555,7 +2555,7 @@
   {
     "id": 1939,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Financial leverage",
     "arabic": "الرافعة المالية",
@@ -2584,7 +2584,7 @@
   {
     "id": 1940,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Liquidity",
     "arabic": "السيولة",
@@ -2613,7 +2613,7 @@
   {
     "id": 1941,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Business model",
     "arabic": "نموذج العمل",
@@ -2642,7 +2642,7 @@
   {
     "id": 1942,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate culture",
     "arabic": "ثقافة الشركة",
@@ -2671,7 +2671,7 @@
   {
     "id": 1943,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Market research",
     "arabic": "أبحاث السوق",
@@ -2700,7 +2700,7 @@
   {
     "id": 1944,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Value proposition",
     "arabic": "عرض القيمة",
@@ -2729,7 +2729,7 @@
   {
     "id": 1945,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Operational efficiency",
     "arabic": "الكفاءة التشغيلية",
@@ -2758,7 +2758,7 @@
   {
     "id": 1946,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Business plan",
     "arabic": "خطة عمل",
@@ -2787,7 +2787,7 @@
   {
     "id": 1947,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Corporate strategy",
     "arabic": "استراتيجية الشركة",
@@ -2816,7 +2816,7 @@
   {
     "id": 1948,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Value chain",
     "arabic": "سلسلة القيمة",
@@ -2845,7 +2845,7 @@
   {
     "id": 1949,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Risk management",
     "arabic": "إدارة المخاطر",
@@ -2874,7 +2874,7 @@
   {
     "id": 1950,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Business",
     "english": "Shareholder value",
     "arabic": "قيمة المساهمين",
@@ -2904,7 +2904,7 @@
   {
     "id": 1951,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Cognitive dissonance",
     "arabic": "التنافر المعرفي",
@@ -2933,7 +2933,7 @@
   {
     "id": 1952,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Neuroplasticity",
     "arabic": "المرونة العصبية",
@@ -2962,7 +2962,7 @@
   {
     "id": 1953,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Conditioning",
     "arabic": "التكييف",
@@ -2991,7 +2991,7 @@
   {
     "id": 1954,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Cognitive bias",
     "arabic": "التحيز المعرفي",
@@ -3020,7 +3020,7 @@
   {
     "id": 1955,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Self-actualization",
     "arabic": "تحقيق الذات",
@@ -3049,7 +3049,7 @@
 {
     "id": 1956,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Motivation",
     "arabic": "الدافع",
@@ -3078,7 +3078,7 @@
   {
     "id": 1957,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Behaviorism",
     "arabic": "السلوكية",
@@ -3107,7 +3107,7 @@
   {
     "id": 1958,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Psychodynamic theory",
     "arabic": "النظرية النفسية الديناميكية",
@@ -3136,7 +3136,7 @@
   {
     "id": 1959,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Attachment theory",
     "arabic": "نظرية التعلق",
@@ -3165,7 +3165,7 @@
   {
     "id": 1960,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Behavioral therapy",
     "arabic": "العلاج السلوكي",
@@ -3194,7 +3194,7 @@
 {
     "id": 1961,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Cognitive therapy",
     "arabic": "العلاج المعرفي",
@@ -3223,7 +3223,7 @@
   {
     "id": 1962,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Emotional intelligence",
     "arabic": "الذكاء العاطفي",
@@ -3252,7 +3252,7 @@
   {
     "id": 1963,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Personality traits",
     "arabic": "سمات الشخصية",
@@ -3281,7 +3281,7 @@
   {
     "id": 1964,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Social cognition",
     "arabic": "الإدراك الاجتماعي",
@@ -3310,7 +3310,7 @@
 {
     "id": 1965,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Group dynamics",
     "arabic": "ديناميكيات المجموعة",
@@ -3339,7 +3339,7 @@
   {
     "id": 1966,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Emotional regulation",
     "arabic": "تنظيم العاطفة",
@@ -3368,7 +3368,7 @@
   {
     "id": 1967,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Coping mechanism",
     "arabic": "آلية التكيف",
@@ -3397,7 +3397,7 @@
   {
     "id": 1968,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Psychometrics",
     "arabic": "القياس النفسي",
@@ -3426,7 +3426,7 @@
 {
     "id": 1969,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Neuroscience",
     "arabic": "علم الأعصاب",
@@ -3455,7 +3455,7 @@
   {
     "id": 1970,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Behavioral economics",
     "arabic": "الاقتصاد السلوكي",
@@ -3484,7 +3484,7 @@
   {
     "id": 1971,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Cognitive neuroscience",
     "arabic": "علم الأعصاب المعرفي",
@@ -3513,7 +3513,7 @@
   {
     "id": 1972,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Psychology",
     "english": "Mindfulness",
     "arabic": "الوعي الذهني",
@@ -3542,7 +3542,7 @@
   {
     "id": 1973,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social stratification",
     "arabic": "التدرج الاجتماعي",
@@ -3571,7 +3571,7 @@
   {
     "id": 1974,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural norms",
     "arabic": "المعايير الثقافية",
@@ -3600,7 +3600,7 @@
   {
     "id": 1975,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social mobility",
     "arabic": "الحراك الاجتماعي",
@@ -3629,7 +3629,7 @@
   {
     "id": 1976,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural diversity",
     "arabic": "التنوع الثقافي",
@@ -3658,7 +3658,7 @@
   {
     "id": 1977,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Ethnocentrism",
     "arabic": "مركزية عرقية",
@@ -3687,7 +3687,7 @@
 {
     "id": 1978,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural assimilation",
     "arabic": "الاندماج الثقافي",
@@ -3716,7 +3716,7 @@
   {
     "id": 1979,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Multiculturalism",
     "arabic": "التعددية الثقافية",
@@ -3745,7 +3745,7 @@
   {
     "id": 1980,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Socialization",
     "arabic": "الاجتماعية",
@@ -3774,7 +3774,7 @@
   {
     "id": 1981,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social norms",
     "arabic": "المعايير الاجتماعية",
@@ -3803,7 +3803,7 @@
 {
     "id": 1982,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Subculture",
     "arabic": "ثقافة فرعية",
@@ -3832,7 +3832,7 @@
   {
     "id": 1983,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural identity",
     "arabic": "الهوية الثقافية",
@@ -3861,7 +3861,7 @@
   {
     "id": 1984,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural heritage",
     "arabic": "التراث الثقافي",
@@ -3890,7 +3890,7 @@
   {
     "id": 1985,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social inequality",
     "arabic": "عدم المساواة الاجتماعية",
@@ -3919,7 +3919,7 @@
 {
     "id": 1986,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social justice",
     "arabic": "العدالة الاجتماعية",
@@ -3948,7 +3948,7 @@
   {
     "id": 1987,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Globalization",
     "arabic": "العولمة",
@@ -3977,7 +3977,7 @@
   {
     "id": 1988,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Civil society",
     "arabic": "المجتمع المدني",
@@ -4006,7 +4006,7 @@
   {
     "id": 1989,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social cohesion",
     "arabic": "الترابط الاجتماعي",
@@ -4035,7 +4035,7 @@
   {
     "id": 1990,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Demographics",
     "arabic": "الديموغرافيا",
@@ -4064,7 +4064,7 @@
   {
     "id": 1991,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social policy",
     "arabic": "السياسة الاجتماعية",
@@ -4093,7 +4093,7 @@
 {
     "id": 1992,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social movements",
     "arabic": "الحركات الاجتماعية",
@@ -4122,7 +4122,7 @@
   {
     "id": 1993,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Global citizenship",
     "arabic": "المواطنة العالمية",
@@ -4151,7 +4151,7 @@
   {
     "id": 1994,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural globalization",
     "arabic": "العولمة الثقافية",
@@ -4180,7 +4180,7 @@
   {
     "id": 1995,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural imperialism",
     "arabic": "الإمبريالية الثقافية",
@@ -4209,7 +4209,7 @@
   {
     "id": 1996,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social exclusion",
     "arabic": "الإقصاء الاجتماعي",
@@ -4238,7 +4238,7 @@
   {
     "id": 1997,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social inclusion",
     "arabic": "الاندماج الاجتماعي",
@@ -4267,7 +4267,7 @@
   {
     "id": 1998,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social capital",
     "arabic": "رأس المال الاجتماعي",
@@ -4296,7 +4296,7 @@
   {
     "id": 1999,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Cultural relativism",
     "arabic": "النسبية الثقافية",
@@ -4325,7 +4325,7 @@
   {
     "id": 2000,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Sociology & Culture",
     "english": "Social stratification",
     "arabic": "الطبقات الاجتماعية",
@@ -4355,7 +4355,7 @@
   {
     "id": 2001,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Constitution",
     "arabic": "دستور",
@@ -4384,7 +4384,7 @@
   {
     "id": 2002,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Legislation",
     "arabic": "تشريع",
@@ -4413,7 +4413,7 @@
   {
     "id": 2003,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Judiciary",
     "arabic": "القضاء",
@@ -4442,7 +4442,7 @@
   {
     "id": 2004,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Legislature",
     "arabic": "الهيئة التشريعية",
@@ -4471,7 +4471,7 @@
   {
     "id": 2005,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Executive branch",
     "arabic": "الفرع التنفيذي",
@@ -4500,7 +4500,7 @@
 {
     "id": 2006,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Rule of law",
     "arabic": "سيادة القانون",
@@ -4529,7 +4529,7 @@
   {
     "id": 2007,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil rights",
     "arabic": "الحقوق المدنية",
@@ -4558,7 +4558,7 @@
   {
     "id": 2008,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil liberties",
     "arabic": "الحريات المدنية",
@@ -4587,7 +4587,7 @@
   {
     "id": 2009,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Human rights",
     "arabic": "حقوق الإنسان",
@@ -4616,7 +4616,7 @@
   {
     "id": 2010,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Jurisdiction",
     "arabic": "الاختصاص القضائي",
@@ -4645,7 +4645,7 @@
   {
     "id": 2011,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Corruption",
     "arabic": "الفساد",
@@ -4674,7 +4674,7 @@
   {
     "id": 2012,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Transparency",
     "arabic": "الشفافية",
@@ -4703,7 +4703,7 @@
   {
     "id": 2013,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Accountability",
     "arabic": "المساءلة",
@@ -4732,7 +4732,7 @@
   {
     "id": 2014,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Legitimacy",
     "arabic": "الشرعية",
@@ -4761,7 +4761,7 @@
   {
     "id": 2015,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Sovereignty",
     "arabic": "السيادة",
@@ -4790,7 +4790,7 @@
 {
     "id": 2016,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Due process",
     "arabic": "الإجراءات القانونية الواجبة",
@@ -4819,7 +4819,7 @@
   {
     "id": 2017,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Legislation reform",
     "arabic": "إصلاح التشريع",
@@ -4848,7 +4848,7 @@
   {
     "id": 2018,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Bureaucracy",
     "arabic": "البيروقراطية",
@@ -4877,7 +4877,7 @@
   {
     "id": 2019,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Judicial review",
     "arabic": "المراجعة القضائية",
@@ -4906,7 +4906,7 @@
   {
     "id": 2020,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Checks and balances",
     "arabic": "الضوابط والتوازنات",
@@ -4935,7 +4935,7 @@
 {
     "id": 2021,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Legislative oversight",
     "arabic": "الرقابة التشريعية",
@@ -4964,7 +4964,7 @@
   {
     "id": 2022,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Impeachment",
     "arabic": "عزل",
@@ -4993,7 +4993,7 @@
   {
     "id": 2023,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil code",
     "arabic": "القانون المدني",
@@ -5022,7 +5022,7 @@
   {
     "id": 2024,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Criminal law",
     "arabic": "القانون الجنائي",
@@ -5051,7 +5051,7 @@
   {
     "id": 2025,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil procedure",
     "arabic": "الإجراءات المدنية",
@@ -5080,7 +5080,7 @@
 {
     "id": 2026,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Legislature",
     "arabic": "السلطة التشريعية",
@@ -5109,7 +5109,7 @@
   {
     "id": 2027,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Executive",
     "arabic": "السلطة التنفيذية",
@@ -5138,7 +5138,7 @@
   {
     "id": 2028,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Judiciary",
     "arabic": "السلطة القضائية",
@@ -5167,7 +5167,7 @@
   {
     "id": 2029,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Constitution",
     "arabic": "الدستور",
@@ -5196,7 +5196,7 @@
   {
     "id": 2030,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Referendum",
     "arabic": "استفتاء",
@@ -5225,7 +5225,7 @@
   {
     "id": 2031,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Lobbying",
     "arabic": "الضغط السياسي",
@@ -5254,7 +5254,7 @@
   {
     "id": 2032,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Statute",
     "arabic": "قانون / مرسوم",
@@ -5283,7 +5283,7 @@
   {
     "id": 2033,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Executive order",
     "arabic": "أمر تنفيذي",
@@ -5312,7 +5312,7 @@
   {
     "id": 2034,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Treaty",
     "arabic": "معاهدة",
@@ -5341,7 +5341,7 @@
   {
     "id": 2035,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Constituent assembly",
     "arabic": "الجمعية التأسيسية",
@@ -5370,7 +5370,7 @@
 {
     "id": 2036,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Rule of law",
     "arabic": "سيادة القانون",
@@ -5399,7 +5399,7 @@
   {
     "id": 2037,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Jurisdiction",
     "arabic": "الاختصاص القضائي",
@@ -5428,7 +5428,7 @@
   {
     "id": 2038,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Human rights",
     "arabic": "حقوق الإنسان",
@@ -5457,7 +5457,7 @@
   {
     "id": 2039,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Transparency",
     "arabic": "الشفافية",
@@ -5486,7 +5486,7 @@
   {
     "id": 2040,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Corruption",
     "arabic": "الفساد",
@@ -5515,7 +5515,7 @@
   {
     "id": 2041,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Accountability",
     "arabic": "المساءلة",
@@ -5544,7 +5544,7 @@
   {
     "id": 2042,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Constitutional amendment",
     "arabic": "تعديل دستوري",
@@ -5573,7 +5573,7 @@
   {
     "id": 2043,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil liberties",
     "arabic": "الحريات المدنية",
@@ -5602,7 +5602,7 @@
   {
     "id": 2044,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil disobedience",
     "arabic": "العصيان المدني",
@@ -5631,7 +5631,7 @@
   {
     "id": 2045,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Administrative law",
     "arabic": "القانون الإداري",
@@ -5660,7 +5660,7 @@
   {
     "id": 2046,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Civil society",
     "arabic": "المجتمع المدني",
@@ -5689,7 +5689,7 @@
   {
     "id": 2047,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Due process",
     "arabic": "الإجراءات القانونية الواجبة",
@@ -5718,7 +5718,7 @@
   {
     "id": 2048,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Judicial review",
     "arabic": "المراجعة القضائية",
@@ -5747,7 +5747,7 @@
   {
     "id": 2049,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Bureaucracy",
     "arabic": "البيروقراطية",
@@ -5776,7 +5776,7 @@
   {
     "id": 2050,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Law & Governance",
     "english": "Sovereignty",
     "arabic": "السيادة",
@@ -5806,7 +5806,7 @@
   {
     "id": 2051,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Inflation",
     "arabic": "التضخم",
@@ -5835,7 +5835,7 @@
   {
     "id": 2052,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Deflation",
     "arabic": "انكماش اقتصادي",
@@ -5864,7 +5864,7 @@
   {
     "id": 2053,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Gross domestic product",
     "arabic": "الناتج المحلي الإجمالي",
@@ -5893,7 +5893,7 @@
   {
     "id": 2054,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Recession",
     "arabic": "ركود اقتصادي",
@@ -5922,7 +5922,7 @@
   {
     "id": 2055,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Interest rate",
     "arabic": "سعر الفائدة",
@@ -5951,7 +5951,7 @@
   {
     "id": 2056,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Monetary policy",
     "arabic": "السياسة النقدية",
@@ -5980,7 +5980,7 @@
   {
     "id": 2057,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Fiscal policy",
     "arabic": "السياسة المالية",
@@ -6009,7 +6009,7 @@
 {
     "id": 2058,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Capital market",
     "arabic": "سوق رأس المال",
@@ -6038,7 +6038,7 @@
   {
     "id": 2059,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Equity",
     "arabic": "الأسهم / الملكية",
@@ -6067,7 +6067,7 @@
   {
     "id": 2060,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Bond",
     "arabic": "سند / دين",
@@ -6096,7 +6096,7 @@
   {
     "id": 2061,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Liquidity",
     "arabic": "السيولة",
@@ -6125,7 +6125,7 @@
   {
     "id": 2062,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Asset",
     "arabic": "أصل / ممتلكات",
@@ -6154,7 +6154,7 @@
   {
     "id": 2063,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Liability",
     "arabic": "التزامات / مسؤولية",
@@ -6183,7 +6183,7 @@
 {
     "id": 2064,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Portfolio",
     "arabic": "محفظة استثمارية",
@@ -6212,7 +6212,7 @@
   {
     "id": 2065,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Dividend",
     "arabic": "توزيعات أرباح",
@@ -6241,7 +6241,7 @@
   {
     "id": 2066,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Speculation",
     "arabic": "المضاربة",
@@ -6270,7 +6270,7 @@
   {
     "id": 2067,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Liquidity crisis",
     "arabic": "أزمة السيولة",
@@ -6299,7 +6299,7 @@
   {
     "id": 2068,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Debt",
     "arabic": "دين / ديون",
@@ -6328,7 +6328,7 @@
   {
     "id": 2069,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Credit rating",
     "arabic": "التصنيف الائتماني",
@@ -6357,7 +6357,7 @@
   {
     "id": 2070,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Trade balance",
     "arabic": "ميزان التجارة",
@@ -6386,7 +6386,7 @@
 {
     "id": 2071,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Foreign exchange",
     "arabic": "سوق الصرف الأجنبي",
@@ -6415,7 +6415,7 @@
   {
     "id": 2072,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Balance of payments",
     "arabic": "ميزان المدفوعات",
@@ -6444,7 +6444,7 @@
   {
     "id": 2073,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Exchange rate",
     "arabic": "سعر الصرف",
@@ -6473,7 +6473,7 @@
   {
     "id": 2074,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Subsidy",
     "arabic": "دعم / إعانة",
@@ -6502,7 +6502,7 @@
   {
     "id": 2075,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Tariff",
     "arabic": "تعرفة / رسوم جمركية",
@@ -6531,7 +6531,7 @@
   {
     "id": 2076,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Trade deficit",
     "arabic": "عجز تجاري",
@@ -6560,7 +6560,7 @@
   {
     "id": 2077,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Trade surplus",
     "arabic": "فائض تجاري",
@@ -6589,7 +6589,7 @@
   {
     "id": 2078,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Globalization",
     "arabic": "العولمة",
@@ -6618,7 +6618,7 @@
   {
     "id": 2079,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Economic growth",
     "arabic": "النمو الاقتصادي",
@@ -6647,7 +6647,7 @@
   {
     "id": 2080,
     "type": "noun",
-    "level": "C1",
+    "level": "C.11",
     "topic": "Economics & Finance",
     "english": "Stock market",
     "arabic": "سوق الأسهم",
