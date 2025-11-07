@@ -2,7 +2,7 @@
   {
     "id": 976,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Tradition",
     "arabic": "تقاليد",
@@ -31,7 +31,7 @@
   {
     "id": 977,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Custom",
     "arabic": "عادة",
@@ -60,7 +60,7 @@
   {
     "id": 978,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Heritage",
     "arabic": "التراث",
@@ -89,7 +89,7 @@
   {
     "id": 979,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Festival",
     "arabic": "مهرجان",
@@ -118,7 +118,7 @@
   {
     "id": 980,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Art",
     "arabic": "فن",
@@ -147,7 +147,7 @@
   {
     "id": 981,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Music",
     "arabic": "موسيقى",
@@ -176,7 +176,7 @@
   {
     "id": 982,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Dance",
     "arabic": "رقص",
@@ -205,7 +205,7 @@
   {
     "id": 983,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Literature",
     "arabic": "أدب",
@@ -234,7 +234,7 @@
   {
     "id": 984,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Painting",
     "arabic": "لوحة",
@@ -263,7 +263,7 @@
   {
     "id": 985,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Sculpture",
     "arabic": "تمثال",
@@ -292,7 +292,7 @@
 {
     "id": 986,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Museum",
     "arabic": "متحف",
@@ -321,7 +321,7 @@
   {
     "id": 987,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Exhibition",
     "arabic": "معرض",
@@ -350,7 +350,7 @@
   {
     "id": 988,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Architecture",
     "arabic": "هندسة معمارية",
@@ -379,7 +379,7 @@
   {
     "id": 989,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Film",
     "arabic": "فيلم",
@@ -408,7 +408,7 @@
   {
     "id": 990,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Theater",
     "arabic": "مسرح",
@@ -437,7 +437,7 @@
 {
     "id": 991,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Opera",
     "arabic": "أوبرا",
@@ -466,7 +466,7 @@
   {
     "id": 992,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Poetry",
     "arabic": "شعر",
@@ -495,7 +495,7 @@
   {
     "id": 993,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Novel",
     "arabic": "رواية",
@@ -524,7 +524,7 @@
   {
     "id": 994,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Painting exhibition",
     "arabic": "معرض اللوحات",
@@ -553,7 +553,7 @@
   {
     "id": 995,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural heritage site",
     "arabic": "موقع التراث الثقافي",
@@ -582,7 +582,7 @@
 {
     "id": 996,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Historical site",
     "arabic": "موقع تاريخي",
@@ -611,7 +611,7 @@
   {
     "id": 997,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Monument",
     "arabic": "نصب تذكاري",
@@ -640,7 +640,7 @@
   {
     "id": 998,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Archaeology",
     "arabic": "علم الآثار",
@@ -669,7 +669,7 @@
   {
     "id": 999,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Folklore",
     "arabic": "فولكلور",
@@ -698,7 +698,7 @@
   {
     "id": 1000,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Heritage museum",
     "arabic": "متحف التراث",
@@ -727,7 +727,7 @@
 {
     "id": 1001,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Traditional costume",
     "arabic": "زي تقليدي",
@@ -756,7 +756,7 @@
   {
     "id": 1002,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural festival",
     "arabic": "مهرجان ثقافي",
@@ -785,7 +785,7 @@
   {
     "id": 1003,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Art gallery",
     "arabic": "معرض فني",
@@ -814,7 +814,7 @@
   {
     "id": 1004,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Artisan",
     "arabic": "حرفي",
@@ -843,7 +843,7 @@
   {
     "id": 1005,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Folk music",
     "arabic": "موسيقى شعبية",
@@ -872,7 +872,7 @@
   {
     "id": 1006,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural center",
     "arabic": "مركز ثقافي",
@@ -901,7 +901,7 @@
 {
     "id": 1007,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural exchange",
     "arabic": "تبادل ثقافي",
@@ -930,7 +930,7 @@
   {
     "id": 1008,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Exhibition",
     "arabic": "معرض",
@@ -959,7 +959,7 @@
   {
     "id": 1009,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Crafts",
     "arabic": "حرف يدوية",
@@ -988,7 +988,7 @@
   {
     "id": 1010,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural identity",
     "arabic": "هوية ثقافية",
@@ -1017,7 +1017,7 @@
   {
     "id": 1011,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Theatre",
     "arabic": "مسرح",
@@ -1046,7 +1046,7 @@
   {
     "id": 1012,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Museum",
     "arabic": "متحف",
@@ -1075,7 +1075,7 @@
   {
     "id": 1013,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural event",
     "arabic": "حدث ثقافي",
@@ -1104,7 +1104,7 @@
   {
     "id": 1014,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Literature",
     "arabic": "أدب",
@@ -1133,7 +1133,7 @@
   {
     "id": 1015,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural tradition",
     "arabic": "تقليد ثقافي",
@@ -1162,7 +1162,7 @@
 {
     "id": 1016,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural heritage",
     "arabic": "التراث الثقافي",
@@ -1191,7 +1191,7 @@
   {
     "id": 1017,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural festival",
     "arabic": "مهرجان ثقافي",
@@ -1220,7 +1220,7 @@
   {
     "id": 1018,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Art exhibition",
     "arabic": "معرض فني",
@@ -1249,7 +1249,7 @@
   {
     "id": 1019,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Museum visit",
     "arabic": "زيارة متحف",
@@ -1278,7 +1278,7 @@
   {
     "id": 1020,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Art workshop",
     "arabic": "ورشة عمل فنية",
@@ -1307,7 +1307,7 @@
   {
     "id": 1021,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural performance",
     "arabic": "عرض ثقافي",
@@ -1336,7 +1336,7 @@
   {
     "id": 1022,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Folk art",
     "arabic": "فن شعبي",
@@ -1365,7 +1365,7 @@
   {
     "id": 1023,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural heritage site",
     "arabic": "موقع التراث الثقافي",
@@ -1394,7 +1394,7 @@
   {
     "id": 1024,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Traditional dance",
     "arabic": "رقص تقليدي",
@@ -1423,7 +1423,7 @@
   {
     "id": 1025,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Culture",
     "english": "Cultural program",
     "arabic": "برنامج ثقافي",
@@ -1453,7 +1453,7 @@
   {
     "id": 1026,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Pollution",
     "arabic": "تلوث",
@@ -1482,7 +1482,7 @@
   {
     "id": 1027,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Recycling",
     "arabic": "إعادة التدوير",
@@ -1511,7 +1511,7 @@
   {
     "id": 1028,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -1540,7 +1540,7 @@
   {
     "id": 1029,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -1569,7 +1569,7 @@
   {
     "id": 1030,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Greenhouse gases",
     "arabic": "غازات الاحتباس الحراري",
@@ -1598,7 +1598,7 @@
 {
     "id": 1031,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Renewable energy",
     "arabic": "الطاقة المتجددة",
@@ -1627,7 +1627,7 @@
   {
     "id": 1032,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Solar power",
     "arabic": "الطاقة الشمسية",
@@ -1656,7 +1656,7 @@
   {
     "id": 1033,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Wind energy",
     "arabic": "طاقة الرياح",
@@ -1685,7 +1685,7 @@
   {
     "id": 1034,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Water pollution",
     "arabic": "تلوث المياه",
@@ -1714,7 +1714,7 @@
   {
     "id": 1035,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Air pollution",
     "arabic": "تلوث الهواء",
@@ -1743,7 +1743,7 @@
 {
     "id": 1036,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Waste management",
     "arabic": "إدارة النفايات",
@@ -1772,7 +1772,7 @@
   {
     "id": 1037,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -1801,7 +1801,7 @@
   {
     "id": 1038,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Global warming",
     "arabic": "الاحتباس الحراري",
@@ -1830,7 +1830,7 @@
   {
     "id": 1039,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Ozone layer",
     "arabic": "طبقة الأوزون",
@@ -1859,7 +1859,7 @@
   {
     "id": 1040,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Natural resources",
     "arabic": "الموارد الطبيعية",
@@ -1888,7 +1888,7 @@
 {
     "id": 1041,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Endangered species",
     "arabic": "الأنواع المهددة بالانقراض",
@@ -1917,7 +1917,7 @@
   {
     "id": 1042,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Conservation",
     "arabic": "الحفاظ على البيئة",
@@ -1946,7 +1946,7 @@
   {
     "id": 1043,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Ecosystem",
     "arabic": "النظام البيئي",
@@ -1975,7 +1975,7 @@
   {
     "id": 1044,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Sustainability",
     "arabic": "الاستدامة",
@@ -2004,7 +2004,7 @@
   {
     "id": 1045,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Carbon footprint",
     "arabic": "البصمة الكربونية",
@@ -2033,7 +2033,7 @@
   {
     "id": 1046,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Biodegradable",
     "arabic": "قابل للتحلل البيولوجي",
@@ -2062,7 +2062,7 @@
 {
     "id": 1047,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Recycling",
     "arabic": "إعادة التدوير",
@@ -2091,7 +2091,7 @@
   {
     "id": 1048,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -2120,7 +2120,7 @@
   {
     "id": 1049,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Pollution",
     "arabic": "التلوث",
@@ -2149,7 +2149,7 @@
   {
     "id": 1050,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -2178,7 +2178,7 @@
   {
     "id": 1051,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Reforestation",
     "arabic": "إعادة التشجير",
@@ -2207,7 +2207,7 @@
   {
     "id": 1052,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Habitat",
     "arabic": "موطن",
@@ -2236,7 +2236,7 @@
   {
     "id": 1053,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Pollutant",
     "arabic": "مُلوِّث",
@@ -2265,7 +2265,7 @@
   {
     "id": 1054,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Waste",
     "arabic": "النفايات",
@@ -2294,7 +2294,7 @@
   {
     "id": 1055,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Erosion",
     "arabic": "تآكل",
@@ -2323,7 +2323,7 @@
 {
     "id": 1056,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Renewable energy",
     "arabic": "الطاقة المتجددة",
@@ -2352,7 +2352,7 @@
   {
     "id": 1057,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Solar power",
     "arabic": "الطاقة الشمسية",
@@ -2381,7 +2381,7 @@
   {
     "id": 1058,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Wind power",
     "arabic": "الطاقة الريحية",
@@ -2410,7 +2410,7 @@
   {
     "id": 1059,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Water pollution",
     "arabic": "تلوث المياه",
@@ -2439,7 +2439,7 @@
   {
     "id": 1060,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Air pollution",
     "arabic": "تلوث الهواء",
@@ -2468,7 +2468,7 @@
   {
     "id": 1061,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Greenhouse effect",
     "arabic": "تأثير البيت الزجاجي",
@@ -2497,7 +2497,7 @@
   {
     "id": 1062,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Global warming",
     "arabic": "الاحتباس الحراري",
@@ -2526,7 +2526,7 @@
   {
     "id": 1063,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Ozone layer",
     "arabic": "طبقة الأوزون",
@@ -2555,7 +2555,7 @@
 {
     "id": 1064,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Natural resources",
     "arabic": "الموارد الطبيعية",
@@ -2584,7 +2584,7 @@
   {
     "id": 1065,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Conservation",
     "arabic": "الحفاظ على البيئة",
@@ -2613,7 +2613,7 @@
   {
     "id": 1066,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Endangered species",
     "arabic": "الأنواع المهددة بالانقراض",
@@ -2642,7 +2642,7 @@
   {
     "id": 1067,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Sustainable development",
     "arabic": "التنمية المستدامة",
@@ -2671,7 +2671,7 @@
   {
     "id": 1068,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Eco-friendly products",
     "arabic": "المنتجات الصديقة للبيئة",
@@ -2700,7 +2700,7 @@
   {
     "id": 1069,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Composting",
     "arabic": "التسميد العضوي",
@@ -2729,7 +2729,7 @@
   {
     "id": 1070,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Organic farming",
     "arabic": "الزراعة العضوية",
@@ -2758,7 +2758,7 @@
   {
     "id": 1071,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Air quality",
     "arabic": "جودة الهواء",
@@ -2787,7 +2787,7 @@
   {
     "id": 1072,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Noise pollution",
     "arabic": "التلوث الضوضائي",
@@ -2816,7 +2816,7 @@
   {
     "id": 1073,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Recycling",
     "arabic": "إعادة التدوير",
@@ -2845,7 +2845,7 @@
   {
     "id": 1074,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -2874,7 +2874,7 @@
   {
     "id": 1075,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Environment",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -2904,7 +2904,7 @@
   {
     "id": 1076,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Job",
     "arabic": "وظيفة",
@@ -2933,7 +2933,7 @@
   {
     "id": 1077,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Employer",
     "arabic": "صاحب العمل",
@@ -2962,7 +2962,7 @@
   {
     "id": 1078,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Employee",
     "arabic": "موظف",
@@ -2991,7 +2991,7 @@
   {
     "id": 1079,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Occupation",
     "arabic": "مهنة",
@@ -3020,7 +3020,7 @@
   {
     "id": 1080,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Internship",
     "arabic": "تدريب عملي",
@@ -3049,7 +3049,7 @@
   {
     "id": 1081,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Resume",
     "arabic": "السيرة الذاتية",
@@ -3078,7 +3078,7 @@
 {
     "id": 1082,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Interview",
     "arabic": "مقابلة",
@@ -3107,7 +3107,7 @@
   {
     "id": 1083,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Promotion",
     "arabic": "ترقية",
@@ -3136,7 +3136,7 @@
   {
     "id": 1084,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Workplace",
     "arabic": "مكان العمل",
@@ -3165,7 +3165,7 @@
   {
     "id": 1085,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Colleague",
     "arabic": "زميل العمل",
@@ -3194,7 +3194,7 @@
   {
     "id": 1086,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Boss",
     "arabic": "رئيس",
@@ -3223,7 +3223,7 @@
 {
     "id": 1087,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Work experience",
     "arabic": "خبرة العمل",
@@ -3252,7 +3252,7 @@
   {
     "id": 1088,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Part-time job",
     "arabic": "وظيفة بدوام جزئي",
@@ -3281,7 +3281,7 @@
   {
     "id": 1089,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Full-time job",
     "arabic": "وظيفة بدوام كامل",
@@ -3310,7 +3310,7 @@
   {
     "id": 1090,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Freelancer",
     "arabic": "مستقل",
@@ -3339,7 +3339,7 @@
   {
     "id": 1091,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Contract",
     "arabic": "عقد",
@@ -3368,7 +3368,7 @@
 {
     "id": 1092,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Work schedule",
     "arabic": "جدول العمل",
@@ -3397,7 +3397,7 @@
   {
     "id": 1093,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Salary",
     "arabic": "راتب",
@@ -3426,7 +3426,7 @@
   {
     "id": 1094,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Bonus",
     "arabic": "مكافأة",
@@ -3455,7 +3455,7 @@
   {
     "id": 1095,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Workload",
     "arabic": "عبء العمل",
@@ -3484,7 +3484,7 @@
   {
     "id": 1096,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Career change",
     "arabic": "تغيير المهنة",
@@ -3513,7 +3513,7 @@
   {
     "id": 1097,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Work-life balance",
     "arabic": "توازن العمل والحياة",
@@ -3542,7 +3542,7 @@
 {
     "id": 1098,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Retirement",
     "arabic": "تقاعد",
@@ -3571,7 +3571,7 @@
   {
     "id": 1099,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Internship",
     "arabic": "تدريب عملي",
@@ -3600,7 +3600,7 @@
   {
     "id": 1100,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Job application",
     "arabic": "طلب وظيفة",
@@ -3629,7 +3629,7 @@
   {
     "id": 1101,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Resume / CV",
     "arabic": "السيرة الذاتية",
@@ -3658,7 +3658,7 @@
   {
     "id": 1102,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Reference",
     "arabic": "مرجع",
@@ -3687,7 +3687,7 @@
   {
     "id": 1103,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Job offer",
     "arabic": "عرض عمل",
@@ -3716,7 +3716,7 @@
   {
     "id": 1104,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Job responsibilities",
     "arabic": "مسؤوليات الوظيفة",
@@ -3745,7 +3745,7 @@
   {
     "id": 1105,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Promotion opportunity",
     "arabic": "فرصة الترقية",
@@ -3774,7 +3774,7 @@
   {
     "id": 1106,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Training program",
     "arabic": "برنامج تدريبي",
@@ -3803,7 +3803,7 @@
 {
     "id": 1107,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Skills",
     "arabic": "مهارات",
@@ -3832,7 +3832,7 @@
   {
     "id": 1108,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Experience",
     "arabic": "خبرة",
@@ -3861,7 +3861,7 @@
   {
     "id": 1109,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Qualification",
     "arabic": "مؤهلات",
@@ -3890,7 +3890,7 @@
   {
     "id": 1110,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Team",
     "arabic": "فريق",
@@ -3919,7 +3919,7 @@
   {
     "id": 1111,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Colleague",
     "arabic": "زميل العمل",
@@ -3948,7 +3948,7 @@
   {
     "id": 1112,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Boss",
     "arabic": "رئيس",
@@ -3977,7 +3977,7 @@
   {
     "id": 1113,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Department",
     "arabic": "قسم",
@@ -4006,7 +4006,7 @@
   {
     "id": 1114,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Job interview",
     "arabic": "مقابلة عمل",
@@ -4035,7 +4035,7 @@
   {
     "id": 1115,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Meeting",
     "arabic": "اجتماع",
@@ -4064,7 +4064,7 @@
   {
     "id": 1116,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Project",
     "arabic": "مشروع",
@@ -4093,7 +4093,7 @@
   {
     "id": 1117,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Deadline",
     "arabic": "الموعد النهائي",
@@ -4122,7 +4122,7 @@
   {
     "id": 1118,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Task",
     "arabic": "مهمة",
@@ -4151,7 +4151,7 @@
   {
     "id": 1119,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Responsibility",
     "arabic": "مسؤولية",
@@ -4180,7 +4180,7 @@
   {
     "id": 1120,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Career",
     "english": "Work environment",
     "arabic": "بيئة العمل",
@@ -4209,7 +4209,7 @@
   {
     "id": 1121,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Friend",
     "arabic": "صديق",
@@ -4238,7 +4238,7 @@
   {
     "id": 1122,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Family",
     "arabic": "عائلة",
@@ -4267,7 +4267,7 @@
   {
     "id": 1123,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Couple",
     "arabic": "زوجان",
@@ -4296,7 +4296,7 @@
   {
     "id": 1124,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Neighbor",
     "arabic": "جار",
@@ -4325,7 +4325,7 @@
   {
     "id": 1125,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Relationship",
     "arabic": "علاقة",
@@ -4354,7 +4354,7 @@
 {
     "id": 1126,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Marriage",
     "arabic": "زواج",
@@ -4383,7 +4383,7 @@
   {
     "id": 1127,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Divorce",
     "arabic": "طلاق",
@@ -4412,7 +4412,7 @@
   {
     "id": 1128,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Trust",
     "arabic": "ثقة",
@@ -4441,7 +4441,7 @@
   {
     "id": 1129,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Conflict",
     "arabic": "صراع",
@@ -4470,7 +4470,7 @@
   {
     "id": 1130,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Support",
     "arabic": "دعم",
@@ -4499,7 +4499,7 @@
   {
     "id": 1131,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Communication",
     "arabic": "تواصل",
@@ -4528,7 +4528,7 @@
   {
     "id": 1132,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Emotion",
     "arabic": "عاطفة",
@@ -4557,7 +4557,7 @@
   {
     "id": 1133,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Relationship advice",
     "arabic": "نصيحة عن العلاقات",
@@ -4586,7 +4586,7 @@
   {
     "id": 1134,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Respect",
     "arabic": "احترام",
@@ -4615,7 +4615,7 @@
   {
     "id": 1135,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Jealousy",
     "arabic": "غيرة",
@@ -4644,7 +4644,7 @@
 {
     "id": 1136,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Friendship",
     "arabic": "صداقة",
@@ -4673,7 +4673,7 @@
   {
     "id": 1137,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Partner",
     "arabic": "شريك",
@@ -4702,7 +4702,7 @@
   {
     "id": 1138,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Dating",
     "arabic": "مواعدة",
@@ -4731,7 +4731,7 @@
   {
     "id": 1139,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Companion",
     "arabic": "رفيق",
@@ -4760,7 +4760,7 @@
   {
     "id": 1140,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Breakup",
     "arabic": "انفصال",
@@ -4789,7 +4789,7 @@
   {
     "id": 1141,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Relationships",
     "english": "Community",
     "arabic": "مجتمع",
@@ -4818,7 +4818,7 @@
   {
     "id": 1142,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Citizen",
     "arabic": "مواطن",
@@ -4847,7 +4847,7 @@
   {
     "id": 1143,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Government",
     "arabic": "حكومة",
@@ -4876,7 +4876,7 @@
   {
     "id": 1144,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Law",
     "arabic": "قانون",
@@ -4905,7 +4905,7 @@
   {
     "id": 1145,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Justice",
     "arabic": "عدالة",
@@ -4934,7 +4934,7 @@
 {
     "id": 1146,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Citizen rights",
     "arabic": "حقوق المواطن",
@@ -4963,7 +4963,7 @@
   {
     "id": 1147,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Election",
     "arabic": "انتخابات",
@@ -4992,7 +4992,7 @@
   {
     "id": 1148,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Vote",
     "arabic": "تصويت",
@@ -5021,7 +5021,7 @@
   {
     "id": 1149,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Population",
     "arabic": "السكان",
@@ -5050,7 +5050,7 @@
   {
     "id": 1150,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Minority",
     "arabic": "أقلية",
@@ -5079,7 +5079,7 @@
   {
     "id": 1151,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Majority",
     "arabic": "أغلبية",
@@ -5108,7 +5108,7 @@
   {
     "id": 1152,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Neighbor",
     "arabic": "جار",
@@ -5137,7 +5137,7 @@
   {
     "id": 1153,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Population growth",
     "arabic": "نمو السكان",
@@ -5166,7 +5166,7 @@
   {
     "id": 1154,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Social class",
     "arabic": "الطبقة الاجتماعية",
@@ -5195,7 +5195,7 @@
   {
     "id": 1155,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Poverty",
     "arabic": "فقر",
@@ -5224,7 +5224,7 @@
   {
     "id": 1156,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Wealth",
     "arabic": "ثروة",
@@ -5253,7 +5253,7 @@
   {
     "id": 1157,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Equality",
     "arabic": "المساواة",
@@ -5282,7 +5282,7 @@
   {
     "id": 1158,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Discrimination",
     "arabic": "تمييز",
@@ -5311,7 +5311,7 @@
   {
     "id": 1159,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Immigrant",
     "arabic": "مهاجر",
@@ -5340,7 +5340,7 @@
   {
     "id": 1160,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Refugee",
     "arabic": "لاجئ",
@@ -5369,7 +5369,7 @@
   {
     "id": 1161,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Volunteer",
     "arabic": "متطوع",
@@ -5398,7 +5398,7 @@
   {
     "id": 1162,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Charity",
     "arabic": "جمعية خيرية",
@@ -5427,7 +5427,7 @@
   {
     "id": 1163,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Tradition",
     "arabic": "تقاليد",
@@ -5456,7 +5456,7 @@
   {
     "id": 1164,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Festival",
     "arabic": "مهرجان",
@@ -5485,7 +5485,7 @@
   {
     "id": 1165,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Culture",
     "arabic": "ثقافة",
@@ -5514,7 +5514,7 @@
   {
     "id": 1166,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Tradition",
     "arabic": "تقاليد",
@@ -5543,7 +5543,7 @@
   {
     "id": 1167,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Custom",
     "arabic": "عادة",
@@ -5572,7 +5572,7 @@
   {
     "id": 1168,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Festival",
     "arabic": "مهرجان",
@@ -5601,7 +5601,7 @@
   {
     "id": 1169,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Society",
     "arabic": "مجتمع",
@@ -5630,7 +5630,7 @@
   {
     "id": 1170,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Society",
     "english": "Neighborhood",
     "arabic": "حي",
@@ -5659,7 +5659,7 @@
   {
     "id": 1171,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "School",
     "arabic": "مدرسة",
@@ -5688,7 +5688,7 @@
   {
     "id": 1172,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Teacher",
     "arabic": "معلم",
@@ -5717,7 +5717,7 @@
   {
     "id": 1173,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Student",
     "arabic": "طالب",
@@ -5746,7 +5746,7 @@
   {
     "id": 1174,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Classroom",
     "arabic": "فصل دراسي",
@@ -5775,7 +5775,7 @@
   {
     "id": 1175,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Lesson",
     "arabic": "درس",
@@ -5804,7 +5804,7 @@
   {
     "id": 1176,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Homework",
     "arabic": "واجب منزلي",
@@ -5833,7 +5833,7 @@
   {
     "id": 1177,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Exam",
     "arabic": "امتحان",
@@ -5862,7 +5862,7 @@
   {
     "id": 1178,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Grade",
     "arabic": "درجة",
@@ -5891,7 +5891,7 @@
 {
     "id": 1179,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Subject",
     "arabic": "موضوع",
@@ -5920,7 +5920,7 @@
   {
     "id": 1180,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Lecture",
     "arabic": "محاضرة",
@@ -5949,7 +5949,7 @@
   {
     "id": 1181,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Degree",
     "arabic": "درجة علمية",
@@ -5978,7 +5978,7 @@
   {
     "id": 1182,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "University",
     "arabic": "جامعة",
@@ -6007,7 +6007,7 @@
   {
     "id": 1183,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Lecture hall",
     "arabic": "قاعة محاضرات",
@@ -6036,7 +6036,7 @@
   {
     "id": 1184,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Research",
     "arabic": "بحث",
@@ -6065,7 +6065,7 @@
   {
     "id": 1185,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Library",
     "arabic": "مكتبة",
@@ -6094,7 +6094,7 @@
 {
     "id": 1186,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Notebook",
     "arabic": "دفتر",
@@ -6123,7 +6123,7 @@
   {
     "id": 1187,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Pen",
     "arabic": "قلم",
@@ -6152,7 +6152,7 @@
   {
     "id": 1188,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Textbook",
     "arabic": "كتاب دراسي",
@@ -6181,7 +6181,7 @@
   {
     "id": 1189,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Assignment",
     "arabic": "مهمة",
@@ -6210,7 +6210,7 @@
   {
     "id": 1190,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Experiment",
     "arabic": "تجربة",
@@ -6239,7 +6239,7 @@
   {
     "id": 1191,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Lab",
     "arabic": "مختبر",
@@ -6268,7 +6268,7 @@
   {
     "id": 1192,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Tutor",
     "arabic": "معلم خاص",
@@ -6297,7 +6297,7 @@
 {
     "id": 1193,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Certificate",
     "arabic": "شهادة",
@@ -6326,7 +6326,7 @@
   {
     "id": 1194,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Degree course",
     "arabic": "دورة دراسية",
@@ -6355,7 +6355,7 @@
   {
     "id": 1195,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Scholarship",
     "arabic": "منحة دراسية",
@@ -6384,7 +6384,7 @@
   {
     "id": 1196,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Enrollment",
     "arabic": "تسجيل",
@@ -6413,7 +6413,7 @@
   {
     "id": 1197,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Curriculum",
     "arabic": "منهج",
@@ -6442,7 +6442,7 @@
   {
     "id": 1198,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Tutorial",
     "arabic": "درس خصوصي",
@@ -6471,7 +6471,7 @@
   {
     "id": 1199,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Workshop",
     "arabic": "ورشة عمل",
@@ -6500,7 +6500,7 @@
   {
     "id": 1200,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Education & Learning",
     "english": "Lecture notes",
     "arabic": "ملاحظات المحاضرة",
@@ -6530,7 +6530,7 @@
   {
     "id": 1201,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Airport",
     "arabic": "مطار",
@@ -6559,7 +6559,7 @@
   {
     "id": 1202,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Airline",
     "arabic": "شركة طيران",
@@ -6588,7 +6588,7 @@
   {
     "id": 1203,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist",
     "arabic": "سائح",
@@ -6617,7 +6617,7 @@
   {
     "id": 1204,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist attraction",
     "arabic": "معلم سياحي",
@@ -6646,7 +6646,7 @@
   {
     "id": 1205,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Hotel",
     "arabic": "فندق",
@@ -6675,7 +6675,7 @@
   {
     "id": 1206,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Reservation",
     "arabic": "حجز",
@@ -6704,7 +6704,7 @@
   {
     "id": 1207,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tour guide",
     "arabic": "مرشد سياحي",
@@ -6733,7 +6733,7 @@
 {
     "id": 1208,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Backpack",
     "arabic": "حقيبة ظهر",
@@ -6762,7 +6762,7 @@
   {
     "id": 1209,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Passport",
     "arabic": "جواز سفر",
@@ -6791,7 +6791,7 @@
   {
     "id": 1210,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Visa",
     "arabic": "تأشيرة",
@@ -6820,7 +6820,7 @@
   {
     "id": 1211,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Luggage",
     "arabic": "أمتعة",
@@ -6849,7 +6849,7 @@
   {
     "id": 1212,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Ticket",
     "arabic": "تذكرة",
@@ -6878,7 +6878,7 @@
   {
     "id": 1213,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Itinerary",
     "arabic": "خط سير الرحلة",
@@ -6907,7 +6907,7 @@
   {
     "id": 1214,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Sightseeing",
     "arabic": "مشاهدة المعالم",
@@ -6936,7 +6936,7 @@
 {
     "id": 1215,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Reservation desk",
     "arabic": "مكتب الحجز",
@@ -6965,7 +6965,7 @@
   {
     "id": 1216,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tour package",
     "arabic": "برنامج سياحي",
@@ -6994,7 +6994,7 @@
   {
     "id": 1217,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Travel agency",
     "arabic": "وكالة السفر",
@@ -7023,7 +7023,7 @@
   {
     "id": 1218,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Cruise",
     "arabic": "رحلة بحرية",
@@ -7052,7 +7052,7 @@
   {
     "id": 1219,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Backpacker",
     "arabic": "رحالة",
@@ -7081,7 +7081,7 @@
   {
     "id": 1220,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Souvenir",
     "arabic": "تذكار",
@@ -7110,7 +7110,7 @@
   {
     "id": 1221,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Travel insurance",
     "arabic": "تأمين السفر",
@@ -7139,7 +7139,7 @@
 {
     "id": 1222,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Journey",
     "arabic": "رحلة",
@@ -7168,7 +7168,7 @@
   {
     "id": 1223,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Departure",
     "arabic": "مغادرة",
@@ -7197,7 +7197,7 @@
   {
     "id": 1224,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Arrival",
     "arabic": "وصول",
@@ -7226,7 +7226,7 @@
   {
     "id": 1225,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Boarding pass",
     "arabic": "بطاقة الصعود للطائرة",
@@ -7255,7 +7255,7 @@
   {
     "id": 1226,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Customs",
     "arabic": "الجمارك",
@@ -7284,7 +7284,7 @@
   {
     "id": 1227,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Travel companion",
     "arabic": "رفيق السفر",
@@ -7313,7 +7313,7 @@
   {
     "id": 1228,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist map",
     "arabic": "خريطة سياحية",
@@ -7342,7 +7342,7 @@
   {
     "id": 1229,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Hostel",
     "arabic": "بيت شباب",
@@ -7371,7 +7371,7 @@
   {
     "id": 1230,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Excursion",
     "arabic": "رحلة قصيرة",
@@ -7400,7 +7400,7 @@
 {
     "id": 1231,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Guidebook",
     "arabic": "كتاب دليل",
@@ -7429,7 +7429,7 @@
   {
     "id": 1232,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Ticket counter",
     "arabic": "مكتب التذاكر",
@@ -7458,7 +7458,7 @@
   {
     "id": 1233,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Airport terminal",
     "arabic": "صالة المطار",
@@ -7487,7 +7487,7 @@
   {
     "id": 1234,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Flight",
     "arabic": "رحلة جوية",
@@ -7516,7 +7516,7 @@
   {
     "id": 1235,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Airport",
     "arabic": "مطار",
@@ -7545,7 +7545,7 @@
   {
     "id": 1236,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Hotel",
     "arabic": "فندق",
@@ -7574,7 +7574,7 @@
   {
     "id": 1237,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Reception",
     "arabic": "استقبال",
@@ -7603,7 +7603,7 @@
   {
     "id": 1238,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Room service",
     "arabic": "خدمة الغرف",
@@ -7632,7 +7632,7 @@
   {
     "id": 1239,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist attraction",
     "arabic": "معلم سياحي",
@@ -7661,7 +7661,7 @@
   {
     "id": 1240,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tour guide",
     "arabic": "مرشد سياحي",
@@ -7690,7 +7690,7 @@
 {
     "id": 1241,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Sightseeing",
     "arabic": "جولات سياحية",
@@ -7719,7 +7719,7 @@
   {
     "id": 1242,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Passport control",
     "arabic": "مراقبة جواز السفر",
@@ -7748,7 +7748,7 @@
   {
     "id": 1243,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist information",
     "arabic": "معلومات سياحية",
@@ -7777,7 +7777,7 @@
   {
     "id": 1244,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Luggage",
     "arabic": "أمتعة",
@@ -7806,7 +7806,7 @@
   {
     "id": 1245,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Hotel room",
     "arabic": "غرفة فندق",
@@ -7835,7 +7835,7 @@
   {
     "id": 1246,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Check-in",
     "arabic": "تسجيل الوصول",
@@ -7864,7 +7864,7 @@
   {
     "id": 1247,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Check-out",
     "arabic": "تسجيل المغادرة",
@@ -7893,7 +7893,7 @@
   {
     "id": 1248,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist spot",
     "arabic": "مكان سياحي",
@@ -7922,7 +7922,7 @@
   {
     "id": 1249,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Tourist route",
     "arabic": "مسار سياحي",
@@ -7951,7 +7951,7 @@
   {
     "id": 1250,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Travel & Tourism",
     "english": "Souvenir",
     "arabic": "تذكار",
@@ -7981,7 +7981,7 @@
   {
     "id": 1251,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Experiment",
     "arabic": "تجربة",
@@ -8010,7 +8010,7 @@
   {
     "id": 1252,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Research",
     "arabic": "بحث",
@@ -8039,7 +8039,7 @@
   {
     "id": 1253,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Innovation",
     "arabic": "ابتكار",
@@ -8068,7 +8068,7 @@
   {
     "id": 1254,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Laboratory",
     "arabic": "مختبر",
@@ -8097,7 +8097,7 @@
   {
     "id": 1255,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Scientist",
     "arabic": "عالم",
@@ -8126,7 +8126,7 @@
   {
     "id": 1256,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Technology",
     "arabic": "تكنولوجيا",
@@ -8155,7 +8155,7 @@
   {
     "id": 1257,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Discovery",
     "arabic": "اكتشاف",
@@ -8184,7 +8184,7 @@
   {
     "id": 1258,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Invention",
     "arabic": "اختراع",
@@ -8213,7 +8213,7 @@
 {
     "id": 1259,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Engineer",
     "arabic": "مهندس",
@@ -8242,7 +8242,7 @@
   {
     "id": 1260,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Computer",
     "arabic": "حاسوب",
@@ -8271,7 +8271,7 @@
   {
     "id": 1261,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Robot",
     "arabic": "روبوت",
@@ -8300,7 +8300,7 @@
   {
     "id": 1262,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -8329,7 +8329,7 @@
   {
     "id": 1263,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Space",
     "arabic": "الفضاء",
@@ -8358,7 +8358,7 @@
 {
     "id": 1264,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Satellite",
     "arabic": "قمر صناعي",
@@ -8387,7 +8387,7 @@
   {
     "id": 1265,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Astronaut",
     "arabic": "رائد فضاء",
@@ -8416,7 +8416,7 @@
   {
     "id": 1266,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Physics",
     "arabic": "الفيزياء",
@@ -8445,7 +8445,7 @@
   {
     "id": 1267,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Chemistry",
     "arabic": "الكيمياء",
@@ -8474,7 +8474,7 @@
   {
     "id": 1268,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Biology",
     "arabic": "علم الأحياء",
@@ -8503,7 +8503,7 @@
   {
     "id": 1269,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Geology",
     "arabic": "علم الأرض",
@@ -8532,7 +8532,7 @@
   {
     "id": 1270,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Environment",
     "arabic": "البيئة",
@@ -8561,7 +8561,7 @@
 {
     "id": 1271,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -8590,7 +8590,7 @@
   {
     "id": 1272,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Renewable energy",
     "arabic": "الطاقة المتجددة",
@@ -8619,7 +8619,7 @@
   {
     "id": 1273,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Robotics",
     "arabic": "الروبوتات",
@@ -8648,7 +8648,7 @@
   {
     "id": 1274,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Nanotechnology",
     "arabic": "تكنولوجيا النانو",
@@ -8677,7 +8677,7 @@
   {
     "id": 1275,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Genetics",
     "arabic": "علم الوراثة",
@@ -8706,7 +8706,7 @@
   {
     "id": 1276,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Biotechnology",
     "arabic": "التكنولوجيا الحيوية",
@@ -8735,7 +8735,7 @@
   {
     "id": 1277,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Space exploration",
     "arabic": "استكشاف الفضاء",
@@ -8764,7 +8764,7 @@
   {
     "id": 1278,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Astronomy",
     "arabic": "علم الفلك",
@@ -8793,7 +8793,7 @@
   {
     "id": 1279,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Meteorology",
     "arabic": "الأرصاد الجوية",
@@ -8822,7 +8822,7 @@
   {
     "id": 1280,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Ecology",
     "arabic": "علم البيئة",
@@ -8851,7 +8851,7 @@
 {
     "id": 1281,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Laboratory",
     "arabic": "مختبر",
@@ -8880,7 +8880,7 @@
   {
     "id": 1282,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Experiment",
     "arabic": "تجربة",
@@ -8909,7 +8909,7 @@
   {
     "id": 1283,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Research",
     "arabic": "بحث",
@@ -8938,7 +8938,7 @@
   {
     "id": 1284,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Discovery",
     "arabic": "اكتشاف",
@@ -8967,7 +8967,7 @@
   {
     "id": 1285,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Invention",
     "arabic": "اختراع",
@@ -8996,7 +8996,7 @@
   {
     "id": 1286,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Innovation",
     "arabic": "ابتكار",
@@ -9025,7 +9025,7 @@
   {
     "id": 1287,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Technology",
     "arabic": "تكنولوجيا",
@@ -9054,7 +9054,7 @@
   {
     "id": 1288,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Innovation center",
     "arabic": "مركز الابتكار",
@@ -9083,7 +9083,7 @@
   {
     "id": 1289,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Prototype",
     "arabic": "نموذج أولي",
@@ -9112,7 +9112,7 @@
   {
     "id": 1290,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Innovation project",
     "arabic": "مشروع الابتكار",
@@ -9141,7 +9141,7 @@
 {
     "id": 1291,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -9170,7 +9170,7 @@
   {
     "id": 1292,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Machine learning",
     "arabic": "تعلم الآلة",
@@ -9199,7 +9199,7 @@
   {
     "id": 1293,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Cybersecurity",
     "arabic": "الأمن السيبراني",
@@ -9228,7 +9228,7 @@
   {
     "id": 1294,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Virtual reality",
     "arabic": "الواقع الافتراضي",
@@ -9257,7 +9257,7 @@
   {
     "id": 1295,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "3D printing",
     "arabic": "الطباعة ثلاثية الأبعاد",
@@ -9286,7 +9286,7 @@
   {
     "id": 1296,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Smart device",
     "arabic": "جهاز ذكي",
@@ -9315,7 +9315,7 @@
   {
     "id": 1297,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Smart city",
     "arabic": "مدينة ذكية",
@@ -9344,7 +9344,7 @@
   {
     "id": 1298,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Wearable technology",
     "arabic": "التكنولوجيا القابلة للارتداء",
@@ -9373,7 +9373,7 @@
   {
     "id": 1299,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Smart home",
     "arabic": "المنزل الذكي",
@@ -9402,7 +9402,7 @@
   {
     "id": 1300,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.1",
     "topic": "Science & Innovation",
     "english": "Drone",
     "arabic": "طائرة بدون طيار",
