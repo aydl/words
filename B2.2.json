@@ -2,7 +2,7 @@
   {
     "id": 1611,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Inflation",
     "arabic": "تضخم",
@@ -31,7 +31,7 @@
   {
     "id": 1612,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Gross Domestic Product",
     "arabic": "الناتج المحلي الإجمالي",
@@ -60,7 +60,7 @@
   {
     "id": 1613,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Recession",
     "arabic": "ركود اقتصادي",
@@ -89,7 +89,7 @@
   {
     "id": 1614,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Trade deficit",
     "arabic": "عجز تجاري",
@@ -118,7 +118,7 @@
   {
     "id": 1615,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Export",
     "arabic": "تصدير",
@@ -147,7 +147,7 @@
   {
     "id": 1616,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Import",
     "arabic": "استيراد",
@@ -176,7 +176,7 @@
 {
     "id": 1617,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Currency",
     "arabic": "عملة",
@@ -205,7 +205,7 @@
   {
     "id": 1618,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Stock market",
     "arabic": "سوق الأسهم",
@@ -234,7 +234,7 @@
   {
     "id": 1619,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Investment",
     "arabic": "استثمار",
@@ -263,7 +263,7 @@
   {
     "id": 1620,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Globalization",
     "arabic": "عولمة",
@@ -292,7 +292,7 @@
   {
     "id": 1621,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Multinational corporation",
     "arabic": "شركة متعددة الجنسيات",
@@ -321,7 +321,7 @@
 {
     "id": 1622,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Outsourcing",
     "arabic": "الاستعانة بمصادر خارجية",
@@ -350,7 +350,7 @@
   {
     "id": 1623,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Tariff",
     "arabic": "تعرفة جمركية",
@@ -379,7 +379,7 @@
   {
     "id": 1624,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Foreign direct investment",
     "arabic": "الاستثمار الأجنبي المباشر",
@@ -408,7 +408,7 @@
   {
     "id": 1625,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Economic growth",
     "arabic": "النمو الاقتصادي",
@@ -437,7 +437,7 @@
   {
     "id": 1626,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Debt",
     "arabic": "دين",
@@ -466,7 +466,7 @@
   {
     "id": 1627,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Interest rate",
     "arabic": "سعر الفائدة",
@@ -495,7 +495,7 @@
 {
     "id": 1628,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Bankruptcy",
     "arabic": "إفلاس",
@@ -524,7 +524,7 @@
   {
     "id": 1629,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Commodity",
     "arabic": "سلعة",
@@ -553,7 +553,7 @@
   {
     "id": 1630,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Subsidiary",
     "arabic": "شركة فرعية",
@@ -582,7 +582,7 @@
   {
     "id": 1631,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Market share",
     "arabic": "حصة السوق",
@@ -611,7 +611,7 @@
   {
     "id": 1632,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Tariff war",
     "arabic": "حرب الرسوم الجمركية",
@@ -640,7 +640,7 @@
   {
     "id": 1633,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Balance of payments",
     "arabic": "ميزان المدفوعات",
@@ -669,7 +669,7 @@
 {
     "id": 1634,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Exchange rate",
     "arabic": "سعر الصرف",
@@ -698,7 +698,7 @@
   {
     "id": 1635,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Speculation",
     "arabic": "المضاربة",
@@ -727,7 +727,7 @@
   {
     "id": 1636,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Economic policy",
     "arabic": "السياسة الاقتصادية",
@@ -756,7 +756,7 @@
   {
     "id": 1637,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Monopoly",
     "arabic": "احتكار",
@@ -785,7 +785,7 @@
   {
     "id": 1638,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Privatization",
     "arabic": "خصخصة",
@@ -814,7 +814,7 @@
   {
     "id": 1639,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Public sector",
     "arabic": "القطاع العام",
@@ -843,7 +843,7 @@
 {
     "id": 1640,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Private sector",
     "arabic": "القطاع الخاص",
@@ -872,7 +872,7 @@
   {
     "id": 1641,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Trade deficit",
     "arabic": "عجز تجاري",
@@ -901,7 +901,7 @@
   {
     "id": 1642,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Trade surplus",
     "arabic": "فائض تجاري",
@@ -930,7 +930,7 @@
   {
     "id": 1643,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Recession",
     "arabic": "ركود اقتصادي",
@@ -959,7 +959,7 @@
   {
     "id": 1644,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Inflation",
     "arabic": "تضخم",
@@ -988,7 +988,7 @@
   {
     "id": 1645,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Deflation",
     "arabic": "انكماش",
@@ -1017,7 +1017,7 @@
   {
     "id": 1646,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Unemployment",
     "arabic": "البطالة",
@@ -1046,7 +1046,7 @@
   {
     "id": 1647,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Gross Domestic Product",
     "arabic": "الناتج المحلي الإجمالي",
@@ -1075,7 +1075,7 @@
   {
     "id": 1648,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Import",
     "arabic": "استيراد",
@@ -1104,7 +1104,7 @@
   {
     "id": 1649,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Export",
     "arabic": "تصدير",
@@ -1133,7 +1133,7 @@
   {
     "id": 1650,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Multilateral trade",
     "arabic": "التجارة متعددة الأطراف",
@@ -1162,7 +1162,7 @@
   {
     "id": 1651,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Bilateral trade",
     "arabic": "التجارة الثنائية",
@@ -1191,7 +1191,7 @@
   {
     "id": 1652,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Subsidy",
     "arabic": "دعم مالي",
@@ -1220,7 +1220,7 @@
   {
     "id": 1653,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Interest rate",
     "arabic": "سعر الفائدة",
@@ -1249,7 +1249,7 @@
   {
     "id": 1654,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Credit",
     "arabic": "ائتمان",
@@ -1278,7 +1278,7 @@
   {
     "id": 1655,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Debt",
     "arabic": "دين",
@@ -1307,7 +1307,7 @@
   {
     "id": 1656,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Deficit",
     "arabic": "عجز",
@@ -1336,7 +1336,7 @@
   {
     "id": 1657,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Surplus",
     "arabic": "فائض",
@@ -1365,7 +1365,7 @@
   {
     "id": 1658,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Globalization",
     "arabic": "العولمة",
@@ -1394,7 +1394,7 @@
   {
     "id": 1659,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Emerging market",
     "arabic": "سوق ناشئة",
@@ -1423,7 +1423,7 @@
   {
     "id": 1660,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Global Economy",
     "english": "Outsourcing",
     "arabic": "الاستعانة بمصادر خارجية",
@@ -1453,7 +1453,7 @@
   {
     "id": 1661,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -1482,7 +1482,7 @@
   {
     "id": 1662,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Global warming",
     "arabic": "الاحتباس الحراري",
@@ -1511,7 +1511,7 @@
   {
     "id": 1663,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Pollution",
     "arabic": "تلوث",
@@ -1540,7 +1540,7 @@
   {
     "id": 1664,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -1569,7 +1569,7 @@
   {
     "id": 1665,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Renewable energy",
     "arabic": "الطاقة المتجددة",
@@ -1598,7 +1598,7 @@
   {
     "id": 1666,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Sustainability",
     "arabic": "الاستدامة",
@@ -1627,7 +1627,7 @@
   {
     "id": 1667,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Recycling",
     "arabic": "إعادة التدوير",
@@ -1656,7 +1656,7 @@
   {
     "id": 1668,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Ecosystem",
     "arabic": "النظام البيئي",
@@ -1685,7 +1685,7 @@
   {
     "id": 1669,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Biodiversity",
     "arabic": "التنوع البيولوجي",
@@ -1714,7 +1714,7 @@
   {
     "id": 1670,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Conservation",
     "arabic": "الحفاظ على البيئة",
@@ -1743,7 +1743,7 @@
   {
     "id": 1671,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Greenhouse gas",
     "arabic": "غاز الدفيئة",
@@ -1772,7 +1772,7 @@
   {
     "id": 1672,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Waste management",
     "arabic": "إدارة النفايات",
@@ -1801,7 +1801,7 @@
 {
     "id": 1673,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Air pollution",
     "arabic": "تلوث الهواء",
@@ -1830,7 +1830,7 @@
   {
     "id": 1674,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Water pollution",
     "arabic": "تلوث المياه",
@@ -1859,7 +1859,7 @@
   {
     "id": 1675,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -1888,7 +1888,7 @@
   {
     "id": 1676,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Endangered species",
     "arabic": "الأنواع المهددة بالانقراض",
@@ -1917,7 +1917,7 @@
   {
     "id": 1677,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Ozone layer",
     "arabic": "طبقة الأوزون",
@@ -1946,7 +1946,7 @@
 {
     "id": 1678,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Renewable resources",
     "arabic": "الموارد المتجددة",
@@ -1975,7 +1975,7 @@
   {
     "id": 1679,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Carbon footprint",
     "arabic": "البصمة الكربونية",
@@ -2004,7 +2004,7 @@
   {
     "id": 1680,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Solar energy",
     "arabic": "الطاقة الشمسية",
@@ -2033,7 +2033,7 @@
   {
     "id": 1681,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Wind energy",
     "arabic": "الطاقة الريحية",
@@ -2062,7 +2062,7 @@
 {
     "id": 1682,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Hydropower",
     "arabic": "الطاقة الكهرومائية",
@@ -2091,7 +2091,7 @@
   {
     "id": 1683,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Geothermal energy",
     "arabic": "الطاقة الحرارية الأرضية",
@@ -2120,7 +2120,7 @@
   {
     "id": 1684,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Carbon emissions",
     "arabic": "انبعاثات الكربون",
@@ -2149,7 +2149,7 @@
   {
     "id": 1685,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Fossil fuels",
     "arabic": "الوقود الأحفوري",
@@ -2178,7 +2178,7 @@
   {
     "id": 1686,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Organic farming",
     "arabic": "الزراعة العضوية",
@@ -2207,7 +2207,7 @@
 {
     "id": 1687,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Composting",
     "arabic": "التسميد العضوي",
@@ -2236,7 +2236,7 @@
   {
     "id": 1688,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Green energy",
     "arabic": "الطاقة الخضراء",
@@ -2265,7 +2265,7 @@
   {
     "id": 1689,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Environmental impact",
     "arabic": "الأثر البيئي",
@@ -2294,7 +2294,7 @@
   {
     "id": 1690,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Eco-friendly products",
     "arabic": "منتجات صديقة للبيئة",
@@ -2323,7 +2323,7 @@
   {
     "id": 1691,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Erosion",
     "arabic": "تعرية",
@@ -2352,7 +2352,7 @@
   {
     "id": 1692,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -2381,7 +2381,7 @@
 {
     "id": 1693,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -2410,7 +2410,7 @@
   {
     "id": 1694,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Recycling",
     "arabic": "إعادة التدوير",
@@ -2439,7 +2439,7 @@
   {
     "id": 1695,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Sustainable development",
     "arabic": "التنمية المستدامة",
@@ -2468,7 +2468,7 @@
   {
     "id": 1696,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Wildlife",
     "arabic": "الحياة البرية",
@@ -2497,7 +2497,7 @@
   {
     "id": 1697,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Biodiversity",
     "arabic": "التنوع البيولوجي",
@@ -2526,7 +2526,7 @@
   {
     "id": 1698,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Pollution",
     "arabic": "التلوث",
@@ -2555,7 +2555,7 @@
   {
     "id": 1699,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Energy efficiency",
     "arabic": "كفاءة الطاقة",
@@ -2584,7 +2584,7 @@
   {
     "id": 1700,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Ecosystem",
     "arabic": "النظام البيئي",
@@ -2613,7 +2613,7 @@
   {
     "id": 1701,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Sustainability",
     "arabic": "الاستدامة",
@@ -2642,7 +2642,7 @@
   {
     "id": 1702,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Natural resources",
     "arabic": "الموارد الطبيعية",
@@ -2671,7 +2671,7 @@
   {
     "id": 1703,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Pollutants",
     "arabic": "الملوثات",
@@ -2700,7 +2700,7 @@
   {
     "id": 1704,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Waste management",
     "arabic": "إدارة النفايات",
@@ -2729,7 +2729,7 @@
   {
     "id": 1705,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Ozone layer",
     "arabic": "طبقة الأوزون",
@@ -2758,7 +2758,7 @@
   {
     "id": 1706,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Greenhouse gases",
     "arabic": "الغازات الدفيئة",
@@ -2787,7 +2787,7 @@
   {
     "id": 1707,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Conservation",
     "arabic": "الحفاظ على البيئة",
@@ -2816,7 +2816,7 @@
   {
     "id": 1708,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -2845,7 +2845,7 @@
   {
     "id": 1709,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Habitat",
     "arabic": "موطن",
@@ -2874,7 +2874,7 @@
   {
     "id": 1710,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Environment & Sustainability",
     "english": "Sustainable energy",
     "arabic": "الطاقة المستدامة",
@@ -2904,7 +2904,7 @@
   {
     "id": 1711,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Morality",
     "arabic": "الأخلاق",
@@ -2933,7 +2933,7 @@
   {
     "id": 1712,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Virtue",
     "arabic": "فضيلة",
@@ -2962,7 +2962,7 @@
   {
     "id": 1713,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Ethics",
     "arabic": "علم الأخلاق",
@@ -2991,7 +2991,7 @@
   {
     "id": 1714,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Conscience",
     "arabic": "الضمير",
@@ -3020,7 +3020,7 @@
   {
     "id": 1715,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Justice",
     "arabic": "العدالة",
@@ -3049,7 +3049,7 @@
 {
     "id": 1716,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Freedom",
     "arabic": "الحرية",
@@ -3078,7 +3078,7 @@
   {
     "id": 1717,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Responsibility",
     "arabic": "المسؤولية",
@@ -3107,7 +3107,7 @@
   {
     "id": 1718,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Ethical dilemma",
     "arabic": "معضلة أخلاقية",
@@ -3136,7 +3136,7 @@
   {
     "id": 1719,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Human rights",
     "arabic": "حقوق الإنسان",
@@ -3165,7 +3165,7 @@
   {
     "id": 1720,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Integrity",
     "arabic": "النزاهة",
@@ -3194,7 +3194,7 @@
   {
     "id": 1721,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Duty",
     "arabic": "واجب",
@@ -3223,7 +3223,7 @@
   {
     "id": 1722,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Consequences",
     "arabic": "العواقب",
@@ -3252,7 +3252,7 @@
   {
     "id": 1723,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Philosophy",
     "arabic": "الفلسفة",
@@ -3281,7 +3281,7 @@
   {
     "id": 1724,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Principles",
     "arabic": "المبادئ",
@@ -3310,7 +3310,7 @@
   {
     "id": 1725,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Honesty",
     "arabic": "الصدق",
@@ -3339,7 +3339,7 @@
 {
     "id": 1726,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Equality",
     "arabic": "المساواة",
@@ -3368,7 +3368,7 @@
   {
     "id": 1727,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Respect",
     "arabic": "الاحترام",
@@ -3397,7 +3397,7 @@
   {
     "id": 1728,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Accountability",
     "arabic": "المساءلة",
@@ -3426,7 +3426,7 @@
   {
     "id": 1729,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Tolerance",
     "arabic": "التسامح",
@@ -3455,7 +3455,7 @@
   {
     "id": 1730,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Altruism",
     "arabic": "الإيثار",
@@ -3484,7 +3484,7 @@
   {
     "id": 1731,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Egoism",
     "arabic": "الأنانية",
@@ -3513,7 +3513,7 @@
   {
     "id": 1732,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Hedonism",
     "arabic": "اللذة",
@@ -3542,7 +3542,7 @@
   {
     "id": 1733,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Utilitarianism",
     "arabic": "النفعية",
@@ -3571,7 +3571,7 @@
   {
     "id": 1734,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Empathy",
     "arabic": "التعاطف",
@@ -3600,7 +3600,7 @@
   {
     "id": 1735,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Wisdom",
     "arabic": "الحكمة",
@@ -3629,7 +3629,7 @@
 {
     "id": 1736,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Courage",
     "arabic": "الشجاعة",
@@ -3658,7 +3658,7 @@
   {
     "id": 1737,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Fairness",
     "arabic": "الإنصاف",
@@ -3687,7 +3687,7 @@
   {
     "id": 1738,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Peace",
     "arabic": "السلام",
@@ -3716,7 +3716,7 @@
   {
     "id": 1739,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Forgiveness",
     "arabic": "المغفرة",
@@ -3745,7 +3745,7 @@
   {
     "id": 1740,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Loyalty",
     "arabic": "الولاء",
@@ -3774,7 +3774,7 @@
   {
     "id": 1741,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Compassion",
     "arabic": "الرحمة",
@@ -3803,7 +3803,7 @@
   {
     "id": 1742,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Selflessness",
     "arabic": "نكران الذات",
@@ -3832,7 +3832,7 @@
   {
     "id": 1743,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Humility",
     "arabic": "التواضع",
@@ -3861,7 +3861,7 @@
   {
     "id": 1744,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Integrity",
     "arabic": "النزاهة",
@@ -3890,7 +3890,7 @@
   {
     "id": 1745,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Nobility",
     "arabic": "النبالة",
@@ -3919,7 +3919,7 @@
 {
     "id": 1746,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Justice",
     "arabic": "العدالة",
@@ -3948,7 +3948,7 @@
   {
     "id": 1747,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Morality",
     "arabic": "الأخلاق",
@@ -3977,7 +3977,7 @@
   {
     "id": 1748,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Virtue",
     "arabic": "الفضيلة",
@@ -4006,7 +4006,7 @@
   {
     "id": 1749,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Vice",
     "arabic": "الرذيلة",
@@ -4035,7 +4035,7 @@
   {
     "id": 1750,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Conscience",
     "arabic": "الضمير",
@@ -4064,7 +4064,7 @@
   {
     "id": 1751,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Ethics",
     "arabic": "علم الأخلاق",
@@ -4093,7 +4093,7 @@
   {
     "id": 1752,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Duty",
     "arabic": "الواجب",
@@ -4122,7 +4122,7 @@
   {
     "id": 1753,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Freedom",
     "arabic": "الحرية",
@@ -4151,7 +4151,7 @@
   {
     "id": 1754,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Responsibility",
     "arabic": "المسؤولية",
@@ -4180,7 +4180,7 @@
   {
     "id": 1755,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Humanity",
     "arabic": "الإنسانية",
@@ -4209,7 +4209,7 @@
 {
     "id": 1756,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Wisdom",
     "arabic": "الحكمة",
@@ -4238,7 +4238,7 @@
   {
     "id": 1757,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Enlightenment",
     "arabic": "التنوير",
@@ -4267,7 +4267,7 @@
   {
     "id": 1758,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Equality",
     "arabic": "المساواة",
@@ -4296,7 +4296,7 @@
   {
     "id": 1759,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Truth",
     "arabic": "الحقيقة",
@@ -4325,7 +4325,7 @@
   {
     "id": 1760,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "Philosophy & Ethics",
     "english": "Faith",
     "arabic": "الإيمان",
@@ -4355,7 +4355,7 @@
   {
     "id": 1761,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Diplomacy",
     "arabic": "الدبلوماسية",
@@ -4384,7 +4384,7 @@
   {
     "id": 1762,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Treaty",
     "arabic": "معاهدة",
@@ -4413,7 +4413,7 @@
   {
     "id": 1763,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Alliance",
     "arabic": "تحالف",
@@ -4442,7 +4442,7 @@
   {
     "id": 1764,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Sanction",
     "arabic": "عقوبة / عقوبات",
@@ -4471,7 +4471,7 @@
   {
     "id": 1765,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Diplomat",
     "arabic": "دبلوماسي",
@@ -4500,7 +4500,7 @@
   {
     "id": 1766,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Negotiation",
     "arabic": "التفاوض",
@@ -4529,7 +4529,7 @@
   {
     "id": 1767,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Conflict",
     "arabic": "الصراع",
@@ -4558,7 +4558,7 @@
   {
     "id": 1768,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peacekeeping",
     "arabic": "حفظ السلام",
@@ -4587,7 +4587,7 @@
   {
     "id": 1769,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Embassy",
     "arabic": "السفارة",
@@ -4616,7 +4616,7 @@
   {
     "id": 1770,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Consulate",
     "arabic": "القنصلية",
@@ -4645,7 +4645,7 @@
 {
     "id": 1771,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Ambassador",
     "arabic": "سفير",
@@ -4674,7 +4674,7 @@
   {
     "id": 1772,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Protocol",
     "arabic": "البروتوكول",
@@ -4703,7 +4703,7 @@
   {
     "id": 1773,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Summit",
     "arabic": "قمة",
@@ -4732,7 +4732,7 @@
   {
     "id": 1774,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peace treaty",
     "arabic": "معاهدة السلام",
@@ -4761,7 +4761,7 @@
   {
     "id": 1775,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Treaty negotiation",
     "arabic": "التفاوض على المعاهدة",
@@ -4790,7 +4790,7 @@
   {
     "id": 1776,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Embargo",
     "arabic": "حظر تجاري",
@@ -4819,7 +4819,7 @@
   {
     "id": 1777,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Intervention",
     "arabic": "تدخل",
@@ -4848,7 +4848,7 @@
   {
     "id": 1778,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peacekeeping mission",
     "arabic": "بعثة حفظ السلام",
@@ -4877,7 +4877,7 @@
   {
     "id": 1779,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Neutrality",
     "arabic": "الحياد",
@@ -4906,7 +4906,7 @@
   {
     "id": 1780,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Geopolitics",
     "arabic": "الجغرافيا السياسية",
@@ -4935,7 +4935,7 @@
 {
     "id": 1781,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Foreign policy",
     "arabic": "السياسة الخارجية",
@@ -4964,7 +4964,7 @@
   {
     "id": 1782,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Treaty violation",
     "arabic": "انتهاك المعاهدة",
@@ -4993,7 +4993,7 @@
   {
     "id": 1783,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Globalization",
     "arabic": "العولمة",
@@ -5022,7 +5022,7 @@
   {
     "id": 1784,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Sanctions policy",
     "arabic": "سياسة العقوبات",
@@ -5051,7 +5051,7 @@
   {
     "id": 1785,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Multilateralism",
     "arabic": "تعدد الأطراف",
@@ -5080,7 +5080,7 @@
   {
     "id": 1786,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Bilateral agreement",
     "arabic": "اتفاق ثنائي",
@@ -5109,7 +5109,7 @@
   {
     "id": 1787,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "United Nations",
     "arabic": "الأمم المتحدة",
@@ -5138,7 +5138,7 @@
   {
     "id": 1788,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "NATO",
     "arabic": "الناتو",
@@ -5167,7 +5167,7 @@
   {
     "id": 1789,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "European Union",
     "arabic": "الاتحاد الأوروبي",
@@ -5196,7 +5196,7 @@
   {
     "id": 1790,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "World Trade Organization",
     "arabic": "منظمة التجارة العالمية",
@@ -5225,7 +5225,7 @@
 {
     "id": 1791,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Diplomatic immunity",
     "arabic": "الحصانة الدبلوماسية",
@@ -5254,7 +5254,7 @@
   {
     "id": 1792,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peacekeeping force",
     "arabic": "قوة حفظ السلام",
@@ -5283,7 +5283,7 @@
   {
     "id": 1793,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Diplomatic negotiation",
     "arabic": "التفاوض الدبلوماسي",
@@ -5312,7 +5312,7 @@
   {
     "id": 1794,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Conflict resolution",
     "arabic": "حل النزاع",
@@ -5341,7 +5341,7 @@
   {
     "id": 1795,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "International law",
     "arabic": "القانون الدولي",
@@ -5370,7 +5370,7 @@
   {
     "id": 1796,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Sanctions committee",
     "arabic": "لجنة العقوبات",
@@ -5399,7 +5399,7 @@
   {
     "id": 1797,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peace agreement",
     "arabic": "اتفاق السلام",
@@ -5428,7 +5428,7 @@
   {
     "id": 1798,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peace mediator",
     "arabic": "وسيط السلام",
@@ -5457,7 +5457,7 @@
   {
     "id": 1799,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Diplomatic relations",
     "arabic": "العلاقات الدبلوماسية",
@@ -5486,7 +5486,7 @@
   {
     "id": 1800,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Ceasefire",
     "arabic": "وقف إطلاق النار",
@@ -5515,7 +5515,7 @@
 {
     "id": 1801,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Arms control",
     "arabic": "التحكم في الأسلحة",
@@ -5544,7 +5544,7 @@
   {
     "id": 1802,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Non-proliferation",
     "arabic": "منع الانتشار",
@@ -5573,7 +5573,7 @@
   {
     "id": 1803,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Intelligence agency",
     "arabic": "وكالة الاستخبارات",
@@ -5602,7 +5602,7 @@
   {
     "id": 1804,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Arms race",
     "arabic": "سباق التسلح",
@@ -5631,7 +5631,7 @@
   {
     "id": 1805,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Conflict zone",
     "arabic": "منطقة النزاع",
@@ -5660,7 +5660,7 @@
   {
     "id": 1806,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peace treaty",
     "arabic": "معاهدة سلام",
@@ -5689,7 +5689,7 @@
   {
     "id": 1807,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Diplomatic summit",
     "arabic": "قمة دبلوماسية",
@@ -5718,7 +5718,7 @@
   {
     "id": 1808,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Humanitarian intervention",
     "arabic": "تدخل إنساني",
@@ -5747,7 +5747,7 @@
   {
     "id": 1809,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Nuclear disarmament",
     "arabic": "نزع السلاح النووي",
@@ -5776,7 +5776,7 @@
   {
     "id": 1810,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "International Relations",
     "english": "Peacekeeping mission",
     "arabic": "بعثة حفظ السلام",
@@ -5806,7 +5806,7 @@
   {
     "id": 1811,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Ancient civilization",
     "arabic": "حضارة قديمة",
@@ -5835,7 +5835,7 @@
   {
     "id": 1812,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical event",
     "arabic": "حدث تاريخي",
@@ -5864,7 +5864,7 @@
   {
     "id": 1813,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural heritage",
     "arabic": "التراث الثقافي",
@@ -5893,7 +5893,7 @@
   {
     "id": 1814,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical figure",
     "arabic": "شخصية تاريخية",
@@ -5922,7 +5922,7 @@
   {
     "id": 1815,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Archaeological site",
     "arabic": "موقع أثري",
@@ -5951,7 +5951,7 @@
   {
     "id": 1816,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Oral tradition",
     "arabic": "التقاليد الشفوية",
@@ -5980,7 +5980,7 @@
   {
     "id": 1817,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural festival",
     "arabic": "مهرجان ثقافي",
@@ -6009,7 +6009,7 @@
   {
     "id": 1818,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "National heritage",
     "arabic": "التراث الوطني",
@@ -6038,7 +6038,7 @@
   {
     "id": 1819,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical monument",
     "arabic": "نصب تذكاري تاريخي",
@@ -6067,7 +6067,7 @@
   {
     "id": 1820,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural identity",
     "arabic": "الهوية الثقافية",
@@ -6096,7 +6096,7 @@
 {
     "id": 1821,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Tradition",
     "arabic": "تقليد",
@@ -6125,7 +6125,7 @@
   {
     "id": 1822,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Folklore",
     "arabic": "الفلكلور",
@@ -6154,7 +6154,7 @@
   {
     "id": 1823,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Monarchy",
     "arabic": "الملكية",
@@ -6183,7 +6183,7 @@
   {
     "id": 1824,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Empire",
     "arabic": "إمبراطورية",
@@ -6212,7 +6212,7 @@
   {
     "id": 1825,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Revolution",
     "arabic": "ثورة",
@@ -6241,7 +6241,7 @@
   {
     "id": 1826,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Colonialism",
     "arabic": "الاستعمار",
@@ -6270,7 +6270,7 @@
   {
     "id": 1827,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Archaeology",
     "arabic": "علم الآثار",
@@ -6299,7 +6299,7 @@
   {
     "id": 1828,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural exchange",
     "arabic": "التبادل الثقافي",
@@ -6328,7 +6328,7 @@
   {
     "id": 1829,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Museum",
     "arabic": "متحف",
@@ -6357,7 +6357,7 @@
   {
     "id": 1830,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical document",
     "arabic": "وثيقة تاريخية",
@@ -6386,7 +6386,7 @@
 {
     "id": 1831,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural revival",
     "arabic": "إحياء ثقافي",
@@ -6415,7 +6415,7 @@
   {
     "id": 1832,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Anthropology",
     "arabic": "علم الإنسان",
@@ -6444,7 +6444,7 @@
   {
     "id": 1833,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Archaeological dig",
     "arabic": "حفريات أثرية",
@@ -6473,7 +6473,7 @@
   {
     "id": 1834,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical archive",
     "arabic": "أرشيف تاريخي",
@@ -6502,7 +6502,7 @@
   {
     "id": 1835,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural norm",
     "arabic": "معيار ثقافي",
@@ -6531,7 +6531,7 @@
   {
     "id": 1836,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Ancient artifact",
     "arabic": "أثر قديم",
@@ -6560,7 +6560,7 @@
   {
     "id": 1837,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical site",
     "arabic": "موقع تاريخي",
@@ -6589,7 +6589,7 @@
   {
     "id": 1838,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural symbol",
     "arabic": "رمز ثقافي",
@@ -6618,7 +6618,7 @@
   {
     "id": 1839,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Ethnic group",
     "arabic": "مجموعة عرقية",
@@ -6647,7 +6647,7 @@
   {
     "id": 1840,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Oral history",
     "arabic": "التاريخ الشفوي",
@@ -6676,7 +6676,7 @@
 {
     "id": 1841,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural heritage",
     "arabic": "التراث الثقافي",
@@ -6705,7 +6705,7 @@
   {
     "id": 1842,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural identity",
     "arabic": "الهوية الثقافية",
@@ -6734,7 +6734,7 @@
   {
     "id": 1843,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical era",
     "arabic": "حقبة تاريخية",
@@ -6763,7 +6763,7 @@
   {
     "id": 1844,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Ancient civilization",
     "arabic": "حضارة قديمة",
@@ -6792,7 +6792,7 @@
   {
     "id": 1845,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Historical figure",
     "arabic": "شخصية تاريخية",
@@ -6821,7 +6821,7 @@
   {
     "id": 1846,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Heritage site",
     "arabic": "موقع تراثي",
@@ -6850,7 +6850,7 @@
   {
     "id": 1847,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Oral tradition",
     "arabic": "التقليد الشفوي",
@@ -6879,7 +6879,7 @@
   {
     "id": 1848,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Mythology",
     "arabic": "علم الأساطير",
@@ -6908,7 +6908,7 @@
   {
     "id": 1849,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural festival",
     "arabic": "مهرجان ثقافي",
@@ -6937,7 +6937,7 @@
   {
     "id": 1850,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.2",
     "topic": "History & Culture",
     "english": "Cultural institution",
     "arabic": "مؤسسة ثقافية",
