@@ -2,7 +2,7 @@
   {
     "id": 2254,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Empirical study",
     "arabic": "دراسة تجريبية",
@@ -31,7 +31,7 @@
   {
     "id": 2255,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Methodology",
     "arabic": "منهجية",
@@ -60,7 +60,7 @@
   {
     "id": 2256,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Literature review",
     "arabic": "مراجعة الأدبيات",
@@ -89,7 +89,7 @@
   {
     "id": 2257,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Data analysis",
     "arabic": "تحليل البيانات",
@@ -118,7 +118,7 @@
   {
     "id": 2258,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Hypothesis",
     "arabic": "فرضية",
@@ -147,7 +147,7 @@
 {
     "id": 2259,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Qualitative research",
     "arabic": "بحث نوعي",
@@ -176,7 +176,7 @@
   {
     "id": 2260,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Quantitative research",
     "arabic": "بحث كمي",
@@ -205,7 +205,7 @@
   {
     "id": 2261,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Case study",
     "arabic": "دراسة حالة",
@@ -234,7 +234,7 @@
   {
     "id": 2262,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Sampling",
     "arabic": "أخذ عينات",
@@ -263,7 +263,7 @@
   {
     "id": 2263,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Peer review",
     "arabic": "مراجعة الأقران",
@@ -292,7 +292,7 @@
 {
     "id": 2264,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Longitudinal study",
     "arabic": "دراسة طولية",
@@ -321,7 +321,7 @@
   {
     "id": 2265,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Cross-sectional study",
     "arabic": "دراسة مقطعية",
@@ -350,7 +350,7 @@
   {
     "id": 2266,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Experimental design",
     "arabic": "تصميم تجريبي",
@@ -379,7 +379,7 @@
   {
     "id": 2267,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Control group",
     "arabic": "مجموعة التحكم",
@@ -408,7 +408,7 @@
   {
     "id": 2268,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Variable",
     "arabic": "متغير",
@@ -437,7 +437,7 @@
 {
     "id": 2269,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Independent variable",
     "arabic": "المتغير المستقل",
@@ -466,7 +466,7 @@
   {
     "id": 2270,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Dependent variable",
     "arabic": "المتغير التابع",
@@ -495,7 +495,7 @@
   {
     "id": 2271,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Control variable",
     "arabic": "المتغير الضابط",
@@ -524,7 +524,7 @@
   {
     "id": 2272,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Randomization",
     "arabic": "العشوائية",
@@ -553,7 +553,7 @@
   {
     "id": 2273,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Replication",
     "arabic": "تكرار الدراسة",
@@ -582,7 +582,7 @@
   {
     "id": 2274,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Validity",
     "arabic": "صلاحية",
@@ -611,7 +611,7 @@
   {
     "id": 2275,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Reliability",
     "arabic": "موثوقية",
@@ -640,7 +640,7 @@
 {
     "id": 2276,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Bias",
     "arabic": "تحيز",
@@ -669,7 +669,7 @@
   {
     "id": 2277,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Ethics",
     "arabic": "أخلاقيات",
@@ -698,7 +698,7 @@
   {
     "id": 2278,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Informed consent",
     "arabic": "الموافقة المستنيرة",
@@ -727,7 +727,7 @@
   {
     "id": 2279,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Confounding variable",
     "arabic": "متغير مشوش",
@@ -756,7 +756,7 @@
   {
     "id": 2280,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Generalizability",
     "arabic": "قابلية التعميم",
@@ -785,7 +785,7 @@
   {
     "id": 2281,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Intervention",
     "arabic": "تدخل",
@@ -814,7 +814,7 @@
   {
     "id": 2282,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Randomized controlled trial",
     "arabic": "تجربة عشوائية محكمة",
@@ -843,7 +843,7 @@
   {
     "id": 2283,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Meta-analysis",
     "arabic": "تحليل تلوي",
@@ -872,7 +872,7 @@
   {
     "id": 2284,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Research",
     "english": "Systematic review",
     "arabic": "مراجعة منهجية",
@@ -902,7 +902,7 @@
   {
     "id": 2285,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Quantum computing",
     "arabic": "الحوسبة الكمية",
@@ -931,7 +931,7 @@
   {
     "id": 2286,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -960,7 +960,7 @@
   {
     "id": 2287,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Machine learning",
     "arabic": "تعلم الآلة",
@@ -989,7 +989,7 @@
   {
     "id": 2288,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Blockchain",
     "arabic": "سلسلة الكتل",
@@ -1018,7 +1018,7 @@
   {
     "id": 2289,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Cybersecurity",
     "arabic": "الأمن السيبراني",
@@ -1047,7 +1047,7 @@
 {
     "id": 2290,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Data analytics",
     "arabic": "تحليل البيانات",
@@ -1076,7 +1076,7 @@
   {
     "id": 2291,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Internet of Things",
     "arabic": "إنترنت الأشياء",
@@ -1105,7 +1105,7 @@
   {
     "id": 2292,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Neural networks",
     "arabic": "الشبكات العصبية",
@@ -1134,7 +1134,7 @@
   {
     "id": 2293,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Augmented reality",
     "arabic": "الواقع المعزز",
@@ -1163,7 +1163,7 @@
   {
     "id": 2294,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Virtual reality",
     "arabic": "الواقع الافتراضي",
@@ -1192,7 +1192,7 @@
 {
     "id": 2295,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Big data",
     "arabic": "البيانات الضخمة",
@@ -1221,7 +1221,7 @@
   {
     "id": 2296,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Cloud computing",
     "arabic": "الحوسبة السحابية",
@@ -1250,7 +1250,7 @@
   {
     "id": 2297,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Quantum mechanics",
     "arabic": "ميكانيكا الكم",
@@ -1279,7 +1279,7 @@
   {
     "id": 2298,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Genetic engineering",
     "arabic": "الهندسة الوراثية",
@@ -1308,7 +1308,7 @@
   {
     "id": 2299,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Robotics",
     "arabic": "الروبوتات",
@@ -1337,7 +1337,7 @@
   {
     "id": 2300,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Nanotechnology",
     "arabic": "تقنية النانو",
@@ -1366,7 +1366,7 @@
   {
     "id": 2301,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Deep learning",
     "arabic": "التعلم العميق",
@@ -1395,7 +1395,7 @@
 {
     "id": 2302,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Edge computing",
     "arabic": "الحوسبة الحافة",
@@ -1424,7 +1424,7 @@
   {
     "id": 2303,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Swarm intelligence",
     "arabic": "ذكاء السرب",
@@ -1453,7 +1453,7 @@
   {
     "id": 2304,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Cognitive computing",
     "arabic": "الحوسبة المعرفية",
@@ -1482,7 +1482,7 @@
   {
     "id": 2305,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Smart contracts",
     "arabic": "العقود الذكية",
@@ -1511,7 +1511,7 @@
   {
     "id": 2306,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Self-driving cars",
     "arabic": "السيارات ذاتية القيادة",
@@ -1540,7 +1540,7 @@
 {
     "id": 2307,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Blockchain",
     "arabic": "البلوكتشين",
@@ -1569,7 +1569,7 @@
   {
     "id": 2308,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -1598,7 +1598,7 @@
   {
     "id": 2309,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Deepfake technology",
     "arabic": "تكنولوجيا التزييف العميق",
@@ -1627,7 +1627,7 @@
   {
     "id": 2310,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Cybersecurity",
     "arabic": "الأمن السيبراني",
@@ -1656,7 +1656,7 @@
   {
     "id": 2311,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "5G technology",
     "arabic": "تقنية الجيل الخامس",
@@ -1685,7 +1685,7 @@
   {
     "id": 2312,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Exponential technologies",
     "arabic": "التقنيات المتسارعة",
@@ -1714,7 +1714,7 @@
   {
     "id": 2313,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Synthetic biology",
     "arabic": "علم الأحياء الاصطناعي",
@@ -1743,7 +1743,7 @@
   {
     "id": 2314,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Brain-computer interface",
     "arabic": "واجهة الدماغ والحاسوب",
@@ -1772,7 +1772,7 @@
   {
     "id": 2315,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Topics",
     "english": "Cognitive bias",
     "arabic": "التحيز المعرفي",
@@ -1802,7 +1802,7 @@
   {
     "id": 2316,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -1831,7 +1831,7 @@
   {
     "id": 2317,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Sustainable development",
     "arabic": "التنمية المستدامة",
@@ -1860,7 +1860,7 @@
   {
     "id": 2318,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Globalization",
     "arabic": "العولمة",
@@ -1889,7 +1889,7 @@
   {
     "id": 2319,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Poverty",
     "arabic": "الفقر",
@@ -1918,7 +1918,7 @@
   {
     "id": 2320,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Inequality",
     "arabic": "عدم المساواة",
@@ -1947,7 +1947,7 @@
 {
     "id": 2321,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Refugee crisis",
     "arabic": "أزمة اللاجئين",
@@ -1976,7 +1976,7 @@
   {
     "id": 2322,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Human rights",
     "arabic": "حقوق الإنسان",
@@ -2005,7 +2005,7 @@
   {
     "id": 2323,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Terrorism",
     "arabic": "الإرهاب",
@@ -2034,7 +2034,7 @@
   {
     "id": 2324,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Global health",
     "arabic": "الصحة العالمية",
@@ -2063,7 +2063,7 @@
   {
     "id": 2325,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Food security",
     "arabic": "الأمن الغذائي",
@@ -2092,7 +2092,7 @@
 {
     "id": 2326,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Water scarcity",
     "arabic": "ندرة المياه",
@@ -2121,7 +2121,7 @@
   {
     "id": 2327,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Deforestation",
     "arabic": "إزالة الغابات",
@@ -2150,7 +2150,7 @@
   {
     "id": 2328,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Pollution",
     "arabic": "التلوث",
@@ -2179,7 +2179,7 @@
   {
     "id": 2329,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Biodiversity loss",
     "arabic": "فقدان التنوع البيولوجي",
@@ -2208,7 +2208,7 @@
   {
     "id": 2330,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Global security",
     "arabic": "الأمن العالمي",
@@ -2237,7 +2237,7 @@
   {
     "id": 2331,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "International conflict",
     "arabic": "الصراع الدولي",
@@ -2266,7 +2266,7 @@
   {
     "id": 2332,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Global migration",
     "arabic": "الهجرة العالمية",
@@ -2295,7 +2295,7 @@
   {
     "id": 2333,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Corruption",
     "arabic": "الفساد",
@@ -2324,7 +2324,7 @@
   {
     "id": 2334,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Nuclear proliferation",
     "arabic": "انتشار الأسلحة النووية",
@@ -2353,7 +2353,7 @@
   {
     "id": 2335,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Cyber warfare",
     "arabic": "الحرب السيبرانية",
@@ -2382,7 +2382,7 @@
 {
     "id": 2336,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Resource depletion",
     "arabic": "نفاد الموارد",
@@ -2411,7 +2411,7 @@
   {
     "id": 2337,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Armed conflict",
     "arabic": "الصراع المسلح",
@@ -2440,7 +2440,7 @@
   {
     "id": 2338,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Energy crisis",
     "arabic": "أزمة الطاقة",
@@ -2469,7 +2469,7 @@
   {
     "id": 2339,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Pandemic",
     "arabic": "جائحة",
@@ -2498,7 +2498,7 @@
   {
     "id": 2340,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "International aid",
     "arabic": "المساعدات الدولية",
@@ -2527,7 +2527,7 @@
   {
     "id": 2341,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Geopolitics",
     "arabic": "الجغرافيا السياسية",
@@ -2556,7 +2556,7 @@
   {
     "id": 2342,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "International law",
     "arabic": "القانون الدولي",
@@ -2585,7 +2585,7 @@
   {
     "id": 2343,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Global Issues",
     "english": "Humanitarian crisis",
     "arabic": "أزمة إنسانية",
@@ -2615,7 +2615,7 @@
   {
     "id": 2344,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Quantum computing",
     "arabic": "الحوسبة الكمومية",
@@ -2644,7 +2644,7 @@
   {
     "id": 2345,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -2673,7 +2673,7 @@
   {
     "id": 2346,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Genetic engineering",
     "arabic": "الهندسة الوراثية",
@@ -2702,7 +2702,7 @@
   {
     "id": 2347,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Nanotechnology",
     "arabic": "تقنية النانو",
@@ -2731,7 +2731,7 @@
   {
     "id": 2348,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Robotics",
     "arabic": "الروبوتات",
@@ -2760,7 +2760,7 @@
 {
     "id": 2349,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Biotechnology",
     "arabic": "التكنولوجيا الحيوية",
@@ -2789,7 +2789,7 @@
   {
     "id": 2350,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Autonomous systems",
     "arabic": "الأنظمة الذاتية التشغيل",
@@ -2818,7 +2818,7 @@
   {
     "id": 2351,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Cybersecurity",
     "arabic": "الأمن السيبراني",
@@ -2847,7 +2847,7 @@
   {
     "id": 2352,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Space exploration",
     "arabic": "استكشاف الفضاء",
@@ -2876,7 +2876,7 @@
   {
     "id": 2353,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Renewable energy",
     "arabic": "الطاقة المتجددة",
@@ -2905,7 +2905,7 @@
 {
     "id": 2354,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Climate engineering",
     "arabic": "الهندسة المناخية",
@@ -2934,7 +2934,7 @@
   {
     "id": 2355,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Space colonization",
     "arabic": "استعمار الفضاء",
@@ -2963,7 +2963,7 @@
   {
     "id": 2356,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Deep learning",
     "arabic": "التعلم العميق",
@@ -2992,7 +2992,7 @@
   {
     "id": 2357,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Genomics",
     "arabic": "علم الجينوم",
@@ -3021,7 +3021,7 @@
   {
     "id": 2358,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Neuroscience",
     "arabic": "علوم الأعصاب",
@@ -3050,7 +3050,7 @@
   {
     "id": 2359,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Blockchain technology",
     "arabic": "تكنولوجيا البلوك تشين",
@@ -3079,7 +3079,7 @@
   {
     "id": 2360,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Internet of Things",
     "arabic": "إنترنت الأشياء",
@@ -3108,7 +3108,7 @@
 {
     "id": 2361,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Augmented reality",
     "arabic": "الواقع المعزز",
@@ -3137,7 +3137,7 @@
   {
     "id": 2362,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Virtual reality",
     "arabic": "الواقع الافتراضي",
@@ -3166,7 +3166,7 @@
   {
     "id": 2363,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "5G technology",
     "arabic": "تكنولوجيا الجيل الخامس",
@@ -3195,7 +3195,7 @@
   {
     "id": 2364,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Edge computing",
     "arabic": "الحوسبة الطرفية",
@@ -3224,7 +3224,7 @@
   {
     "id": 2365,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Smart cities",
     "arabic": "المدن الذكية",
@@ -3253,7 +3253,7 @@
 {
     "id": 2366,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Quantum computing",
     "arabic": "الحوسبة الكمومية",
@@ -3282,7 +3282,7 @@
   {
     "id": 2367,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -3311,7 +3311,7 @@
   {
     "id": 2368,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Robotics",
     "arabic": "الروبوتات",
@@ -3340,7 +3340,7 @@
   {
     "id": 2369,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Nanotechnology",
     "arabic": "تكنولوجيا النانو",
@@ -3369,7 +3369,7 @@
   {
     "id": 2370,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Genetic engineering",
     "arabic": "الهندسة الوراثية",
@@ -3398,7 +3398,7 @@
   {
     "id": 2371,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Self-driving vehicles",
     "arabic": "المركبات ذاتية القيادة",
@@ -3427,7 +3427,7 @@
   {
     "id": 2372,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Synthetic biology",
     "arabic": "علم الأحياء الصناعي",
@@ -3456,7 +3456,7 @@
 {
     "id": 2373,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Bioprinting",
     "arabic": "الطباعة البيولوجية",
@@ -3485,7 +3485,7 @@
   {
     "id": 2374,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Cognitive computing",
     "arabic": "الحوسبة المعرفية",
@@ -3514,7 +3514,7 @@
   {
     "id": 2375,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Swarm robotics",
     "arabic": "الروبوتات الجماعية",
@@ -3543,7 +3543,7 @@
   {
     "id": 2376,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Hyperloop technology",
     "arabic": "تكنولوجيا هايبرلوب",
@@ -3572,7 +3572,7 @@
   {
     "id": 2377,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Fusion energy",
     "arabic": "طاقة الاندماج النووي",
@@ -3601,7 +3601,7 @@
   {
     "id": 2378,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Space elevators",
     "arabic": "مصاعد فضائية",
@@ -3630,7 +3630,7 @@
   {
     "id": 2379,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Terraforming",
     "arabic": "تغيير البيئة الكوكبية",
@@ -3659,7 +3659,7 @@
   {
     "id": 2380,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Advanced Science & Technology",
     "english": "Brain-computer interface",
     "arabic": "واجهة الدماغ والحاسوب",
@@ -3689,7 +3689,7 @@
   {
     "id": 2381,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Diplomatic immunity",
     "arabic": "حصانة دبلوماسية",
@@ -3718,7 +3718,7 @@
   {
     "id": 2382,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Sanctions",
     "arabic": "عقوبات",
@@ -3747,7 +3747,7 @@
   {
     "id": 2383,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Geopolitics",
     "arabic": "الجغرافيا السياسية",
@@ -3776,7 +3776,7 @@
   {
     "id": 2384,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Treaty",
     "arabic": "معاهدة",
@@ -3805,7 +3805,7 @@
   {
     "id": 2385,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Embargo",
     "arabic": "الحظر التجاري",
@@ -3834,7 +3834,7 @@
 {
     "id": 2386,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Peacekeeping",
     "arabic": "حفظ السلام",
@@ -3863,7 +3863,7 @@
   {
     "id": 2387,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Sovereignty",
     "arabic": "السيادة",
@@ -3892,7 +3892,7 @@
   {
     "id": 2388,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Multilateralism",
     "arabic": "تعدد الأطراف",
@@ -3921,7 +3921,7 @@
   {
     "id": 2389,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Intelligence agency",
     "arabic": "وكالة استخبارات",
@@ -3950,7 +3950,7 @@
   {
     "id": 2390,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Non-governmental organization",
     "arabic": "منظمة غير حكومية",
@@ -3979,7 +3979,7 @@
 {
     "id": 2391,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Bilateral agreement",
     "arabic": "اتفاق ثنائي",
@@ -4008,7 +4008,7 @@
   {
     "id": 2392,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Proxy war",
     "arabic": "حرب بالوكالة",
@@ -4037,7 +4037,7 @@
   {
     "id": 2393,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Global governance",
     "arabic": "الحوكمة العالمية",
@@ -4066,7 +4066,7 @@
   {
     "id": 2394,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Peace treaty",
     "arabic": "معاهدة سلام",
@@ -4095,7 +4095,7 @@
   {
     "id": 2395,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Summit",
     "arabic": "قمة",
@@ -4124,7 +4124,7 @@
 {
     "id": 2396,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Coalition",
     "arabic": "تحالف",
@@ -4153,7 +4153,7 @@
   {
     "id": 2397,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Diplomacy",
     "arabic": "الدبلوماسية",
@@ -4182,7 +4182,7 @@
   {
     "id": 2398,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Sanction",
     "arabic": "عقوبة",
@@ -4211,7 +4211,7 @@
   {
     "id": 2399,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Arbitration",
     "arabic": "التحكيم",
@@ -4240,7 +4240,7 @@
   {
     "id": 2400,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Ceasefire",
     "arabic": "وقف إطلاق النار",
@@ -4269,7 +4269,7 @@
   {
     "id": 2401,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Election monitoring",
     "arabic": "مراقبة الانتخابات",
@@ -4298,7 +4298,7 @@
 {
     "id": 2402,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Legislation",
     "arabic": "تشريع",
@@ -4327,7 +4327,7 @@
   {
     "id": 2403,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Lobbying",
     "arabic": "الضغط السياسي",
@@ -4356,7 +4356,7 @@
   {
     "id": 2404,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Referendum",
     "arabic": "استفتاء",
@@ -4385,7 +4385,7 @@
   {
     "id": 2405,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Authoritarianism",
     "arabic": "الاستبداد",
@@ -4414,7 +4414,7 @@
   {
     "id": 2406,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Diplomatic corps",
     "arabic": "جسد دبلوماسي",
@@ -4443,7 +4443,7 @@
   {
     "id": 2407,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Human rights violations",
     "arabic": "انتهاكات حقوق الإنسان",
@@ -4472,7 +4472,7 @@
   {
     "id": 2408,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Nuclear non-proliferation",
     "arabic": "عدم انتشار الأسلحة النووية",
@@ -4501,7 +4501,7 @@
   {
     "id": 2409,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Supranational organization",
     "arabic": "منظمة فوق وطنية",
@@ -4530,7 +4530,7 @@
   {
     "id": 2410,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Politics & International Affairs",
     "english": "Diplomatic immunity",
     "arabic": "حصانة دبلوماسية",
@@ -4560,7 +4560,7 @@
   {
     "id": 2411,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Epistemology",
     "arabic": "نظرية المعرفة",
@@ -4589,7 +4589,7 @@
   {
     "id": 2412,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Metaphysics",
     "arabic": "ميتافيزيقا",
@@ -4618,7 +4618,7 @@
   {
     "id": 2413,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Ethics",
     "arabic": "أخلاق",
@@ -4647,7 +4647,7 @@
   {
     "id": 2414,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Logic",
     "arabic": "المنطق",
@@ -4676,7 +4676,7 @@
   {
     "id": 2415,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Skepticism",
     "arabic": "الشك",
@@ -4705,7 +4705,7 @@
 {
     "id": 2416,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Dialectic",
     "arabic": "الجدلية",
@@ -4734,7 +4734,7 @@
   {
     "id": 2417,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Ontology",
     "arabic": "علم الوجود",
@@ -4763,7 +4763,7 @@
   {
     "id": 2418,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Paradox",
     "arabic": "مفارقة",
@@ -4792,7 +4792,7 @@
   {
     "id": 2419,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Critical reasoning",
     "arabic": "التفكير النقدي",
@@ -4821,7 +4821,7 @@
   {
     "id": 2420,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Fallacy",
     "arabic": "مغالطة",
@@ -4850,7 +4850,7 @@
 {
     "id": 2421,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Cogito",
     "arabic": "الكوغيتو",
@@ -4879,7 +4879,7 @@
   {
     "id": 2422,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Phenomenology",
     "arabic": "علم الظواهر",
@@ -4908,7 +4908,7 @@
   {
     "id": 2423,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Existentialism",
     "arabic": "الوجودية",
@@ -4937,7 +4937,7 @@
   {
     "id": 2424,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Rationalism",
     "arabic": "العقلانية",
@@ -4966,7 +4966,7 @@
   {
     "id": 2425,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Empiricism",
     "arabic": "التجريبية",
@@ -4995,7 +4995,7 @@
 {
     "id": 2426,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Pragmatism",
     "arabic": "البراغماتية",
@@ -5024,7 +5024,7 @@
   {
     "id": 2427,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Nihilism",
     "arabic": "العدمية",
@@ -5053,7 +5053,7 @@
   {
     "id": 2428,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Teleology",
     "arabic": "الغائية",
@@ -5082,7 +5082,7 @@
   {
     "id": 2429,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Axiology",
     "arabic": "علم القيم",
@@ -5111,7 +5111,7 @@
   {
     "id": 2430,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Deontology",
     "arabic": "الواجبية",
@@ -5140,7 +5140,7 @@
 {
     "id": 2431,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Utilitarianism",
     "arabic": "النفعية",
@@ -5169,7 +5169,7 @@
   {
     "id": 2432,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Virtue ethics",
     "arabic": "أخلاق الفضيلة",
@@ -5198,7 +5198,7 @@
   {
     "id": 2433,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Syllogism",
     "arabic": "القياس المنطقي",
@@ -5227,7 +5227,7 @@
   {
     "id": 2434,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Hermeneutics",
     "arabic": "علم التأويل",
@@ -5256,7 +5256,7 @@
   {
     "id": 2435,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Absurdism",
     "arabic": "العبثية",
@@ -5285,7 +5285,7 @@
 {
     "id": 2436,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Metaphysics",
     "arabic": "الميتافيزيقا",
@@ -5314,7 +5314,7 @@
   {
     "id": 2437,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Epistemology",
     "arabic": "نظرية المعرفة",
@@ -5343,7 +5343,7 @@
   {
     "id": 2438,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Solipsism",
     "arabic": "الذاتية المطلقة",
@@ -5372,7 +5372,7 @@
   {
     "id": 2439,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Phenomenon",
     "arabic": "ظاهرة",
@@ -5401,7 +5401,7 @@
   {
     "id": 2440,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Teleology",
     "arabic": "الغائية",
@@ -5430,7 +5430,7 @@
 {
     "id": 2441,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Dialectics",
     "arabic": "الجدلية",
@@ -5459,7 +5459,7 @@
   {
     "id": 2442,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Ontology",
     "arabic": "علم الوجود",
@@ -5488,7 +5488,7 @@
   {
     "id": 2443,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Postmodernism",
     "arabic": "ما بعد الحداثة",
@@ -5517,7 +5517,7 @@
   {
     "id": 2444,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Deconstruction",
     "arabic": "تفكيك",
@@ -5546,7 +5546,7 @@
   {
     "id": 2445,
     "type": "noun",
-    "level": "C2",
+    "level": "C2.1",
     "topic": "Philosophy & Critical Thinking",
     "english": "Hermeneutics",
     "arabic": "علم التأويل",
