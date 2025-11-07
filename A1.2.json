@@ -2,7 +2,7 @@
 {
   "id": 276,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Store",
   "arabic": "متجر",
@@ -31,7 +31,7 @@
 {
   "id": 277,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Market",
   "arabic": "سوق",
@@ -60,7 +60,7 @@
 {
   "id": 278,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Price",
   "arabic": "سعر",
@@ -89,7 +89,7 @@
 {
   "id": 279,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Cashier",
   "arabic": "صراف",
@@ -118,7 +118,7 @@
 {
   "id": 280,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Shopping cart",
   "arabic": "عربة التسوق",
@@ -147,7 +147,7 @@
 {
   "id": 281,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Bag",
   "arabic": "حقيبة",
@@ -176,7 +176,7 @@
 {
   "id": 282,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Clothes",
   "arabic": "ملابس",
@@ -205,7 +205,7 @@
 {
   "id": 283,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Shoes",
   "arabic": "أحذية",
@@ -234,7 +234,7 @@
 {
   "id": 284,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Hat",
   "arabic": "قبعة",
@@ -263,7 +263,7 @@
 {
   "id": 285,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Wallet",
   "arabic": "محفظة",
@@ -292,7 +292,7 @@
 {
   "id": 286,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Receipt",
   "arabic": "إيصال",
@@ -321,7 +321,7 @@
 {
   "id": 287,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Discount",
   "arabic": "خصم",
@@ -350,7 +350,7 @@
 {
   "id": 288,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Cash",
   "arabic": "نقد",
@@ -379,7 +379,7 @@
 {
   "id": 289,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Credit card",
   "arabic": "بطاقة ائتمان",
@@ -408,7 +408,7 @@
 {
   "id": 290,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Mall",
   "arabic": "مول",
@@ -437,7 +437,7 @@
 {
   "id": 291,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Clothing store",
   "arabic": "متجر الملابس",
@@ -466,7 +466,7 @@
 {
   "id": 292,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Grocery store",
   "arabic": "متجر بقالة",
@@ -495,7 +495,7 @@
 {
   "id": 293,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Bakery",
   "arabic": "مخبز",
@@ -524,7 +524,7 @@
 {
   "id": 294,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Pharmacy",
   "arabic": "صيدلية",
@@ -553,7 +553,7 @@
 {
   "id": 295,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Mall directory",
   "arabic": "دليل المركز التجاري",
@@ -582,7 +582,7 @@
 {
   "id": 296,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Cash register",
   "arabic": "صندوق النقود",
@@ -611,7 +611,7 @@
 {
   "id": 297,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Shopping cart",
   "arabic": "عربة التسوق",
@@ -640,7 +640,7 @@
 {
   "id": 298,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Shelf",
   "arabic": "رف",
@@ -669,7 +669,7 @@
 {
   "id": 299,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Sale",
   "arabic": "تخفيض",
@@ -698,7 +698,7 @@
 {
   "id": 300,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Try on",
   "arabic": "يجرب الملابس",
@@ -727,7 +727,7 @@
 {
   "id": 301,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Customer",
   "arabic": "زبون",
@@ -756,7 +756,7 @@
 {
   "id": 302,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Shop assistant",
   "arabic": "مساعد المتجر",
@@ -785,7 +785,7 @@
 {
   "id": 303,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Price",
   "arabic": "السعر",
@@ -814,7 +814,7 @@
 {
   "id": 304,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Change",
   "arabic": "فكة",
@@ -843,7 +843,7 @@
 {
   "id": 305,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Shopping",
   "english": "Opening hours",
   "arabic": "ساعات العمل",
@@ -872,7 +872,7 @@
 {
   "id": 306,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Dog",
   "arabic": "كلب",
@@ -901,7 +901,7 @@
 {
   "id": 307,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Cat",
   "arabic": "قطة",
@@ -930,7 +930,7 @@
 {
   "id": 308,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Bird",
   "arabic": "طائر",
@@ -959,7 +959,7 @@
 {
   "id": 309,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Fish",
   "arabic": "سمك",
@@ -988,7 +988,7 @@
 {
   "id": 310,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Cow",
   "arabic": "بقرة",
@@ -1017,7 +1017,7 @@
 {
   "id": 311,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Horse",
   "arabic": "حصان",
@@ -1046,7 +1046,7 @@
 {
   "id": 312,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Sheep",
   "arabic": "خروف",
@@ -1075,7 +1075,7 @@
 {
   "id": 313,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Pig",
   "arabic": "خنزير",
@@ -1104,7 +1104,7 @@
 {
   "id": 314,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Rabbit",
   "arabic": "أرنب",
@@ -1133,7 +1133,7 @@
 {
   "id": 315,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Elephant",
   "arabic": "فيل",
@@ -1162,7 +1162,7 @@
 {
   "id": 316,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Lion",
   "arabic": "أسد",
@@ -1191,7 +1191,7 @@
 {
   "id": 317,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Tiger",
   "arabic": "نمر",
@@ -1220,7 +1220,7 @@
 {
   "id": 318,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Bear",
   "arabic": "دب",
@@ -1249,7 +1249,7 @@
 {
   "id": 319,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Monkey",
   "arabic": "قرد",
@@ -1278,7 +1278,7 @@
 {
   "id": 320,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Wolf",
   "arabic": "ذئب",
@@ -1307,7 +1307,7 @@
 {
   "id": 321,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Fox",
   "arabic": "ثعلب",
@@ -1336,7 +1336,7 @@
 {
   "id": 322,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Deer",
   "arabic": "غزال",
@@ -1365,7 +1365,7 @@
 {
   "id": 323,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Bear cub",
   "arabic": "دب صغير",
@@ -1394,7 +1394,7 @@
 {
   "id": 324,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Squirrel",
   "arabic": "سنجاب",
@@ -1423,7 +1423,7 @@
 {
   "id": 325,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Wolf cub",
   "arabic": "ذئب صغير",
@@ -1452,7 +1452,7 @@
 {
   "id": 326,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Bee",
   "arabic": "نحلة",
@@ -1481,7 +1481,7 @@
 {
   "id": 327,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Butterfly",
   "arabic": "فراشة",
@@ -1510,7 +1510,7 @@
 {
   "id": 328,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Ant",
   "arabic": "نملة",
@@ -1539,7 +1539,7 @@
 {
   "id": 329,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Spider",
   "arabic": "عنكبوت",
@@ -1568,7 +1568,7 @@
 {
   "id": 330,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Grass",
   "arabic": "عشب",
@@ -1597,7 +1597,7 @@
 {
   "id": 331,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Tree",
   "arabic": "شجرة",
@@ -1626,7 +1626,7 @@
 {
   "id": 332,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Flower",
   "arabic": "زهرة",
@@ -1655,7 +1655,7 @@
 {
   "id": 333,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Leaf",
   "arabic": "ورقة شجرة",
@@ -1684,7 +1684,7 @@
 {
   "id": 334,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Sun",
   "arabic": "شمس",
@@ -1713,7 +1713,7 @@
 {
   "id": 335,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Moon",
   "arabic": "قمر",
@@ -1742,7 +1742,7 @@
 {
   "id": 336,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Star",
   "arabic": "نجمة",
@@ -1771,7 +1771,7 @@
 {
   "id": 337,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Animals & Nature",
   "english": "Cloud",
   "arabic": "سحابة",
@@ -1800,7 +1800,7 @@
 {
   "id": 338,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Shirt",
   "arabic": "قميص",
@@ -1829,7 +1829,7 @@
 {
   "id": 339,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "T-shirt",
   "arabic": "تي شيرت",
@@ -1858,7 +1858,7 @@
 {
   "id": 340,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Pants",
   "arabic": "سروال",
@@ -1887,7 +1887,7 @@
 {
   "id": 341,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Skirt",
   "arabic": "تنورة",
@@ -1916,7 +1916,7 @@
 {
   "id": 342,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Dress",
   "arabic": "فستان",
@@ -1945,7 +1945,7 @@
 {
   "id": 343,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Coat",
   "arabic": "معطف",
@@ -1974,7 +1974,7 @@
 {
   "id": 344,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Jacket",
   "arabic": "سترة",
@@ -2003,7 +2003,7 @@
 {
   "id": 345,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Sweater",
   "arabic": "كنزة",
@@ -2032,7 +2032,7 @@
 {
   "id": 346,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Hat",
   "arabic": "قبعة",
@@ -2061,7 +2061,7 @@
 {
   "id": 347,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Scarf",
   "arabic": "وشاح",
@@ -2090,7 +2090,7 @@
 {
   "id": 348,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Gloves",
   "arabic": "قفازات",
@@ -2119,7 +2119,7 @@
 {
   "id": 349,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Shoes",
   "arabic": "أحذية",
@@ -2148,7 +2148,7 @@
 {
   "id": 350,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Sneakers",
   "arabic": "أحذية رياضية",
@@ -2177,7 +2177,7 @@
 {
   "id": 351,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Belt",
   "arabic": "حزام",
@@ -2206,7 +2206,7 @@
 {
   "id": 352,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Socks",
   "arabic": "جوارب",
@@ -2235,7 +2235,7 @@
 {
   "id": 353,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Tie",
   "arabic": "ربطة عنق",
@@ -2264,7 +2264,7 @@
 {
   "id": 354,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Cap",
   "arabic": "قبعة صغيرة",
@@ -2293,7 +2293,7 @@
 {
   "id": 355,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Boots",
   "arabic": "أحذية طويلة",
@@ -2322,7 +2322,7 @@
 {
   "id": 356,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Flip-flops",
   "arabic": "شبشب",
@@ -2351,7 +2351,7 @@
 {
   "id": 357,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Dress",
   "arabic": "فستان",
@@ -2380,7 +2380,7 @@
 {
   "id": 358,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Skirt",
   "arabic": "تنورة",
@@ -2409,7 +2409,7 @@
 {
   "id": 359,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "T-shirt",
   "arabic": "قميص",
@@ -2438,7 +2438,7 @@
 {
   "id": 360,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Shirt",
   "arabic": "قميص",
@@ -2467,7 +2467,7 @@
 {
   "id": 361,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Jeans",
   "arabic": "جينز",
@@ -2496,7 +2496,7 @@
 ,{
   "id": 357,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Dress",
   "arabic": "فستان",
@@ -2525,7 +2525,7 @@
 {
   "id": 358,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Skirt",
   "arabic": "تنورة",
@@ -2554,7 +2554,7 @@
 {
   "id": 359,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "T-shirt",
   "arabic": "قميص",
@@ -2583,7 +2583,7 @@
 {
   "id": 360,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Shirt",
   "arabic": "قميص",
@@ -2612,7 +2612,7 @@
 {
   "id": 361,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Clothes & Accessories",
   "english": "Jeans",
   "arabic": "جينز",
@@ -2641,7 +2641,7 @@
 {
   "id": 362,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Head",
   "arabic": "رأس",
@@ -2670,7 +2670,7 @@
 {
   "id": 363,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Hair",
   "arabic": "شعر",
@@ -2699,7 +2699,7 @@
 {
   "id": 364,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Eye",
   "arabic": "عين",
@@ -2728,7 +2728,7 @@
 {
   "id": 365,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Ear",
   "arabic": "أذن",
@@ -2757,7 +2757,7 @@
 {
   "id": 366,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Nose",
   "arabic": "أنف",
@@ -2786,7 +2786,7 @@
 {
   "id": 367,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Mouth",
   "arabic": "فم",
@@ -2815,7 +2815,7 @@
 {
   "id": 368,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Teeth",
   "arabic": "أسنان",
@@ -2844,7 +2844,7 @@
 {
   "id": 369,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Tongue",
   "arabic": "لسان",
@@ -2873,7 +2873,7 @@
 {
   "id": 370,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Neck",
   "arabic": "رقبة",
@@ -2902,7 +2902,7 @@
 {
   "id": 371,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Shoulder",
   "arabic": "كتف",
@@ -2931,7 +2931,7 @@
 {
   "id": 372,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Arm",
   "arabic": "ذراع",
@@ -2960,7 +2960,7 @@
 {
   "id": 373,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Elbow",
   "arabic": "كوع",
@@ -2989,7 +2989,7 @@
 {
   "id": 374,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Hand",
   "arabic": "يد",
@@ -3018,7 +3018,7 @@
 {
   "id": 375,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Finger",
   "arabic": "إصبع",
@@ -3047,7 +3047,7 @@
 {
   "id": 376,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Chest",
   "arabic": "صدر",
@@ -3076,7 +3076,7 @@
 {
   "id": 377,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Body & Face",
   "english": "Stomach",
   "arabic": "بطن",
@@ -3105,7 +3105,7 @@
 {
   "id": 412,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Soap",
   "arabic": "صابون",
@@ -3134,7 +3134,7 @@
 {
   "id": 413,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Towel",
   "arabic": "منشفة",
@@ -3163,7 +3163,7 @@
 {
   "id": 414,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Toothbrush",
   "arabic": "فرشاة أسنان",
@@ -3192,7 +3192,7 @@
 {
   "id": 415,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Toothpaste",
   "arabic": "معجون أسنان",
@@ -3221,7 +3221,7 @@
 {
   "id": 416,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Shampoo",
   "arabic": "شامبو",
@@ -3250,7 +3250,7 @@
 {
   "id": 417,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Conditioner",
   "arabic": "بلسم",
@@ -3279,7 +3279,7 @@
 {
   "id": 418,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Mirror",
   "arabic": "مرآة",
@@ -3308,7 +3308,7 @@
 {
   "id": 419,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Nail",
   "arabic": "ظفر",
@@ -3337,7 +3337,7 @@
 {
   "id": 420,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Nail clipper",
   "arabic": "قصاصة أظافر",
@@ -3366,7 +3366,7 @@
 {
   "id": 421,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Comb",
   "arabic": "مشط",
@@ -3395,7 +3395,7 @@
 {
   "id": 422,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Hairbrush",
   "arabic": "فرشاة شعر",
@@ -3424,7 +3424,7 @@
 {
   "id": 423,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Shower gel",
   "arabic": "جل الاستحمام",
@@ -3453,7 +3453,7 @@
 {
   "id": 424,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Face wash",
   "arabic": "غسول الوجه",
@@ -3482,7 +3482,7 @@
 {
   "id": 425,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Health & Hygiene",
   "english": "Lotion",
   "arabic": "مرطب",
@@ -3511,7 +3511,7 @@
 {
   "id": 426,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Sun",
   "arabic": "شمس",
@@ -3540,7 +3540,7 @@
 {
   "id": 427,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Rain",
   "arabic": "مطر",
@@ -3569,7 +3569,7 @@
 {
   "id": 428,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Snow",
   "arabic": "ثلج",
@@ -3598,7 +3598,7 @@
 {
   "id": 429,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Wind",
   "arabic": "ريح",
@@ -3627,7 +3627,7 @@
 {
   "id": 430,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Cloud",
   "arabic": "سحابة",
@@ -3656,7 +3656,7 @@
 {
   "id": 431,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Storm",
   "arabic": "عاصفة",
@@ -3685,7 +3685,7 @@
 {
   "id": 432,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Fog",
   "arabic": "ضباب",
@@ -3714,7 +3714,7 @@
 {
   "id": 433,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Lightning",
   "arabic": "برق",
@@ -3743,7 +3743,7 @@
 {
   "id": 434,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Snowflake",
   "arabic": "رقاقة ثلجية",
@@ -3772,7 +3772,7 @@
 {
   "id": 435,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Hail",
   "arabic": "برد",
@@ -3801,7 +3801,7 @@
 {
   "id": 436,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Stormy",
   "arabic": "عاصف",
@@ -3830,7 +3830,7 @@
 {
   "id": 437,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Sunny",
   "arabic": "مشمس",
@@ -3859,7 +3859,7 @@
 {
   "id": 438,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Cloudy",
   "arabic": "غائم",
@@ -3888,7 +3888,7 @@
 {
   "id": 439,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Rainy",
   "arabic": "ممطر",
@@ -3917,7 +3917,7 @@
 {
   "id": 440,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Cold",
   "arabic": "بارد",
@@ -3946,7 +3946,7 @@
 {
   "id": 441,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Hot",
   "arabic": "حار",
@@ -3975,7 +3975,7 @@
 {
   "id": 442,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Warm",
   "arabic": "دافئ",
@@ -4004,7 +4004,7 @@
 {
   "id": 443,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Cool",
   "arabic": "بارد قليلاً",
@@ -4033,7 +4033,7 @@
 {
   "id": 444,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Freezing",
   "arabic": "متجمد",
@@ -4062,7 +4062,7 @@
 {
   "id": 445,
   "type": "noun",
-  "level": "A1",
+  "level": "A1.2",
   "topic": "Weather & Seasons",
   "english": "Storm cloud",
   "arabic": "سحابة عاصفة",
