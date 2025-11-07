@@ -2,7 +2,7 @@
   {
     "id": 1431,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Government",
     "arabic": "حكومة",
@@ -31,7 +31,7 @@
   {
     "id": 1432,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Policy",
     "arabic": "سياسة",
@@ -60,7 +60,7 @@
   {
     "id": 1433,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Democracy",
     "arabic": "ديمقراطية",
@@ -89,7 +89,7 @@
   {
     "id": 1434,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Election",
     "arabic": "انتخابات",
@@ -118,7 +118,7 @@
   {
     "id": 1435,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Candidate",
     "arabic": "مرشح",
@@ -147,7 +147,7 @@
   {
     "id": 1436,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Parliament",
     "arabic": "برلمان",
@@ -176,7 +176,7 @@
   {
     "id": 1437,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Demonstration",
     "arabic": "تظاهرة",
@@ -205,7 +205,7 @@
 {
     "id": 1438,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Diplomacy",
     "arabic": "دبلوماسية",
@@ -234,7 +234,7 @@
   {
     "id": 1439,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Minister",
     "arabic": "وزير",
@@ -263,7 +263,7 @@
   {
     "id": 1440,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Opposition",
     "arabic": "معارضة",
@@ -292,7 +292,7 @@
   {
     "id": 1441,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Constitution",
     "arabic": "دستور",
@@ -321,7 +321,7 @@
   {
     "id": 1442,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Vote",
     "arabic": "تصويت",
@@ -350,7 +350,7 @@
   {
     "id": 1443,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Referendum",
     "arabic": "استفتاء",
@@ -379,7 +379,7 @@
   {
     "id": 1444,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Senator",
     "arabic": "سيناتور",
@@ -408,7 +408,7 @@
   {
     "id": 1445,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Congress",
     "arabic": "كونغرس",
@@ -437,7 +437,7 @@
 {
     "id": 1446,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Lobby",
     "arabic": "لوبي",
@@ -466,7 +466,7 @@
   {
     "id": 1447,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Reform",
     "arabic": "إصلاح",
@@ -495,7 +495,7 @@
   {
     "id": 1448,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Campaign",
     "arabic": "حملة",
@@ -524,7 +524,7 @@
   {
     "id": 1449,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Coalition",
     "arabic": "تحالف",
@@ -553,7 +553,7 @@
   {
     "id": 1450,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Legislation",
     "arabic": "تشريع",
@@ -582,7 +582,7 @@
   {
     "id": 1451,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Policy maker",
     "arabic": "صانع السياسات",
@@ -611,7 +611,7 @@
   {
     "id": 1452,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Dictator",
     "arabic": "ديكتاتور",
@@ -640,7 +640,7 @@
 {
     "id": 1453,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Election campaign",
     "arabic": "حملة انتخابية",
@@ -669,7 +669,7 @@
   {
     "id": 1454,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Ambassador",
     "arabic": "سفير",
@@ -698,7 +698,7 @@
   {
     "id": 1455,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Government official",
     "arabic": "موظف حكومي",
@@ -727,7 +727,7 @@
   {
     "id": 1456,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Bureaucracy",
     "arabic": "بيروقراطية",
@@ -756,7 +756,7 @@
   {
     "id": 1457,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Party leader",
     "arabic": "زعيم الحزب",
@@ -785,7 +785,7 @@
   {
     "id": 1458,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Cabinet",
     "arabic": "مجلس الوزراء",
@@ -814,7 +814,7 @@
   {
     "id": 1459,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Manifesto",
     "arabic": "بيان سياسي",
@@ -843,7 +843,7 @@
   {
     "id": 1460,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Impeachment",
     "arabic": "عزل",
@@ -872,7 +872,7 @@
 {
     "id": 1461,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Referendum",
     "arabic": "استفتاء",
@@ -901,7 +901,7 @@
   {
     "id": 1462,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Civil rights",
     "arabic": "الحقوق المدنية",
@@ -930,7 +930,7 @@
   {
     "id": 1463,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Freedom of speech",
     "arabic": "حرية التعبير",
@@ -959,7 +959,7 @@
   {
     "id": 1464,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Human rights",
     "arabic": "حقوق الإنسان",
@@ -988,7 +988,7 @@
   {
     "id": 1465,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Political party",
     "arabic": "حزب سياسي",
@@ -1017,7 +1017,7 @@
   {
     "id": 1466,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Senate",
     "arabic": "مجلس الشيوخ",
@@ -1046,7 +1046,7 @@
   {
     "id": 1467,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Parliament",
     "arabic": "البرلمان",
@@ -1075,7 +1075,7 @@
   {
     "id": 1468,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Referendum result",
     "arabic": "نتيجة الاستفتاء",
@@ -1104,7 +1104,7 @@
   {
     "id": 1469,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Executive branch",
     "arabic": "السلطة التنفيذية",
@@ -1133,7 +1133,7 @@
   {
     "id": 1470,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Politics",
     "english": "Judiciary",
     "arabic": "القضاء",
@@ -1163,7 +1163,7 @@
   {
     "id": 1471,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Experiment",
     "arabic": "تجربة",
@@ -1192,7 +1192,7 @@
   {
     "id": 1472,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Hypothesis",
     "arabic": "فرضية",
@@ -1221,7 +1221,7 @@
   {
     "id": 1473,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Observation",
     "arabic": "ملاحظة",
@@ -1250,7 +1250,7 @@
   {
     "id": 1474,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Theory",
     "arabic": "نظرية",
@@ -1279,7 +1279,7 @@
   {
     "id": 1475,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Research",
     "arabic": "بحث",
@@ -1308,7 +1308,7 @@
   {
     "id": 1476,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Innovation",
     "arabic": "ابتكار",
@@ -1337,7 +1337,7 @@
   {
     "id": 1477,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Lab",
     "arabic": "مختبر",
@@ -1366,7 +1366,7 @@
 {
     "id": 1478,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Scientist",
     "arabic": "عالِم",
@@ -1395,7 +1395,7 @@
   {
     "id": 1479,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Discovery",
     "arabic": "اكتشاف",
@@ -1424,7 +1424,7 @@
   {
     "id": 1480,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Laboratory equipment",
     "arabic": "معدات مختبرية",
@@ -1453,7 +1453,7 @@
   {
     "id": 1481,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Data analysis",
     "arabic": "تحليل البيانات",
@@ -1482,7 +1482,7 @@
   {
     "id": 1482,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Scientific method",
     "arabic": "الطريقة العلمية",
@@ -1511,7 +1511,7 @@
 {
     "id": 1483,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Breakthrough",
     "arabic": "اختراق",
@@ -1540,7 +1540,7 @@
   {
     "id": 1484,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Genetics",
     "arabic": "علم الوراثة",
@@ -1569,7 +1569,7 @@
   {
     "id": 1485,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Biology",
     "arabic": "علم الأحياء",
@@ -1598,7 +1598,7 @@
   {
     "id": 1486,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Physics",
     "arabic": "الفيزياء",
@@ -1627,7 +1627,7 @@
   {
     "id": 1487,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Chemistry",
     "arabic": "الكيمياء",
@@ -1656,7 +1656,7 @@
 {
     "id": 1488,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Astronomy",
     "arabic": "علم الفلك",
@@ -1685,7 +1685,7 @@
   {
     "id": 1489,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Ecology",
     "arabic": "علم البيئة",
@@ -1714,7 +1714,7 @@
   {
     "id": 1490,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Biotechnology",
     "arabic": "التكنولوجيا الحيوية",
@@ -1743,7 +1743,7 @@
   {
     "id": 1491,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Nanotechnology",
     "arabic": "تقنية النانو",
@@ -1772,7 +1772,7 @@
   {
     "id": 1492,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Artificial Intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -1801,7 +1801,7 @@
   {
     "id": 1493,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Robotics",
     "arabic": "الروبوتات",
@@ -1830,7 +1830,7 @@
 {
     "id": 1494,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Quantum physics",
     "arabic": "الفيزياء الكمية",
@@ -1859,7 +1859,7 @@
   {
     "id": 1495,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Ecology",
     "arabic": "علم البيئة",
@@ -1888,7 +1888,7 @@
   {
     "id": 1496,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Genomics",
     "arabic": "علم الجينوم",
@@ -1917,7 +1917,7 @@
   {
     "id": 1497,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Climate change",
     "arabic": "تغير المناخ",
@@ -1946,7 +1946,7 @@
   {
     "id": 1498,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Renewable energy",
     "arabic": "الطاقة المتجددة",
@@ -1975,7 +1975,7 @@
   {
     "id": 1499,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Sustainability",
     "arabic": "الاستدامة",
@@ -2004,7 +2004,7 @@
   {
     "id": 1500,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Ecological footprint",
     "arabic": "البصمة البيئية",
@@ -2033,7 +2033,7 @@
   {
     "id": 1501,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Science",
     "english": "Climate science",
     "arabic": "علوم المناخ",
@@ -2063,7 +2063,7 @@
   {
     "id": 1502,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Abstract art",
     "arabic": "فن تجريدي",
@@ -2092,7 +2092,7 @@
   {
     "id": 1503,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Sculpture",
     "arabic": "نحت",
@@ -2121,7 +2121,7 @@
   {
     "id": 1504,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Painting",
     "arabic": "رسم",
@@ -2150,7 +2150,7 @@
   {
     "id": 1505,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Graffiti",
     "arabic": "الغرافيتي",
@@ -2179,7 +2179,7 @@
   {
     "id": 1506,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Performance art",
     "arabic": "فن الأداء",
@@ -2208,7 +2208,7 @@
 {
     "id": 1507,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Contemporary art",
     "arabic": "الفن المعاصر",
@@ -2237,7 +2237,7 @@
   {
     "id": 1508,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Fine art",
     "arabic": "الفنون الجميلة",
@@ -2266,7 +2266,7 @@
   {
     "id": 1509,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Illustration",
     "arabic": "رسوم توضيحية",
@@ -2295,7 +2295,7 @@
   {
     "id": 1510,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Exhibition",
     "arabic": "معرض",
@@ -2324,7 +2324,7 @@
   {
     "id": 1511,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Gallery",
     "arabic": "معرض فني",
@@ -2353,7 +2353,7 @@
 {
     "id": 1512,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Portrait",
     "arabic": "صورة شخصية",
@@ -2382,7 +2382,7 @@
   {
     "id": 1513,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Landscape",
     "arabic": "منظر طبيعي",
@@ -2411,7 +2411,7 @@
   {
     "id": 1514,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Modernism",
     "arabic": "الحداثة",
@@ -2440,7 +2440,7 @@
   {
     "id": 1515,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Cubism",
     "arabic": "التكعيبية",
@@ -2469,7 +2469,7 @@
   {
     "id": 1516,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Surrealism",
     "arabic": "الغرائبية",
@@ -2498,7 +2498,7 @@
 {
     "id": 1517,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Impressionism",
     "arabic": "الانطباعية",
@@ -2527,7 +2527,7 @@
   {
     "id": 1518,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Collage",
     "arabic": "الكولاج",
@@ -2556,7 +2556,7 @@
   {
     "id": 1519,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Fresco",
     "arabic": "الفسيفساء الجدارية",
@@ -2585,7 +2585,7 @@
   {
     "id": 1520,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Mosaic",
     "arabic": "فسيفساء",
@@ -2614,7 +2614,7 @@
   {
     "id": 1521,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Minimalism",
     "arabic": "التقليلية",
@@ -2643,7 +2643,7 @@
   {
     "id": 1522,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Installation",
     "arabic": "تركيب فني",
@@ -2672,7 +2672,7 @@
   {
     "id": 1523,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Art",
     "english": "Conceptual art",
     "arabic": "الفن المفاهيمي",
@@ -2701,7 +2701,7 @@
   {
     "id": 1524,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Artificial intelligence",
     "arabic": "الذكاء الاصطناعي",
@@ -2730,7 +2730,7 @@
   {
     "id": 1525,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Algorithm",
     "arabic": "خوارزمية",
@@ -2759,7 +2759,7 @@
   {
     "id": 1526,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Cybersecurity",
     "arabic": "الأمن السيبراني",
@@ -2788,7 +2788,7 @@
   {
     "id": 1527,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Data analysis",
     "arabic": "تحليل البيانات",
@@ -2817,7 +2817,7 @@
   {
     "id": 1528,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Blockchain",
     "arabic": "سلسلة الكتل",
@@ -2846,7 +2846,7 @@
   {
     "id": 1529,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Innovation",
     "arabic": "ابتكار",
@@ -2875,7 +2875,7 @@
   {
     "id": 1530,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Virtual reality",
     "arabic": "الواقع الافتراضي",
@@ -2904,7 +2904,7 @@
   {
     "id": 1531,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Augmented reality",
     "arabic": "الواقع المعزز",
@@ -2933,7 +2933,7 @@
 {
     "id": 1532,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Cloud computing",
     "arabic": "الحوسبة السحابية",
@@ -2962,7 +2962,7 @@
   {
     "id": 1533,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Automation",
     "arabic": "الأتمتة",
@@ -2991,7 +2991,7 @@
   {
     "id": 1534,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Digital transformation",
     "arabic": "التحول الرقمي",
@@ -3020,7 +3020,7 @@
   {
     "id": 1535,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Machine learning",
     "arabic": "تعلم الآلة",
@@ -3049,7 +3049,7 @@
   {
     "id": 1536,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Innovation hub",
     "arabic": "مركز الابتكار",
@@ -3078,7 +3078,7 @@
   {
     "id": 1537,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Gadget",
     "arabic": "أداة إلكترونية",
@@ -3107,7 +3107,7 @@
   {
     "id": 1538,
     "type": "verb",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Upgrade",
     "arabic": "يرقي",
@@ -3136,7 +3136,7 @@
 {
     "id": 1539,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Software development",
     "arabic": "تطوير البرمجيات",
@@ -3165,7 +3165,7 @@
   {
     "id": 1540,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Hardware",
     "arabic": "الأجهزة",
@@ -3194,7 +3194,7 @@
   {
     "id": 1541,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Cybersecurity",
     "arabic": "الأمن السيبراني",
@@ -3223,7 +3223,7 @@
   {
     "id": 1542,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Big data",
     "arabic": "البيانات الضخمة",
@@ -3252,7 +3252,7 @@
   {
     "id": 1543,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Smart device",
     "arabic": "جهاز ذكي",
@@ -3281,7 +3281,7 @@
   {
     "id": 1544,
     "type": "verb",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Hack",
     "arabic": "يخترق",
@@ -3310,7 +3310,7 @@
   {
     "id": 1545,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Algorithm",
     "arabic": "خوارزمية",
@@ -3339,7 +3339,7 @@
   {
     "id": 1546,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Blockchain",
     "arabic": "سلسلة الكتل",
@@ -3368,7 +3368,7 @@
   {
     "id": 1547,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Startup",
     "arabic": "شركة ناشئة",
@@ -3397,7 +3397,7 @@
   {
     "id": 1548,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Virtual reality",
     "arabic": "الواقع الافتراضي",
@@ -3426,7 +3426,7 @@
   {
     "id": 1549,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Augmented reality",
     "arabic": "الواقع المعزز",
@@ -3455,7 +3455,7 @@
   {
     "id": 1550,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Technology & Innovation",
     "english": "Data analysis",
     "arabic": "تحليل البيانات",
@@ -3485,7 +3485,7 @@
   {
     "id": 1551,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Poverty",
     "arabic": "الفقر",
@@ -3514,7 +3514,7 @@
   {
     "id": 1552,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Inequality",
     "arabic": "عدم المساواة",
@@ -3543,7 +3543,7 @@
   {
     "id": 1553,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Homelessness",
     "arabic": "التشرد",
@@ -3572,7 +3572,7 @@
   {
     "id": 1554,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Discrimination",
     "arabic": "التمييز",
@@ -3601,7 +3601,7 @@
   {
     "id": 1555,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Gender equality",
     "arabic": "المساواة بين الجنسين",
@@ -3630,7 +3630,7 @@
   {
     "id": 1556,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Human rights",
     "arabic": "حقوق الإنسان",
@@ -3659,7 +3659,7 @@
   {
     "id": 1557,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Racism",
     "arabic": "العنصرية",
@@ -3688,7 +3688,7 @@
   {
     "id": 1558,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Crime rate",
     "arabic": "معدل الجريمة",
@@ -3717,7 +3717,7 @@
   {
     "id": 1559,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Domestic violence",
     "arabic": "العنف المنزلي",
@@ -3746,7 +3746,7 @@
 {
     "id": 1560,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Unemployment",
     "arabic": "البطالة",
@@ -3775,7 +3775,7 @@
   {
     "id": 1561,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Social inequality",
     "arabic": "عدم المساواة الاجتماعية",
@@ -3804,7 +3804,7 @@
   {
     "id": 1562,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Corruption",
     "arabic": "الفساد",
@@ -3833,7 +3833,7 @@
   {
     "id": 1563,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Social justice",
     "arabic": "العدالة الاجتماعية",
@@ -3862,7 +3862,7 @@
   {
     "id": 1564,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Community service",
     "arabic": "الخدمة المجتمعية",
@@ -3891,7 +3891,7 @@
   {
     "id": 1565,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Immigration",
     "arabic": "الهجرة",
@@ -3920,7 +3920,7 @@
   {
     "id": 1566,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Cultural diversity",
     "arabic": "التنوع الثقافي",
@@ -3949,7 +3949,7 @@
   {
     "id": 1567,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Social mobility",
     "arabic": "الحراك الاجتماعي",
@@ -3978,7 +3978,7 @@
   {
     "id": 1568,
     "type": "verb",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Protest",
     "arabic": "يحتج",
@@ -4007,7 +4007,7 @@
   {
     "id": 1569,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Freedom of speech",
     "arabic": "حرية التعبير",
@@ -4036,7 +4036,7 @@
   {
     "id": 1570,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Social Issues / Society",
     "english": "Globalization",
     "arabic": "العولمة",
@@ -4066,7 +4066,7 @@
   {
     "id": 1571,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Novel",
     "arabic": "رواية",
@@ -4095,7 +4095,7 @@
   {
     "id": 1572,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Poetry",
     "arabic": "الشعر",
@@ -4124,7 +4124,7 @@
   {
     "id": 1573,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Drama",
     "arabic": "دراما / مسرحية",
@@ -4153,7 +4153,7 @@
   {
     "id": 1574,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Biography",
     "arabic": "سيرة ذاتية",
@@ -4182,7 +4182,7 @@
   {
     "id": 1575,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Publisher",
     "arabic": "ناشر",
@@ -4211,7 +4211,7 @@
   {
     "id": 1576,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Headline",
     "arabic": "العنوان الرئيسي",
@@ -4240,7 +4240,7 @@
   {
     "id": 1577,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Journalist",
     "arabic": "صحفي",
@@ -4269,7 +4269,7 @@
   {
     "id": 1578,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Editor",
     "arabic": "المحرر",
@@ -4298,7 +4298,7 @@
   {
     "id": 1579,
     "type": "verb",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Publish",
     "arabic": "ينشر",
@@ -4327,7 +4327,7 @@
   {
     "id": 1580,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Broadcast",
     "arabic": "بث",
@@ -4356,7 +4356,7 @@
 {
     "id": 1581,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Magazine",
     "arabic": "مجلة",
@@ -4385,7 +4385,7 @@
   {
     "id": 1582,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Newspaper",
     "arabic": "جريدة",
@@ -4414,7 +4414,7 @@
   {
     "id": 1583,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Article",
     "arabic": "مقالة",
@@ -4443,7 +4443,7 @@
   {
     "id": 1584,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Author",
     "arabic": "مؤلف",
@@ -4472,7 +4472,7 @@
   {
     "id": 1585,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Critic",
     "arabic": "ناقد",
@@ -4501,7 +4501,7 @@
   {
     "id": 1586,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Fiction",
     "arabic": "خيال / أدب خيالي",
@@ -4530,7 +4530,7 @@
   {
     "id": 1587,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Non-fiction",
     "arabic": "غير خيالي",
@@ -4559,7 +4559,7 @@
   {
     "id": 1588,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Review",
     "arabic": "مراجعة / تقييم",
@@ -4588,7 +4588,7 @@
   {
     "id": 1589,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Script",
     "arabic": "نص / سيناريو",
@@ -4617,7 +4617,7 @@
   {
     "id": 1590,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Plot",
     "arabic": "حبكة / مؤامرة",
@@ -4646,7 +4646,7 @@
   {
     "id": 1591,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Character",
     "arabic": "شخصية",
@@ -4675,7 +4675,7 @@
   {
     "id": 1592,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Theme",
     "arabic": "موضوع",
@@ -4704,7 +4704,7 @@
   {
     "id": 1593,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Illustration",
     "arabic": "رسم توضيحي",
@@ -4733,7 +4733,7 @@
   {
     "id": 1594,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Magazine article",
     "arabic": "مقالة مجلة",
@@ -4762,7 +4762,7 @@
   {
     "id": 1595,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Interview",
     "arabic": "مقابلة",
@@ -4791,7 +4791,7 @@
   {
     "id": 1596,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Column",
     "arabic": "عمود / مقالة رأي",
@@ -4820,7 +4820,7 @@
   {
     "id": 1597,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Broadcasting company",
     "arabic": "شركة بث",
@@ -4849,7 +4849,7 @@
   {
     "id": 1598,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Podcast",
     "arabic": "بودكاست",
@@ -4878,7 +4878,7 @@
   {
     "id": 1599,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Subscription",
     "arabic": "اشتراك",
@@ -4907,7 +4907,7 @@
   {
     "id": 1600,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Documentary",
     "arabic": "وثائقي",
@@ -4936,7 +4936,7 @@
 {
     "id": 1601,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Narrative",
     "arabic": "سرد / قصة",
@@ -4965,7 +4965,7 @@
   {
     "id": 1602,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Illustrator",
     "arabic": "رسام توضيحي",
@@ -4994,7 +4994,7 @@
   {
     "id": 1603,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Literary award",
     "arabic": "جائزة أدبية",
@@ -5023,7 +5023,7 @@
   {
     "id": 1604,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Tabloid",
     "arabic": "صحيفة شعبية",
@@ -5052,7 +5052,7 @@
   {
     "id": 1605,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Feature",
     "arabic": "مقالة مميزة",
@@ -5081,7 +5081,7 @@
   {
     "id": 1606,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Serial",
     "arabic": "مسلسل",
@@ -5110,7 +5110,7 @@
   {
     "id": 1607,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Headline news",
     "arabic": "أخبار العنوان الرئيسي",
@@ -5139,7 +5139,7 @@
   {
     "id": 1608,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Columnist",
     "arabic": "كاتب عمود",
@@ -5168,7 +5168,7 @@
   {
     "id": 1609,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Broadcasting",
     "arabic": "البث",
@@ -5197,7 +5197,7 @@
   {
     "id": 1610,
     "type": "noun",
-    "level": "B2",
+    "level": "B2.1",
     "topic": "Literature & Media",
     "english": "Scriptwriter",
     "arabic": "كاتب السيناريو",
