@@ -2,7 +2,7 @@
   {
     "id": 1301,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Newspaper",
     "arabic": "صحيفة",
@@ -31,7 +31,7 @@
   {
     "id": 1302,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Magazine",
     "arabic": "مجلة",
@@ -60,7 +60,7 @@
   {
     "id": 1303,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Television",
     "arabic": "تلفزيون",
@@ -89,7 +89,7 @@
   {
     "id": 1304,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Radio",
     "arabic": "راديو",
@@ -118,7 +118,7 @@
   {
     "id": 1305,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Journalist",
     "arabic": "صحفي",
@@ -147,7 +147,7 @@
   {
     "id": 1306,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "News",
     "arabic": "أخبار",
@@ -176,7 +176,7 @@
   {
     "id": 1307,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Reporter",
     "arabic": "مراسل",
@@ -205,7 +205,7 @@
   {
     "id": 1308,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Broadcast",
     "arabic": "بث",
@@ -234,7 +234,7 @@
   {
     "id": 1309,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Advertisement",
     "arabic": "إعلان",
@@ -263,7 +263,7 @@
 {
     "id": 1311,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Social media",
     "arabic": "وسائل التواصل الاجتماعي",
@@ -292,7 +292,7 @@
   {
     "id": 1312,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Blog",
     "arabic": "مدونة",
@@ -321,7 +321,7 @@
   {
     "id": 1313,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Podcast",
     "arabic": "بودكاست",
@@ -350,7 +350,7 @@
   {
     "id": 1314,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Press",
     "arabic": "الصحافة",
@@ -379,7 +379,7 @@
   {
     "id": 1315,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Editor",
     "arabic": "محرر",
@@ -408,7 +408,7 @@
   {
     "id": 1316,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Interview",
     "arabic": "مقابلة",
@@ -437,7 +437,7 @@
   {
     "id": 1317,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Headline",
     "arabic": "عنوان رئيسي",
@@ -466,7 +466,7 @@
   {
     "id": 1318,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Opinion",
     "arabic": "رأي",
@@ -495,7 +495,7 @@
   {
     "id": 1319,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Announcement",
     "arabic": "إعلان",
@@ -524,7 +524,7 @@
 {
     "id": 1320,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Channel",
     "arabic": "قناة",
@@ -553,7 +553,7 @@
   {
     "id": 1321,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Subscriber",
     "arabic": "مشترك",
@@ -582,7 +582,7 @@
   {
     "id": 1322,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Communication",
     "arabic": "اتصال",
@@ -611,7 +611,7 @@
   {
     "id": 1323,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Message",
     "arabic": "رسالة",
@@ -640,7 +640,7 @@
   {
     "id": 1324,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Post",
     "arabic": "منشور",
@@ -669,7 +669,7 @@
   {
     "id": 1325,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Comment",
     "arabic": "تعليق",
@@ -698,7 +698,7 @@
   {
     "id": 1326,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Audience",
     "arabic": "جمهور",
@@ -727,7 +727,7 @@
   {
     "id": 1327,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Channel",
     "arabic": "قناة",
@@ -756,7 +756,7 @@
   {
     "id": 1328,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Feedback",
     "arabic": "تغذية راجعة",
@@ -785,7 +785,7 @@
   {
     "id": 1329,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Broadcasting",
     "arabic": "بث",
@@ -814,7 +814,7 @@
   {
     "id": 1330,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Reporter",
     "arabic": "مراسل",
@@ -843,7 +843,7 @@
 {
     "id": 1331,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Magazine",
     "arabic": "مجلة",
@@ -872,7 +872,7 @@
   {
     "id": 1332,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Newspaper",
     "arabic": "صحيفة",
@@ -901,7 +901,7 @@
   {
     "id": 1333,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Reporter",
     "arabic": "مراسل",
@@ -930,7 +930,7 @@
   {
     "id": 1334,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Television",
     "arabic": "تلفزيون",
@@ -959,7 +959,7 @@
   {
     "id": 1335,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Radio",
     "arabic": "راديو",
@@ -988,7 +988,7 @@
   {
     "id": 1336,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Journalist",
     "arabic": "صحفي",
@@ -1017,7 +1017,7 @@
   {
     "id": 1337,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Advertisement",
     "arabic": "إعلان",
@@ -1046,7 +1046,7 @@
   {
     "id": 1338,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Campaign",
     "arabic": "حملة",
@@ -1075,7 +1075,7 @@
   {
     "id": 1339,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Editor-in-chief",
     "arabic": "رئيس التحرير",
@@ -1104,7 +1104,7 @@
   {
     "id": 1340,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Broadcast",
     "arabic": "بث",
@@ -1133,7 +1133,7 @@
   {
     "id": 1341,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Viewer",
     "arabic": "مشاهد",
@@ -1162,7 +1162,7 @@
   {
     "id": 1342,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Headline news",
     "arabic": "أخبار رئيسية",
@@ -1191,7 +1191,7 @@
   {
     "id": 1343,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "News anchor",
     "arabic": "مقدم الأخبار",
@@ -1220,7 +1220,7 @@
   {
     "id": 1344,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Channel surfing",
     "arabic": "تغيير القناة",
@@ -1249,7 +1249,7 @@
   {
     "id": 1345,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Telecast",
     "arabic": "البث التلفزيوني",
@@ -1278,7 +1278,7 @@
   {
     "id": 1346,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Streaming",
     "arabic": "بث مباشر",
@@ -1307,7 +1307,7 @@
   {
     "id": 1347,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Vlog",
     "arabic": "مدونة فيديو",
@@ -1336,7 +1336,7 @@
   {
     "id": 1348,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Podcast",
     "arabic": "بودكاست",
@@ -1365,7 +1365,7 @@
   {
     "id": 1349,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Social media",
     "arabic": "وسائل التواصل الاجتماعي",
@@ -1394,7 +1394,7 @@
   {
     "id": 1350,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Media & Communication",
     "english": "Influencer",
     "arabic": "مؤثر",
@@ -1424,7 +1424,7 @@
   {
     "id": 1351,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Law",
     "arabic": "قانون",
@@ -1453,7 +1453,7 @@
   {
     "id": 1352,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Rule",
     "arabic": "قاعدة",
@@ -1482,7 +1482,7 @@
   {
     "id": 1353,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Constitution",
     "arabic": "دستور",
@@ -1511,7 +1511,7 @@
   {
     "id": 1354,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Crime",
     "arabic": "جريمة",
@@ -1540,7 +1540,7 @@
   {
     "id": 1355,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Punishment",
     "arabic": "عقوبة",
@@ -1569,7 +1569,7 @@
   {
     "id": 1356,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Court",
     "arabic": "محكمة",
@@ -1598,7 +1598,7 @@
   {
     "id": 1357,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Judge",
     "arabic": "قاضي",
@@ -1627,7 +1627,7 @@
   {
     "id": 1358,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Lawyer",
     "arabic": "محام",
@@ -1656,7 +1656,7 @@
   {
     "id": 1359,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Trial",
     "arabic": "محاكمة",
@@ -1685,7 +1685,7 @@
 {
     "id": 1360,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Evidence",
     "arabic": "دليل",
@@ -1714,7 +1714,7 @@
   {
     "id": 1361,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Arrest",
     "arabic": "اعتقال",
@@ -1743,7 +1743,7 @@
   {
     "id": 1362,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Police",
     "arabic": "شرطة",
@@ -1772,7 +1772,7 @@
   {
     "id": 1363,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Witness",
     "arabic": "شاهد",
@@ -1801,7 +1801,7 @@
   {
     "id": 1364,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Trial lawyer",
     "arabic": "محامي الدفاع",
@@ -1830,7 +1830,7 @@
   {
     "id": 1365,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Civil law",
     "arabic": "القانون المدني",
@@ -1859,7 +1859,7 @@
   {
     "id": 1366,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Criminal law",
     "arabic": "القانون الجنائي",
@@ -1888,7 +1888,7 @@
   {
     "id": 1367,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Law enforcement",
     "arabic": "إنفاذ القانون",
@@ -1917,7 +1917,7 @@
   {
     "id": 1368,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Penalty",
     "arabic": "عقوبة",
@@ -1946,7 +1946,7 @@
   {
     "id": 1369,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Investigation",
     "arabic": "تحقيق",
@@ -1975,7 +1975,7 @@
   {
     "id": 1370,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Sentence",
     "arabic": "حكم",
@@ -2004,7 +2004,7 @@
 {
     "id": 1371,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Offense",
     "arabic": "جريمة",
@@ -2033,7 +2033,7 @@
   {
     "id": 1372,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Appeal",
     "arabic": "استئناف",
@@ -2062,7 +2062,7 @@
   {
     "id": 1373,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Prosecution",
     "arabic": "ملاحقة قضائية",
@@ -2091,7 +2091,7 @@
   {
     "id": 1374,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Defendant",
     "arabic": "مدعى عليه",
@@ -2120,7 +2120,7 @@
   {
     "id": 1375,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Law firm",
     "arabic": "شركة محاماة",
@@ -2149,7 +2149,7 @@
   {
     "id": 1376,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Jury",
     "arabic": "هيئة المحلفين",
@@ -2178,7 +2178,7 @@
   {
     "id": 1377,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Legislation",
     "arabic": "تشريع",
@@ -2207,7 +2207,7 @@
   {
     "id": 1378,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Regulation",
     "arabic": "تنظيم",
@@ -2236,7 +2236,7 @@
   {
     "id": 1379,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Rights",
     "arabic": "حقوق",
@@ -2265,7 +2265,7 @@
   {
     "id": 1380,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Law & Rules",
     "english": "Violation",
     "arabic": "انتهاك",
@@ -2295,7 +2295,7 @@
   {
     "id": 1381,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Economy",
     "arabic": "اقتصاد",
@@ -2324,7 +2324,7 @@
   {
     "id": 1382,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Business",
     "arabic": "عمل تجاري",
@@ -2353,7 +2353,7 @@
   {
     "id": 1383,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Job",
     "arabic": "وظيفة",
@@ -2382,7 +2382,7 @@
   {
     "id": 1384,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Company",
     "arabic": "شركة",
@@ -2411,7 +2411,7 @@
   {
     "id": 1385,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Employee",
     "arabic": "موظف",
@@ -2440,7 +2440,7 @@
   {
     "id": 1386,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Employer",
     "arabic": "صاحب العمل",
@@ -2469,7 +2469,7 @@
   {
     "id": 1387,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Salary",
     "arabic": "راتب",
@@ -2498,7 +2498,7 @@
   {
     "id": 1388,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Wage",
     "arabic": "أجر",
@@ -2527,7 +2527,7 @@
   {
     "id": 1389,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Job market",
     "arabic": "سوق العمل",
@@ -2556,7 +2556,7 @@
 {
     "id": 1390,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Promotion",
     "arabic": "ترقية",
@@ -2585,7 +2585,7 @@
   {
     "id": 1391,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Unemployment",
     "arabic": "بطالة",
@@ -2614,7 +2614,7 @@
   {
     "id": 1392,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Recruitment",
     "arabic": "توظيف",
@@ -2643,7 +2643,7 @@
   {
     "id": 1393,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Workplace",
     "arabic": "مكان العمل",
@@ -2672,7 +2672,7 @@
   {
     "id": 1394,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Internship",
     "arabic": "تدريب",
@@ -2701,7 +2701,7 @@
   {
     "id": 1395,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Part-time job",
     "arabic": "وظيفة جزئية",
@@ -2730,7 +2730,7 @@
   {
     "id": 1396,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Full-time job",
     "arabic": "وظيفة بدوام كامل",
@@ -2759,7 +2759,7 @@
 {
     "id": 1397,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Career",
     "arabic": "مهنة",
@@ -2788,7 +2788,7 @@
   {
     "id": 1398,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Freelance",
     "arabic": "عمل حر",
@@ -2817,7 +2817,7 @@
   {
     "id": 1399,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Work schedule",
     "arabic": "جدول العمل",
@@ -2846,7 +2846,7 @@
   {
     "id": 1400,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Economy & Jobs",
     "english": "Employment",
     "arabic": "توظيف",
@@ -2876,7 +2876,7 @@
   {
     "id": 1401,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Hobby",
     "arabic": "هواية",
@@ -2905,7 +2905,7 @@
   {
     "id": 1402,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Sport",
     "arabic": "رياضة",
@@ -2934,7 +2934,7 @@
   {
     "id": 1403,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Team",
     "arabic": "فريق",
@@ -2963,7 +2963,7 @@
   {
     "id": 1404,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Player",
     "arabic": "لاعب",
@@ -2992,7 +2992,7 @@
   {
     "id": 1405,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Coach",
     "arabic": "مدرب",
@@ -3021,7 +3021,7 @@
   {
     "id": 1406,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Competition",
     "arabic": "مسابقة",
@@ -3050,7 +3050,7 @@
   {
     "id": 1407,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Exercise",
     "arabic": "تمرين",
@@ -3079,7 +3079,7 @@
   {
     "id": 1408,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Team sport",
     "arabic": "رياضة جماعية",
@@ -3108,7 +3108,7 @@
 {
     "id": 1409,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Individual sport",
     "arabic": "رياضة فردية",
@@ -3137,7 +3137,7 @@
   {
     "id": 1410,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Athlete",
     "arabic": "رياضي",
@@ -3166,7 +3166,7 @@
   {
     "id": 1411,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Fitness",
     "arabic": "لياقة بدنية",
@@ -3195,7 +3195,7 @@
   {
     "id": 1412,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Workout",
     "arabic": "تمرين",
@@ -3224,7 +3224,7 @@
   {
     "id": 1413,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Equipment",
     "arabic": "معدات",
@@ -3253,7 +3253,7 @@
 {
     "id": 1414,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Gym",
     "arabic": "صالة رياضية",
@@ -3282,7 +3282,7 @@
   {
     "id": 1415,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Ball",
     "arabic": "كرة",
@@ -3311,7 +3311,7 @@
   {
     "id": 1416,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Tennis",
     "arabic": "تنس",
@@ -3340,7 +3340,7 @@
   {
     "id": 1417,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Football",
     "arabic": "كرة القدم",
@@ -3369,7 +3369,7 @@
   {
     "id": 1418,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Basketball",
     "arabic": "كرة السلة",
@@ -3398,7 +3398,7 @@
   {
     "id": 1419,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Swimming",
     "arabic": "سباحة",
@@ -3427,7 +3427,7 @@
   {
     "id": 1420,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Cycling",
     "arabic": "ركوب الدراجة",
@@ -3456,7 +3456,7 @@
 {
     "id": 1421,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Running",
     "arabic": "ركض",
@@ -3485,7 +3485,7 @@
   {
     "id": 1422,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Yoga",
     "arabic": "يوغا",
@@ -3514,7 +3514,7 @@
   {
     "id": 1423,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Hiking",
     "arabic": "تنزه",
@@ -3543,7 +3543,7 @@
   {
     "id": 1424,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Camping",
     "arabic": "التخييم",
@@ -3572,7 +3572,7 @@
   {
     "id": 1425,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Fishing",
     "arabic": "صيد السمك",
@@ -3601,7 +3601,7 @@
   {
     "id": 1426,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Reading",
     "arabic": "قراءة",
@@ -3630,7 +3630,7 @@
   {
     "id": 1427,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Writing",
     "arabic": "كتابة",
@@ -3659,7 +3659,7 @@
   {
     "id": 1428,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Painting",
     "arabic": "رسم",
@@ -3688,7 +3688,7 @@
   {
     "id": 1429,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Music",
     "arabic": "موسيقى",
@@ -3717,7 +3717,7 @@
   {
     "id": 1430,
     "type": "noun",
-    "level": "B1",
+    "level": "B1.2",
     "topic": "Hobbies & Sports",
     "english": "Dance",
     "arabic": "رقص",
